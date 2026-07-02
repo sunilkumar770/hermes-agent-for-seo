@@ -9,6 +9,7 @@ __pycache__/
 .env.development.local
 .env.test.local
 .env.production.local
+.env.vercel.prod.pulled
 
 # IDE settings
 .vscode/
@@ -25,3 +26,22 @@ seo/crawls/
 
 # Logs (keep reports but ignore raw logs if needed)
 *.log
+
+# Scratch and Cache
+scratch/
+*scratch/
+graphify-out/
+security_scans/
+.agents/
+.claude/
+.vercel/
+.tmp/
+gorentals-frontend/.tmp/
+gorentals-frontend/analytics/
+gorentals-frontend/perf_profiles/
+gorentals-frontend/test-results/
+gorentals-frontend/supabase_logs/
+supabase/.temp/
+workflow_state.db
+skills-lock.json
+brand-standard.json
