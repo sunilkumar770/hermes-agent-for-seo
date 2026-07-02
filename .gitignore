@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local settings
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

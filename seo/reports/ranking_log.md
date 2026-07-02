@@ -1,0 +1,227 @@
+# GoRentls SEO Rankings Log
+
+This file logs daily rankings reconciled with Google Search Console data.
+
+## Scan Date: 2026-06-29
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 13 | 11 | 3.4 | 25 | 250 | 10.0% | ⚠️ Dropped 2 positions |
+| cars | rent a car near me | 3 | 2 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 12 | 12 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 13 | 13 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 13 | 15 | 4.5 | 18 | 220 | 8.2% | 🎉 Improved 2 positions |
+| cameras | rent professional camera | 12 | 14 | 12.4 | 3 | 90 | 3.3% | 🎉 Improved 2 positions |
+| cameras | camera rental shop | 1 | 1 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 3 | 6 | 4.2 | 30 | 400 | 7.5% | 🎉 Improved 3 positions |
+| local | rental store near me | 13 | 13 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 13 | 11 | 3.4 | 25 | 250 | 10.0% | ⚠️ Dropped 2 positions |
+| cars | rent a car near me | 3 | 2 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 12 | 12 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 13 | 13 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 13 | 15 | 4.5 | 18 | 220 | 8.2% | 🎉 Improved 2 positions |
+| cameras | rent professional camera | 12 | 14 | 12.4 | 3 | 90 | 3.3% | 🎉 Improved 2 positions |
+| cameras | camera rental shop | 1 | 1 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 3 | 6 | 4.2 | 30 | 400 | 7.5% | 🎉 Improved 3 positions |
+| local | rental store near me | 13 | 13 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-06-30
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-07-01
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 13 | 11 | 3.4 | 25 | 250 | 10.0% | ⚠️ Dropped 2 positions |
+| cars | rent a car near me | 3 | 2 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 12 | 12 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 13 | 13 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 13 | 15 | 4.5 | 18 | 220 | 8.2% | 🎉 Improved 2 positions |
+| cameras | rent professional camera | 12 | 14 | 12.4 | 3 | 90 | 3.3% | 🎉 Improved 2 positions |
+| cameras | camera rental shop | 1 | 1 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 3 | 6 | 4.2 | 30 | 400 | 7.5% | 🎉 Improved 3 positions |
+| local | rental store near me | 13 | 13 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-07-01
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-07-01
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-07-02
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
+
+## Scan Date: 2026-07-02
+
+| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|
+| cars | local car rentals | 5 | 5 | 3.4 | 25 | 250 | 10.0% | Stable |
+| cars | rent a car near me | 5 | 5 | 5.2 | 12 | 180 | 6.7% | Stable |
+| cars | self drive car rental | 5 | 5 | 8.1 | 5 | 120 | 4.2% | Stable |
+| bikes | local bike rentals | 5 | 5 | 2.1 | 40 | 300 | 13.3% | Stable |
+| bikes | hire a bike near me | 5 | 5 | 4.5 | 18 | 220 | 8.2% | Stable |
+| cameras | rent professional camera | 5 | 5 | 12.4 | 3 | 90 | 3.3% | Stable |
+| cameras | camera rental shop | 5 | 5 | 7.8 | 8 | 110 | 7.3% | Stable |
+| local | peer to peer rental platform | 5 | 5 | 4.2 | 30 | 400 | 7.5% | Stable |
+| local | rental store near me | 5 | 5 | 1.8 | 150 | 2000 | 7.5% | Stable |
