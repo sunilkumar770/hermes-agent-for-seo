@@ -18,3 +18,10 @@ __pycache__/
 *.njsproj
 *.sln
 *.swp
+
+# Generated crawl data (do not version control)
+seo/competitors/
+seo/crawls/
+
+# Logs (keep reports but ignore raw logs if needed)
+*.log

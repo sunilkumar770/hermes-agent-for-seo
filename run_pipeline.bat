@@ -1,2 +1,5 @@
 @echo off
-"C:\Users\sunil\AppData\Local\Programs\Python\Python313\python.exe" "C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo\scripts\seo_pipeline.py"
+REM Run GoRentls SEO Pipeline using Python from PATH
+REM Usage: run_pipeline.bat
+cd /d "%~dp0"
+python seo\scripts\seo_pipeline.py
