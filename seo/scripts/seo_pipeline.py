@@ -4,7 +4,6 @@ GoRentls SEO Pipeline — Rank Scanner
 FIXES: Removes all simulated/fake data. Reports real positions only.
 Exit codes: 0 = success/stable, 2 = drops detected, 1 = error.
 """
-import os
 import sys
 import csv
 import json
@@ -12,6 +11,13 @@ import requests
 from datetime import datetime
 from pathlib import Path
 
+from config import CONFIG, log_debug
+
+TARGET_KEYWORDS_PATH = CONFIG["SEO_DIR"] / "target_keywords.md" if "SEO_DIR" in CONFIG else Path(__file__).resolve().parent.parent.parent / "seo" / "target_keywords.md"
+GSC_CSV_PATH = CONFIG["SEO_DIR"] / "data" / "gsc_queries.csv" if "SEO_DIR" in CONFIG else Path(__file__).resolve().parent.parent.parent / "seo" / "data" / "gsc_queries.csv"
+REPORT_PATH = CONFIG["SEO_DIR"] / "reports" / "ranking_log.md" if "SEO_DIR" in CONFIG else Path(__file__).resolve().parent.parent.parent / "seo" / "reports" / "ranking_log.md"
+
+# Re-derive paths properly
 SCRIPT_DIR = Path(__file__).resolve().parent
 WORKSPACE_DIR = SCRIPT_DIR.parent.parent
 SEO_DIR = WORKSPACE_DIR / "seo"
@@ -19,25 +25,10 @@ TARGET_KEYWORDS_PATH = SEO_DIR / "target_keywords.md"
 GSC_CSV_PATH = SEO_DIR / "data" / "gsc_queries.csv"
 REPORT_PATH = SEO_DIR / "reports" / "ranking_log.md"
 
-# Load .env
-for env_file in [SCRIPT_DIR / ".env", SEO_DIR / ".env", WORKSPACE_DIR / ".env"]:
-    if env_file.exists():
-        with open(env_file, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#") and "=" in line:
-                    key, val = line.split("=", 1)
-                    os.environ[key.strip()] = val.strip().strip('"').strip("'")
-
-SERPBEAR_BASE = os.environ.get("SERPBEAR_URL", os.environ.get("SERPBEAR_BASE", "http://localhost:3000"))
-SERPBEAR_API_KEY = os.environ.get("SERPBEAR_API_KEY", "")
-GORP_DOMAIN = os.environ.get("GORP_DOMAIN", "gorentls.com")
-RANK_DROP_THRESHOLD = int(os.environ.get("RANK_DROP_THRESHOLD", "2"))
-
-
-def log_debug(msg):
-    sys.stderr.write(f"[DEBUG] {msg}\n")
-    sys.stderr.flush()
+SERPBEAR_BASE = CONFIG["SERPBEAR_BASE"]
+SERPBEAR_API_KEY = CONFIG["SERPBEAR_API_KEY"]
+GORP_DOMAIN = CONFIG["GORP_DOMAIN"]
+RANK_DROP_THRESHOLD = CONFIG["RANK_DROP_THRESHOLD"]
 
 
 def parse_target_keywords():
@@ -84,6 +75,57 @@ def load_gsc_data():
                 "position": float(row.get("Position", row.get("position", 0.0)) or 0.0)
             }
     return gsc_data
+
+
+def fetch_gsc_api_data(target_keywords):
+    """Fetch live GSC data via Search Console API (service account)."""
+    service_account_path = CONFIG.get("GSC_SERVICE_ACCOUNT")
+    property_uri = CONFIG.get("GSC_PROPERTY", "sc-domain:gorentls.com")
+    
+    if not service_account_path or not Path(service_account_path).exists():
+        log_debug("GSC Service Account not configured. Skipping API fetch.")
+        return {}
+    
+    try:
+        from google.oauth2 import service_account
+        from googleapiclient.discovery import build
+        
+        credentials = service_account.Credentials.from_service_account_file(
+            service_account_path,
+            scopes=["https://www.googleapis.com/auth/webmasters.readonly"]
+        )
+        service = build("searchconsole", "v1", credentials=credentials)
+        
+        # Get last 28 days of data
+        from datetime import datetime, timedelta
+        end_date = datetime.now().date()
+        start_date = end_date - timedelta(days=28)
+        
+        request = {
+            "startDate": start_date.isoformat(),
+            "endDate": end_date.isoformat(),
+            "dimensions": ["query"],
+            "rowLimit": 1000
+        }
+        
+        response = service.searchanalytics().query(siteUrl=property_uri, body=request).execute()
+        
+        gsc_data = {}
+        for row in response.get("rows", []):
+            query = row["keys"][0].lower()
+            gsc_data[query] = {
+                "clicks": row.get("clicks", 0),
+                "impressions": row.get("impressions", 0),
+                "ctr": round(row.get("ctr", 0) * 100, 2),
+                "position": round(row.get("position", 0), 1)
+            }
+        
+        log_debug(f"Fetched {len(gsc_data)} queries from GSC API")
+        return gsc_data
+        
+    except Exception as e:
+        log_debug(f"GSC API fetch failed: {e}")
+        return {}
 
 
 def fetch_serpbear_rankings(target_keywords):
@@ -252,7 +294,12 @@ def reconcile_and_log():
         print(json.dumps({"status": "error", "error": "No target keywords found in target_keywords.md"}))
         sys.exit(1)
 
+    # Load CSV first, then try API to override/augment
     gsc_data = load_gsc_data()
+    gsc_api_data = fetch_gsc_api_data(targets.keys())
+    if gsc_api_data:
+        gsc_data.update(gsc_api_data)  # API data takes precedence
+    
     serp_rankings = fetch_serpbear_rankings(targets.keys())
 
     today_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -269,7 +316,6 @@ def reconcile_and_log():
         cluster = info["cluster"]
 
         if kw_key not in serp_rankings:
-            # Keyword not tracked in SerpBear
             report_lines.append(f"| {cluster} | {keyword} | — | — | — | — | — | — | ❌ Not tracked in SerpBear |")
             untracked_keywords.append(keyword)
             continue
