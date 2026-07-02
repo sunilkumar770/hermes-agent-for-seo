@@ -1,33 +1,27 @@
 #!/usr/bin/env python3
 """
-GoRentls Competitor Crawler — Crawl4AI + Playwright
+GoRentls Competitor Crawler — Crawl4AI + Playwright + SERP Discovery
 FIXES: Proper Crawl4AI config API, BeautifulSoup fallback, timeout, JSON I/O.
+NEW: Auto-discover competitors from SERP for dropped keywords.
 """
 import os
 import sys
 import json
 import asyncio
 import argparse
+import re
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
-import re
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-WORKSPACE_DIR = SCRIPT_DIR.parent.parent
-SEO_DIR = WORKSPACE_DIR / "seo"
+from config import CONFIG, log_debug
 
-# Load .env
-for env_file in [SCRIPT_DIR / ".env", SEO_DIR / ".env", WORKSPACE_DIR / ".env"]:
-    if env_file.exists():
-        with open(env_file, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#") and "=" in line:
-                    key, val = line.split("=", 1)
-                    os.environ[key.strip()] = val.strip().strip('"').strip("'")
+COMPETITORS_DIR = CONFIG["COMPETITORS_DIR"]
+SERPLY_API_KEY = CONFIG.get("SERPLY_API_KEY", "")
+SERPAPI_KEY = CONFIG.get("SERPAPI_KEY", "")
 
-COMPETITORS = {
+# Fallback hardcoded competitors (used when SERP discovery fails)
+FALLBACK_COMPETITORS = {
     "cars": ["https://www.zoomcar.com/hyderabad", "https://www.revv.co.in/car-rental/hyderabad"],
     "bikes": ["https://www.royalbrothers.com/hyderabad", "https://www.ontrack.in"],
     "cameras": ["https://www.rentoclick.com/hyderabad", "https://www.camrent.in"],
@@ -35,9 +29,86 @@ COMPETITORS = {
 }
 
 
-def log_debug(msg):
-    sys.stderr.write(f"[DEBUG] {msg}\n")
-    sys.stderr.flush()
+def discover_competitors_serply(keyword, num_results=5):
+    """Discover competitor URLs from SERP using Serply API."""
+    if not SERPLY_API_KEY:
+        return None
+    try:
+        import requests
+        headers = {
+            "X-API-KEY": SERPLY_API_KEY,
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "application/json"
+        }
+        params = {
+            "q": keyword,
+            "location": "Hyderabad, Telangana, India",
+            "gl": "in",
+            "hl": "en",
+            "num": num_results
+        }
+        resp = requests.get("https://api.serply.io/v1/search/", headers=headers, params=params, timeout=15)
+        if resp.status_code == 200:
+            data = resp.json()
+            urls = []
+            for result in data.get("results", []):
+                link = result.get("link", "")
+                if link and "gorentls.com" not in link:
+                    urls.append(link)
+            return urls[:num_results]
+    except Exception as e:
+        log_debug(f"Serply SERP discovery failed for '{keyword}': {e}")
+    return None
+
+
+def discover_competitors_serpapi(keyword, num_results=5):
+    """Discover competitor URLs from SERP using SerpApi."""
+    if not SERPAPI_KEY:
+        return None
+    try:
+        import requests
+        params = {
+            "engine": "google",
+            "q": keyword,
+            "location": "Hyderabad, Telangana, India",
+            "google_domain": "google.co.in",
+            "gl": "in",
+            "hl": "en",
+            "num": num_results,
+            "api_key": SERPAPI_KEY
+        }
+        resp = requests.get("https://serpapi.com/search", params=params, timeout=15)
+        if resp.status_code == 200:
+            data = resp.json()
+            urls = []
+            for result in data.get("organic_results", []):
+                link = result.get("link", "")
+                if link and "gorentls.com" not in link:
+                    urls.append(link)
+            return urls[:num_results]
+    except Exception as e:
+        log_debug(f"SerpApi SERP discovery failed for '{keyword}': {e}")
+    return None
+
+
+def discover_competitors(keyword, cluster, num_results=3):
+    """Try SERP discovery first, fall back to hardcoded competitors."""
+    # Try Serply first
+    urls = discover_competitors_serply(keyword, num_results)
+    if urls:
+        log_debug(f"Serply discovered {len(urls)} competitors for '{keyword}'")
+        return urls
+
+    # Try SerpApi
+    urls = discover_competitors_serpapi(keyword, num_results)
+    if urls:
+        log_debug(f"SerpApi discovered {len(urls)} competitors for '{keyword}'")
+        return urls
+
+    # Fallback to hardcoded
+    fallback = FALLBACK_COMPETITORS.get(cluster.lower(), FALLBACK_COMPETITORS["cars"])
+    log_debug(f"Using fallback competitors for '{keyword}' (cluster: {cluster})")
+    return fallback[:num_results]
 
 
 async def crawl_url_crawl4ai(url):
@@ -169,6 +240,19 @@ async def crawl_url_fallback(url):
     return {"markdown": "\n".join(body_content), "title": title}
 
 
+async def send_alert(message, webhook_url=None):
+    """Send alert via webhook (Slack, Teams, Discord, generic)."""
+    if not webhook_url:
+        webhook_url = CONFIG.get("ALERT_WEBHOOK", "")
+    if not webhook_url:
+        return
+    try:
+        import requests
+        requests.post(webhook_url, json={"text": message}, timeout=10)
+    except Exception as e:
+        log_debug(f"Alert webhook failed: {e}")
+
+
 async def main():
     drops_json = None
     if len(sys.argv) > 1 and not sys.argv[1].startswith("-"):
@@ -184,7 +268,7 @@ async def main():
         parser.add_argument("--urls", help="Comma-separated competitor URLs")
         args = parser.parse_args()
         if args.keyword and args.cluster:
-            urls_list = [u.strip() for u in args.urls.split(",") if u.strip()] if args.urls else COMPETITORS.get(args.cluster.lower(), [])
+            urls_list = [u.strip() for u in args.urls.split(",") if u.strip()] if args.urls else discover_competitors(args.keyword, args.cluster)
             drops_data = [{"keyword": args.keyword, "cluster": args.cluster, "urls": urls_list}]
         else:
             print(json.dumps({"status": "skipped", "reason": "No drop data provided"}))
@@ -220,10 +304,10 @@ async def main():
     for drop in drops_data:
         kw = drop.get("keyword", "unknown")
         cluster = drop.get("cluster", "general")
-        urls = drop.get("urls") or COMPETITORS.get(cluster.lower(), ["https://www.zoomcar.com/hyderabad"])
+        urls = drop.get("urls") or discover_competitors(kw, cluster)
 
         clean_keyword = re.sub(r"[^a-zA-Z0-9_-]", "_", kw.lower().strip())
-        out_dir = SEO_DIR / "competitors" / cluster / clean_keyword / today
+        out_dir = COMPETITORS_DIR / cluster / clean_keyword / today
         out_dir.mkdir(parents=True, exist_ok=True)
 
         for url in urls:
@@ -272,6 +356,11 @@ async def main():
                 crawl_errors.append({"url": url, "error": str(e)})
                 with open(out_path, "w", encoding="utf-8") as f:
                     f.write(f"# Crawl Failed: {url}\n\nError: {e}\nTimestamp: {datetime.now().isoformat()}\n")
+
+    # Send alert if there were drops and we crawled
+    if crawl_results and CONFIG.get("ALERT_WEBHOOK"):
+        msg = f"🔍 GoRentls SEO: Crawled {len(crawl_results)} competitor pages for {len(drops_data)} dropped keyword(s)."
+        await send_alert(msg)
 
     output = {
         "status": "success" if crawled_urls else "error",

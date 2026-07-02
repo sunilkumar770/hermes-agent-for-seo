@@ -1,0 +1,23 @@
+{
+  "title_tag_patterns": {
+    "best_patterns": [
+      {
+        "pattern": "Rent {item} in {city} | GoRentls",
+        "avg_ctr_lift": 0.0
+      },
+      {
+        "pattern": "Best {item} Rental {city} - GoRentls",
+        "avg_ctr_lift": 0.0
+      }
+    ]
+  },
+  "content_length_optimal": 350,
+  "keyword_density_target": 1.5,
+  "schema_types_that_help": {
+    "types": [
+      "Product",
+      "LocalBusiness"
+    ]
+  },
+  "city_pages_performance": {}
+}

@@ -281,3 +281,17 @@ This file logs daily rankings reconciled with Google Search Console data.
 | cameras | camera rental shop | 0 | 0 | 7.8 | 8 | 110 | 7.3% | ❌ Scraper failed (position=0) |
 | local | peer to peer rental platform | 0 | 0 | 4.2 | 30 | 400 | 7.5% | ❌ Scraper failed (position=0) |
 | local | rental store near me | 0 | 0 | 1.8 | 150 | 2000 | 7.5% | ❌ Scraper failed (position=0) |
+
+---
+
+## Competitor Crawl Summary: 2026-07-02 21:46:09
+
+**Keyword:** local car rentals (Cluster: cars) — ⚠️ Dropped from position 11 to 13 on 2026-06-29 and 2026-07-01
+
+| Competitor | URL | Status | Word Count | Crawled File |
+|------------|-----|--------|------------|--------------|
+| Savaari | https://www.savaari.com | ✅ Success | 28 words | seo/competitors/cars/local_car_rentals/2026-07-02/www.savaari.com.md |
+| Justdial | https://www.justdial.com | ✅ Success | 796 words | seo/competitors/cars/local_car_rentals/2026-07-02/www.justdial.com.md |
+| Sulekha | https://www.sulekha.com | ✅ Success | 844 words | seo/competitors/cars/local_car_rentals/2026-07-02/www.sulekha.com.md |
+
+**Summary:** 3/3 competitors successfully crawled for keyword "local car rentals" (cars cluster). Content saved for competitive analysis.

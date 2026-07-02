@@ -1,0 +1,25 @@
+# GoRentls — Rental Marketplace for Tech, Vehicles, & Gear
+
+GoRentls is a premium rental marketplace offering local self-drive car rentals, superbike rentals, professional DSLR cameras, lenses, projectors, laptops, and home furniture across major Indian metro cities.
+
+## Categories Available
+- **Vehicles:** Self-drive cars, superbikes, scooters
+- **Tech & Gear:** Professional cameras, projectors, laptops, sound systems
+- **Lifestyle:** Furniture, home appliances
+
+## Serviceable Cities
+- Hyderabad
+- Bangalore
+- Mumbai
+- Chennai
+- Delhi
+- Pune
+
+## Key Site Map & Entry Points
+- Home: https://gorentls.com/
+- Browse Rentals: https://gorentls.com/rentals
+- About Us: https://gorentls.com/about
+- Developer & API details: https://gorentls.com/api/docs
+
+---
+Generated: 2026-07-02T22:50:15.455342

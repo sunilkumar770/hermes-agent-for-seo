@@ -1,0 +1,67 @@
+[
+  {
+    "target": "/rent-car-in-hyderabad",
+    "keyword": "car rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225015_427154",
+    "started_at": "2026-07-02T22:50:15.427218",
+    "status": "running"
+  },
+  {
+    "target": "/rent-car-in-bangalore",
+    "keyword": "car rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225015_434387",
+    "started_at": "2026-07-02T22:50:15.434417",
+    "status": "running"
+  },
+  {
+    "target": "/rent-car-in-mumbai",
+    "keyword": "car rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225015_439035",
+    "started_at": "2026-07-02T22:50:15.439095",
+    "status": "running"
+  },
+  {
+    "target": "/rent-car-in-chennai",
+    "keyword": "car rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225015_443643",
+    "started_at": "2026-07-02T22:50:15.443672",
+    "status": "running"
+  },
+  {
+    "target": "/rent-car-in-delhi",
+    "keyword": "car rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225015_451034",
+    "started_at": "2026-07-02T22:50:15.451065",
+    "status": "running"
+  }
+]
