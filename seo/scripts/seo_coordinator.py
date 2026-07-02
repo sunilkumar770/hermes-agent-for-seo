@@ -71,14 +71,19 @@ def _run_subprocess_json(script_path: Path, args: list = None, stdin_data: str =
         if not stdout:
             return {"status": "error", "error": "Empty stdout"}, res.returncode
 
-        # Attempt to parse last line as JSON
-        last_line = stdout.splitlines()[-1]
-        try:
-            parsed = json.loads(last_line)
-            return parsed, res.returncode
-        except json.JSONDecodeError:
-            log_to_coordinator(f"Failed to parse last line of {script_path.name} output as JSON. Output:\n{stdout}")
-            return {"status": "error", "error": "JSON parse error", "raw_stdout": stdout}, res.returncode
+        # Attempt to parse JSON block from stdout
+        if "{" in stdout and "}" in stdout:
+            try:
+                start = stdout.find("{")
+                end = stdout.rfind("}") + 1
+                parsed = json.loads(stdout[start:end])
+                return parsed, res.returncode
+            except json.JSONDecodeError as e:
+                log_to_coordinator(f"Failed to parse JSON block from {script_path.name}. Error: {e}. Output:\n{stdout}")
+                return {"status": "error", "error": "JSON parse error", "raw_stdout": stdout}, res.returncode
+        else:
+            log_to_coordinator(f"No JSON block found in {script_path.name} output. Output:\n{stdout}")
+            return {"status": "error", "error": "No JSON block found", "raw_stdout": stdout}, res.returncode
 
     except subprocess.TimeoutExpired:
         log_to_coordinator(f"Script {script_path.name} timed out after {timeout} seconds.")

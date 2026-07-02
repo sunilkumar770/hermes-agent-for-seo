@@ -1,5 +1,5 @@
 # Weekly SEO Optimizations & Playbook — GoRentls
-*Generated: 2026-07-02 22:50:15 | Orchestrated Multi-Agent SEO Pipeline*
+*Generated: 2026-07-02 22:54:05 | Orchestrated Multi-Agent SEO Pipeline*
 
 ---
 
@@ -22,7 +22,10 @@
 ---
 
 ## 🧠 Self-Improving Strategy & AI Insights
-No strategy updates yet.
+### Proven High-CTR Title Patterns:
+1. `Rent {item} in {city} | GoRentls` (Estimated CTR Lift: +0.0%)
+2. `Best {item} Rental {city} - GoRentls` (Estimated CTR Lift: +0.0%)
+
 
 ---
 

@@ -63,5 +63,70 @@
     "id": "exp_20260702_225015_451034",
     "started_at": "2026-07-02T22:50:15.451065",
     "status": "running"
+  },
+  {
+    "target": "/rent-car-in-pune",
+    "keyword": "car rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Car in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225405_242727",
+    "started_at": "2026-07-02T22:54:05.242762",
+    "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-hyderabad",
+    "keyword": "bike rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225405_249176",
+    "started_at": "2026-07-02T22:54:05.249194",
+    "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-bangalore",
+    "keyword": "bike rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225405_255103",
+    "started_at": "2026-07-02T22:54:05.255131",
+    "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-mumbai",
+    "keyword": "bike rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225405_260028",
+    "started_at": "2026-07-02T22:54:05.260054",
+    "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-chennai",
+    "keyword": "bike rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_225405_264674",
+    "started_at": "2026-07-02T22:54:05.264698",
+    "status": "running"
   }
 ]
