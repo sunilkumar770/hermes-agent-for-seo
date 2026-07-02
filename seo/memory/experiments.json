@@ -128,5 +128,70 @@
     "id": "exp_20260702_225405_264674",
     "started_at": "2026-07-02T22:54:05.264698",
     "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-delhi",
+    "keyword": "bike rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_230018_923996",
+    "started_at": "2026-07-02T23:00:18.924033",
+    "status": "running"
+  },
+  {
+    "target": "/rent-bike-in-pune",
+    "keyword": "bike rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Bike in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_230018_928465",
+    "started_at": "2026-07-02T23:00:18.928483",
+    "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-hyderabad",
+    "keyword": "camera rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_230018_934013",
+    "started_at": "2026-07-02T23:00:18.934039",
+    "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-bangalore",
+    "keyword": "camera rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_230018_938675",
+    "started_at": "2026-07-02T23:00:18.938703",
+    "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-mumbai",
+    "keyword": "camera rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260702_230018_943300",
+    "started_at": "2026-07-02T23:00:18.943319",
+    "status": "running"
   }
 ]
