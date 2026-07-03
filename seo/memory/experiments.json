@@ -193,5 +193,70 @@
     "id": "exp_20260702_230018_943300",
     "started_at": "2026-07-02T23:00:18.943319",
     "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-chennai",
+    "keyword": "camera rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260703_133452_463195",
+    "started_at": "2026-07-03T13:34:52.463252",
+    "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-delhi",
+    "keyword": "camera rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260703_133452_470791",
+    "started_at": "2026-07-03T13:34:52.470824",
+    "status": "running"
+  },
+  {
+    "target": "/rent-camera-in-pune",
+    "keyword": "camera rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Camera in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260703_133452_478567",
+    "started_at": "2026-07-03T13:34:52.478598",
+    "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-hyderabad",
+    "keyword": "projector rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260703_133452_485087",
+    "started_at": "2026-07-03T13:34:52.485122",
+    "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-bangalore",
+    "keyword": "projector rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260703_133452_492265",
+    "started_at": "2026-07-03T13:34:52.492298",
+    "status": "running"
   }
 ]
