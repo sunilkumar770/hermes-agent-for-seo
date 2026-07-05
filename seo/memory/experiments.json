@@ -323,5 +323,70 @@
     "id": "exp_20260705_163810_157432",
     "started_at": "2026-07-05T16:38:10.157465",
     "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-bangalore",
+    "keyword": "laptop rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_170758_544402",
+    "started_at": "2026-07-05T17:07:58.544484",
+    "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-mumbai",
+    "keyword": "laptop rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_170758_557213",
+    "started_at": "2026-07-05T17:07:58.557245",
+    "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-chennai",
+    "keyword": "laptop rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_170758_563074",
+    "started_at": "2026-07-05T17:07:58.563106",
+    "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-delhi",
+    "keyword": "laptop rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_170758_570731",
+    "started_at": "2026-07-05T17:07:58.570768",
+    "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-pune",
+    "keyword": "laptop rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_170758_576272",
+    "started_at": "2026-07-05T17:07:58.576302",
+    "status": "running"
   }
 ]

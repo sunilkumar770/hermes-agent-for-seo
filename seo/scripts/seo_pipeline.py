@@ -134,16 +134,13 @@ def fetch_serpbear_rankings(target_keywords):
     FIX: No more simulated/fake data. If SerpBear is unavailable, returns empty dict
     and keywords are reported as 'not tracked'.
     FIX: No more position=0 -> 5 fallback. Position 0 means scraper hasn't run.
+    ENHANCEMENT: Falls back gracefully to GSC data when SerpBear unavailable.
     """
     rankings = {}
 
     if not SERPBEAR_API_KEY:
-        log_debug("ERROR: SERPBEAR_API_KEY not set. Cannot fetch real rankings.")
-        print(json.dumps({
-            "status": "error",
-            "error": "SERPBEAR_API_KEY not set. Configure in .env file."
-        }))
-        sys.exit(1)
+        log_debug("WARNING: SERPBEAR_API_KEY not set. Will use GSC positions as fallback.")
+        return {}  # Return empty, caller will use GSC fallback
 
     headers = {"Authorization": f"Bearer {SERPBEAR_API_KEY}"}
 
@@ -167,12 +164,8 @@ def fetch_serpbear_rankings(target_keywords):
                 break
 
         if not gorentls_domain:
-            log_debug(f"ERROR: Domain '{GORP_DOMAIN}' not found in SerpBear.")
-            print(json.dumps({
-                "status": "error",
-                "error": f"Domain '{GORP_DOMAIN}' not registered in SerpBear."
-            }))
-            sys.exit(1)
+            log_debug(f"WARNING: Domain '{GORP_DOMAIN}' not found in SerpBear. Will use GSC fallback.")
+            return {}
 
         actual_domain = gorentls_domain.get("domain", GORP_DOMAIN)
         log_debug(f"Resolved domain to: {actual_domain}")
@@ -192,13 +185,8 @@ def fetch_serpbear_rankings(target_keywords):
             keywords_list = keywords_data
 
         if not keywords_list:
-            log_debug("ERROR: No keywords found in SerpBear for this domain.")
-            log_debug("Run insert_target_keywords.py to sync target keywords to SerpBear DB.")
-            print(json.dumps({
-                "status": "error",
-                "error": "No keywords found in SerpBear. Run insert_target_keywords.py first."
-            }))
-            sys.exit(1)
+            log_debug("WARNING: No keywords found in SerpBear for this domain. Will use GSC fallback.")
+            return {}
 
         # Step 3: Fetch each keyword's details (position + history)
         scraper_failures = 0
@@ -271,19 +259,17 @@ def fetch_serpbear_rankings(target_keywords):
         return rankings
 
     except requests.exceptions.ConnectionError:
-        log_debug(f"ERROR: Cannot connect to SerpBear at {SERPBEAR_BASE}.")
-        print(json.dumps({
-            "status": "error",
-            "error": f"Cannot connect to SerpBear at {SERPBEAR_BASE}. Is it running?"
-        }))
-        sys.exit(1)
+        log_debug(f"WARNING: Cannot connect to SerpBear at {SERPBEAR_BASE}. Will use GSC positions as fallback.")
+        return {}
+    except requests.exceptions.HTTPError as e:
+        if e.response.status_code == 401:
+            log_debug(f"WARNING: SerpBear API key invalid (401). Will use GSC positions as fallback.")
+        else:
+            log_debug(f"WARNING: SerpBear HTTP error {e.response.status_code}. Will use GSC positions as fallback.")
+        return {}
     except Exception as e:
-        log_debug(f"ERROR: SerpBear API failure: {e}")
-        print(json.dumps({
-            "status": "error",
-            "error": f"SerpBear API error: {e}"
-        }))
-        sys.exit(1)
+        log_debug(f"WARNING: SerpBear API failure: {e}. Will use GSC positions as fallback.")
+        return {}
 
 
 def reconcile_and_log():
@@ -299,14 +285,21 @@ def reconcile_and_log():
     gsc_api_data = fetch_gsc_api_data(targets.keys())
     if gsc_api_data:
         gsc_data.update(gsc_api_data)  # API data takes precedence
-    
+
     serp_rankings = fetch_serpbear_rankings(targets.keys())
+    serp_available = len(serp_rankings) > 0
 
     today_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     report_lines = []
     report_lines.append(f"\n## Scan Date: {today_str}\n")
-    report_lines.append("| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |")
-    report_lines.append("|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|")
+   
+    # Dynamic column header based on data source
+    if serp_available:
+        report_lines.append("| Cluster | Keyword | SerpBear Pos | Prev Pos | GSC Avg Pos | Clicks | Impressions | CTR | Note |")
+        report_lines.append("|---------|---------|--------------|----------|-------------|--------|-------------|-----|------|")
+    else:
+        report_lines.append("| Cluster | Keyword | GSC Avg Pos | Prev GSC Pos | Clicks | Impressions | CTR | Note |")
+        report_lines.append("|---------|---------|-------------|--------------|--------|-------------|-----|------|")
 
     notable_drops = []
     untracked_keywords = []
@@ -315,42 +308,64 @@ def reconcile_and_log():
         keyword = info["keyword"]
         cluster = info["cluster"]
 
-        if kw_key not in serp_rankings:
-            report_lines.append(f"| {cluster} | {keyword} | — | — | — | — | — | — | ❌ Not tracked in SerpBear |")
-            untracked_keywords.append(keyword)
-            continue
-
-        serp = serp_rankings[kw_key]
-        pos = serp["position"]
-        prev_pos = serp["last_position"]
-
         gsc = gsc_data.get(kw_key, {"clicks": 0, "impressions": 0, "ctr": 0.0, "position": 0.0})
         clicks = gsc["clicks"]
         impr = gsc["impressions"]
         ctr = gsc["ctr"]
         gsc_pos = gsc["position"]
 
-        note = "Stable"
-        if pos == 0:
-            note = "❌ Scraper failed (position=0)"
-        else:
-            pos_change = pos - prev_pos
-            if pos_change >= RANK_DROP_THRESHOLD:
-                note = f"⚠️ Dropped {pos_change} positions"
-                notable_drops.append({
-                    "keyword": keyword,
-                    "cluster": cluster,
-                    "url": info.get("url", ""),
-                    "previous_position": prev_pos,
-                    "current_position": pos,
-                    "drop_amount": pos_change
-                })
-            elif pos_change <= -2:
-                note = f"🎉 Improved {abs(pos_change)} positions"
-            elif ctr > 0 and ctr < 3.0 and pos <= 5:
-                note = "⚠️ Low CTR for Top 5 rank"
+        if serp_available and kw_key in serp_rankings:
+            serp = serp_rankings[kw_key]
+            pos = serp["position"]
+            prev_pos = serp["last_position"]
 
-        report_lines.append(f"| {cluster} | {keyword} | {pos} | {prev_pos} | {gsc_pos:.1f} | {clicks} | {impr} | {ctr:.1f}% | {note} |")
+            if pos > 0:
+                # SerpBear has valid position - use it
+                source = "SerpBear"
+                report_pos = pos
+                report_prev = prev_pos
+                note = "Stable"
+                pos_change = pos - prev_pos
+                if pos_change >= RANK_DROP_THRESHOLD:
+                    note = f"⚠️ Dropped {pos_change} positions"
+                    notable_drops.append({
+                        "keyword": keyword,
+                        "cluster": cluster,
+                        "url": info.get("url", ""),
+                        "previous_position": prev_pos,
+                        "current_position": pos,
+                        "drop_amount": pos_change
+                    })
+                elif pos_change <= -2:
+                    note = f"🎉 Improved {abs(pos_change)} positions"
+                elif ctr > 0 and ctr < 3.0 and pos <= 5:
+                    note = "⚠️ Low CTR for Top 5 rank"
+            else:
+                # SerpBear position is 0 - fall back to GSC
+                log_debug(f"SerpBear position=0 for '{keyword}', using GSC position {gsc_pos:.1f} as fallback")
+                source = "GSC (fallback)"
+                report_pos = f"{gsc_pos:.1f}*"
+                report_prev = "—"
+                note = "Using GSC position (SerpBear scraper not configured)"
+                # Track drops based on GSC position changes if we have history
+                # For now just report as stable since we don't have GSC history
+        else:
+            # No SerpBear data - use GSC position
+            if gsc_pos > 0:
+                source = "GSC"
+                report_pos = f"{gsc_pos:.1f}"
+                report_prev = "—"
+                note = "Using GSC average position (SerpBear unavailable)"
+            else:
+                report_pos = "—"
+                report_prev = "—"
+                note = "❌ No ranking data available"
+                untracked_keywords.append(keyword)
+
+        if serp_available:
+            report_lines.append(f"| {cluster} | {keyword} | {report_pos} | {report_prev} | {gsc_pos:.1f} | {clicks} | {impr} | {ctr:.1f}% | {note} |")
+        else:
+            report_lines.append(f"| {cluster} | {keyword} | {report_pos} | {report_prev} | {clicks} | {impr} | {ctr:.1f}% | {note} |")
 
     # Write report
     report_content = "\n".join(report_lines) + "\n"
