@@ -238,11 +238,22 @@ def push_to_git():
         log_to_coordinator("Git changes detected. Committing and pushing to GitHub...")
         subprocess.run(["git", "add", "seo/"], cwd=str(WORKSPACE_DIR))
         subprocess.run(["git", "commit", "-m", "chore(seo): auto-update daily rankings and crawl data"], cwd=str(WORKSPACE_DIR))
-        push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, cwd=str(WORKSPACE_DIR))
-        if push_res.returncode == 0:
-            log_to_coordinator("Successfully pushed changes to GitHub!")
-        else:
-            log_to_coordinator(f"Git push failed: {push_res.stderr.strip()}")
+        
+        # Retry push up to 3 times with exponential backoff
+        import time
+        for attempt in range(3):
+            push_res = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, cwd=str(WORKSPACE_DIR))
+            if push_res.returncode == 0:
+                log_to_coordinator("Successfully pushed changes to GitHub!")
+                return
+            else:
+                log_to_coordinator(f"Git push attempt {attempt+1}/3 failed: {push_res.stderr.strip()}")
+                if attempt < 2:
+                    wait_time = 5 * (attempt + 1)
+                    log_to_coordinator(f"Retrying in {wait_time} seconds...")
+                    time.sleep(wait_time)
+        
+        log_to_coordinator("ERROR: Git push failed after 3 attempts. Changes committed locally but not pushed.")
     else:
         log_to_coordinator("No changes in seo/ directory to push.")
 
