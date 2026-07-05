@@ -258,5 +258,70 @@
     "id": "exp_20260703_133452_492265",
     "started_at": "2026-07-03T13:34:52.492298",
     "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-mumbai",
+    "keyword": "projector rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_163810_125960",
+    "started_at": "2026-07-05T16:38:10.126023",
+    "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-chennai",
+    "keyword": "projector rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_163810_133350",
+    "started_at": "2026-07-05T16:38:10.133381",
+    "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-delhi",
+    "keyword": "projector rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_163810_140724",
+    "started_at": "2026-07-05T16:38:10.140757",
+    "status": "running"
+  },
+  {
+    "target": "/rent-projector-in-pune",
+    "keyword": "projector rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Projector in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_163810_148674",
+    "started_at": "2026-07-05T16:38:10.148712",
+    "status": "running"
+  },
+  {
+    "target": "/rent-laptop-in-hyderabad",
+    "keyword": "laptop rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Laptop in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260705_163810_157432",
+    "started_at": "2026-07-05T16:38:10.157465",
+    "status": "running"
   }
 ]
