@@ -388,5 +388,70 @@
     "id": "exp_20260705_170758_576272",
     "started_at": "2026-07-05T17:07:58.576302",
     "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-hyderabad",
+    "keyword": "furniture rental hyderabad",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Hyderabad | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260712_154952_967853",
+    "started_at": "2026-07-12T15:49:52.967889",
+    "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-bangalore",
+    "keyword": "furniture rental bangalore",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Bangalore | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260712_154952_971351",
+    "started_at": "2026-07-12T15:49:52.971372",
+    "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-mumbai",
+    "keyword": "furniture rental mumbai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Mumbai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260712_154952_974920",
+    "started_at": "2026-07-12T15:49:52.974941",
+    "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-chennai",
+    "keyword": "furniture rental chennai",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Chennai | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260712_154952_980446",
+    "started_at": "2026-07-12T15:49:52.980466",
+    "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-delhi",
+    "keyword": "furniture rental delhi",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Delhi | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260712_154952_983767",
+    "started_at": "2026-07-12T15:49:52.983786",
+    "status": "running"
   }
 ]
