@@ -453,5 +453,18 @@
     "id": "exp_20260712_154952_983767",
     "started_at": "2026-07-12T15:49:52.983786",
     "status": "running"
+  },
+  {
+    "target": "/rent-furniture-in-pune",
+    "keyword": "furniture rental pune",
+    "change_type": "new_pseo_page",
+    "title_pattern": "Rent Furniture in Pune | GoRentls",
+    "before_metrics": {
+      "position": 0.0,
+      "ctr": 0.0
+    },
+    "id": "exp_20260713_110244_755079",
+    "started_at": "2026-07-13T11:02:44.755115",
+    "status": "running"
   }
 ]
