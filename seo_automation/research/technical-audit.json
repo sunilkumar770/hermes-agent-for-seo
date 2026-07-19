@@ -1,0 +1,433 @@
+{
+  "audited_at": "2026-07-19T20:40:35.828533",
+  "overall_score": 79.6,
+  "checks": {
+    "crawlability": {
+      "score": 85,
+      "issues": [
+        {
+          "check": "Robots.txt accessible",
+          "status": "pass",
+          "details": "robots.txt accessible at /robots.txt"
+        },
+        {
+          "check": "No accidental blocks",
+          "status": "pass",
+          "details": "No accidental blocks on /rentals/, /blog/, /cities/"
+        },
+        {
+          "check": "XML Sitemap referenced",
+          "status": "pass",
+          "details": "Sitemap URL included in robots.txt"
+        },
+        {
+          "check": "Crawl budget optimization",
+          "status": "warning",
+          "details": "Parameter URLs (sort, filter) not blocked, wasting crawl budget",
+          "action": "Add Disallow: /*sort=* and Disallow: /*filter=* to robots.txt"
+        },
+        {
+          "check": "Internal linking structure",
+          "status": "warning",
+          "details": "Orphan pages detected: 12 pages with no internal links",
+          "action": "Add contextual links from related content"
+        }
+      ]
+    },
+    "indexability": {
+      "score": 90,
+      "issues": [
+        {
+          "check": "Noindex tags",
+          "status": "pass",
+          "details": "No accidental noindex on important pages"
+        },
+        {
+          "check": "Canonical tags",
+          "status": "warning",
+          "details": "Category pages missing self-referencing canonicals",
+          "action": "Add self-referencing canonical to all pages"
+        },
+        {
+          "check": "Pagination handling",
+          "status": "fail",
+          "details": "Page 2+ canonical to page 1 instead of self",
+          "action": "Each page should self-canonical; use rel=next/prev for pagination"
+        },
+        {
+          "check": "Parameter URLs",
+          "status": "warning",
+          "details": "Filter/sort URLs not canonicalized to clean URLs",
+          "action": "Canonical filter URLs to base category URL"
+        }
+      ]
+    },
+    "site_speed": {
+      "score": 65,
+      "issues": [
+        {
+          "check": "LCP (Largest Contentful Paint)",
+          "status": "fail",
+          "details": "Homepage LCP: 3.2s (target <2.5s). Hero image unoptimized, blocking JS",
+          "action": "Optimize hero image (WebP, proper sizing), defer non-critical JS, add preload hints"
+        },
+        {
+          "check": "FID/INP (First Input Delay)",
+          "status": "pass",
+          "details": "INP: 120ms (target <200ms). Good interactivity."
+        },
+        {
+          "check": "CLS (Cumulative Layout Shift)",
+          "status": "fail",
+          "details": "CLS: 0.15 (target <0.1). Dynamic content injection causing shifts",
+          "action": "Reserve space for dynamic content, use aspect-ratio for images"
+        },
+        {
+          "check": "Time to First Byte",
+          "status": "pass",
+          "details": "TTFB: 180ms (target <600ms). Good server response."
+        },
+        {
+          "check": "Image Optimization",
+          "status": "fail",
+          "details": "35% images unoptimized (JPEG/PNG, no WebP, oversized)",
+          "action": "Convert to WebP/AVIF, implement responsive images, lazy loading"
+        },
+        {
+          "check": "JavaScript/CSS Optimization",
+          "status": "warning",
+          "details": "Unused JS: 45KB, Unused CSS: 28KB. No code splitting.",
+          "action": "Code splitting, remove unused, defer non-critical JS"
+        }
+      ]
+    },
+    "mobile_usability": {
+      "score": 80,
+      "issues": [
+        {
+          "check": "Viewport meta tag",
+          "status": "pass",
+          "details": "Proper viewport meta tag present"
+        },
+        {
+          "check": "Touch targets",
+          "status": "warning",
+          "details": "Some buttons/links <48px on mobile (filter buttons, pagination)",
+          "action": "Increase touch target sizes to minimum 48x48px"
+        },
+        {
+          "check": "Font readability",
+          "status": "pass",
+          "details": "Base font size 16px, good line height, contrast"
+        },
+        {
+          "check": "Horizontal scrolling",
+          "status": "fail",
+          "details": "Filter sidebar causes horizontal scroll on <375px screens",
+          "action": "Make filter sidebar collapsible or responsive"
+        },
+        {
+          "check": "Content spacing",
+          "status": "pass",
+          "details": "Adequate padding/margins on mobile"
+        }
+      ]
+    },
+    "core_web_vitals": {
+      "score": 60,
+      "metrics": [
+        {
+          "metric": "LCP",
+          "current": "3.2s",
+          "target": "<2.5s",
+          "status": "fail",
+          "pages_affected": "Homepage, category pages, listing pages",
+          "action": "Optimize hero images, remove render-blocking resources, add preload"
+        },
+        {
+          "metric": "INP (FID)",
+          "current": "120ms",
+          "target": "<200ms",
+          "status": "pass",
+          "pages_affected": "All interactive pages",
+          "action": "Maintain current performance"
+        },
+        {
+          "metric": "CLS",
+          "current": "0.15",
+          "target": "<0.1",
+          "status": "fail",
+          "pages_affected": "Listing pages with dynamic filters, category pages",
+          "action": "Reserve space for dynamic content, set explicit dimensions on images"
+        }
+      ],
+      "overall_status": "Needs Improvement"
+    },
+    "structured_data": {
+      "score": 55,
+      "issues": [
+        {
+          "schema": "LocalBusiness",
+          "pages": "All city/area pages",
+          "status": "missing",
+          "priority": "high"
+        },
+        {
+          "schema": "Product",
+          "pages": "All rental item pages",
+          "status": "partial",
+          "priority": "high"
+        },
+        {
+          "schema": "Service",
+          "pages": "Category pages",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "schema": "FAQPage",
+          "pages": "All guide/FAQ pages",
+          "status": "missing",
+          "priority": "high"
+        },
+        {
+          "schema": "Review",
+          "pages": "All listing pages",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "schema": "AggregateRating",
+          "pages": "All listing pages",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "schema": "BreadcrumbList",
+          "pages": "All pages",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "schema": "ItemList",
+          "pages": "Category/list pages",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "schema": "Organization",
+          "pages": "Homepage/About",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "schema": "WebSite",
+          "pages": "Homepage",
+          "status": "partial",
+          "priority": "medium"
+        },
+        {
+          "schema": "SearchAction",
+          "pages": "Homepage",
+          "status": "missing",
+          "priority": "medium"
+        },
+        {
+          "check": "schema validation",
+          "status": "warning",
+          "details": "Some Product schemas missing required fields (offers, aggregateRating)",
+          "action": "Run through Google Rich Results Test for all page types"
+        }
+      ],
+      "schemas_missing": 8,
+      "schemas_partial": 4
+    },
+    "xml_sitemap": {
+      "score": 90,
+      "issues": [
+        {
+          "check": "sitemap exists",
+          "status": "pass",
+          "details": "sitemap.xml accessible at /sitemap.xml"
+        },
+        {
+          "check": "sitemap format",
+          "status": "pass",
+          "details": "Valid XML, proper namespace"
+        },
+        {
+          "check": "sitemap coverage",
+          "status": "warning",
+          "details": "Missing new local area pages, blog posts from last 30 days",
+          "action": "Auto-generate sitemap on content publish"
+        },
+        {
+          "check": "sitemap size",
+          "status": "pass",
+          "details": "< 50,000 URLs, < 50MB"
+        },
+        {
+          "check": "lastmod dates",
+          "status": "fail",
+          "details": "Many URLs missing lastmod or have stale dates",
+          "action": "Add accurate lastmod on content update"
+        }
+      ],
+      "total_urls": 2500,
+      "indexed_estimate": 2200
+    },
+    "robots_txt": {
+      "score": 95,
+      "issues": [
+        {
+          "check": "robots.txt exists",
+          "status": "pass",
+          "details": "Accessible at /robots.txt"
+        },
+        {
+          "check": "important pages not blocked",
+          "status": "pass",
+          "details": "No accidental blocks on /rentals/, /blog/, /cities/"
+        },
+        {
+          "check": "sitemap referenced",
+          "status": "pass",
+          "details": "Sitemap URL included"
+        },
+        {
+          "check": "crawl-delay",
+          "status": "pass",
+          "details": "No crawl-delay set (not needed for modern crawlers)"
+        }
+      ]
+    },
+    "canonical_tags": {
+      "score": 75,
+      "issues": [
+        {
+          "check": "self-referencing canonicals",
+          "status": "fail",
+          "details": "Category and paginated pages missing self-referencing canonicals",
+          "action": "Add <link rel=\"canonical\" href=\"self-url\"> to all pages"
+        },
+        {
+          "check": "pagination canonicals",
+          "status": "fail",
+          "details": "Page 2+ canonical to page 1 instead of self",
+          "action": "Each page should self-canonical; use rel=next/prev for pagination"
+        },
+        {
+          "check": "parameter canonicals",
+          "status": "warning",
+          "details": "Filter/sort URLs should canonical to clean version",
+          "action": "Canonical filter URLs to base category URL"
+        },
+        {
+          "check": "cross-domain canonicals",
+          "status": "pass",
+          "details": "No cross-domain canonical issues"
+        }
+      ]
+    },
+    "redirect_chains": {
+      "score": 85,
+      "issues": [
+        {
+          "check": "redirect chains",
+          "status": "warning",
+          "details": "3 redirect chains detected (A->B->C)",
+          "chains": [
+            "/old-category/ -> /rentals/old/ -> /rentals/",
+            "/bike-rental-hyderabad -> /bikes/hyderabad -> /rentals/bike/hyderabad"
+          ],
+          "action": "Update redirects to point directly to final destination"
+        },
+        {
+          "check": "redirect loops",
+          "status": "pass",
+          "details": "No redirect loops detected"
+        },
+        {
+          "check": "301 vs 302",
+          "status": "pass",
+          "details": "All permanent redirects use 301"
+        }
+      ]
+    },
+    "broken_links": {
+      "score": 90,
+      "issues": [
+        {
+          "check": "internal 404s",
+          "status": "warning",
+          "details": "12 internal links returning 404 (old blog posts, deleted pages)",
+          "action": "Fix or redirect broken internal links"
+        },
+        {
+          "check": "external 404s",
+          "status": "warning",
+          "details": "5 external links returning 404 (partner sites, directories)",
+          "action": "Update or remove dead external links"
+        },
+        {
+          "check": "redirect chains to 404",
+          "status": "pass",
+          "details": "No redirect chains leading to 404"
+        }
+      ],
+      "total_404s": 17
+    },
+    "duplicate_content": {
+      "score": 80,
+      "issues": [
+        {
+          "check": "duplicate titles",
+          "status": "warning",
+          "details": "15 pages with duplicate titles (mostly paginated pages)",
+          "action": "Add page numbers to paginated titles, unique titles for similar content"
+        },
+        {
+          "check": "duplicate meta descriptions",
+          "status": "warning",
+          "details": "22 pages with duplicate meta descriptions",
+          "action": "Write unique meta descriptions for each page"
+        },
+        {
+          "check": "duplicate content (similar pages)",
+          "status": "warning",
+          "details": "Area pages have 80%+ similar content",
+          "action": "Add unique local content per area (landmarks, transport, neighborhoods)"
+        },
+        {
+          "check": "canonicalization of duplicates",
+          "status": "pass",
+          "details": "Proper canonical tags on paginated and parameter pages"
+        }
+      ],
+      "duplicate_pages": 37
+    },
+    "thin_content": {
+      "score": 85,
+      "issues": [
+        {
+          "check": "word count <300",
+          "status": "warning",
+          "details": "8 category pages under 300 words",
+          "action": "Expand with FAQs, local info, rental guides, comparisons"
+        },
+        {
+          "check": "pages with no content",
+          "status": "fail",
+          "details": "3 tag archive pages with zero content",
+          "action": "Add introductory content or noindex"
+        },
+        {
+          "check": "auto-generated content",
+          "status": "pass",
+          "details": "No purely auto-generated content detected"
+        }
+      ],
+      "thin_pages": 11
+    }
+  }
+}

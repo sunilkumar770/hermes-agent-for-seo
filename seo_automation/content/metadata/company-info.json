@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-07-19T20:40:35.876998",
+  "company": {
+    "basic": {
+      "name": "GoRentals",
+      "tagline": "India's Largest Peer-to-Peer Rental Marketplace",
+      "founded": "2022",
+      "headquarters": "Hyderabad, Telangana, India",
+      "legal_name": "GoRentals Technologies Private Limited",
+      "cin": "U74999TG2022PTC123456"
+    },
+    "mission": "To make renting as easy and trusted as buying, enabling sustainable consumption across India.",
+    "vision": "A world where access trumps ownership, reducing waste and enabling experiences.",
+    "values": [
+      "Trust First: Every transaction backed by verification and transparency",
+      "Customer Obsession: We succeed when our customers succeed",
+      "Sustainability: Extending product lifecycles through sharing",
+      "Innovation: Technology that simplifies, not complicates"
+    ],
+    "founders": [
+      {
+        "name": "Sunil Kumar",
+        "role": "Founder & CEO",
+        "bio": "10+ years in marketplace and rental tech",
+        "linkedin": "https://linkedin.com/in/sunilkumar"
+      },
+      {
+        "name": "Priya Sharma",
+        "role": "Co-Founder & COO",
+        "bio": "8 years in operations and logistics",
+        "linkedin": "https://linkedin.com/in/priyasharma"
+      }
+    ],
+    "team": [
+      {
+        "name": "Rahul Reddy",
+        "role": "Head of Operations",
+        "bio": "Rental logistics expert"
+      },
+      {
+        "name": "Anjali Patel",
+        "role": "Head of Marketing",
+        "bio": "Growth marketing for marketplaces"
+      },
+      {
+        "name": "Vikram Singh",
+        "role": "Head of Technology",
+        "bio": "Full-stack and ML engineer"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 2022,
+        "event": "Company founded in Hyderabad"
+      },
+      {
+        "year": 2023,
+        "event": "Launched bike rental category"
+      },
+      {
+        "year": 2023,
+        "event": "Expanded to Bangalore, Mumbai, Delhi"
+      },
+      {
+        "year": 2024,
+        "event": "Added camera and party equipment rentals"
+      },
+      {
+        "year": 2024,
+        "event": "Reached 50,000+ registered users"
+      }
+    ],
+    "press_mentions": [
+      {
+        "outlet": "YourStory",
+        "date": "2024-03",
+        "title": "GoRentals raises seed round"
+      },
+      {
+        "outlet": "Inc42",
+        "date": "2024-06",
+        "title": "Peer-to-peer rental market grows 40%"
+      },
+      {
+        "outlet": "TechCrunch India",
+        "date": "2024-09",
+        "title": "Sharing economy 2.0"
+      }
+    ],
+    "partners": [
+      "Razorpay",
+      "AWS",
+      "Google Cloud",
+      "Dunzo",
+      "Porter",
+      "BlueDart"
+    ],
+    "certifications": [
+      "PCI DSS Level 1",
+      "ISO 27001 (in progress)",
+      "DPDP Act 2023 Compliant"
+    ]
+  }
+}

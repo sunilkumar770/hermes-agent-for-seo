@@ -1,0 +1,5608 @@
+{
+  "analyzed_at": "2026-07-19T20:40:35.761964",
+  "total_keywords": 50,
+  "analyzed_keywords": 50,
+  "features_tracked": [
+    "featured_snippet",
+    "people_also_ask",
+    "local_pack",
+    "knowledge_panel",
+    "image_pack",
+    "video_carousel",
+    "shopping_results"
+  ],
+  "analyses": [
+    {
+      "keyword": "car rentals hyderabad",
+      "analyzed_at": "2026-07-19T20:40:35.757140",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rentals hyderabad cost in Hyderabad?",
+            "Where can I find car rentals hyderabad near me?",
+            "What documents are needed for car rentals hyderabad?",
+            "Is car rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rentals hyderabad near me",
+          "cheap car rentals hyderabad",
+          "best car rentals hyderabad in hyderabad",
+          "car rentals hyderabad monthly",
+          "car rentals hyderabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rentals-hyderabad",
+            "title": "Car Rentals Hyderabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rentals-hyderabad",
+            "title": "Car Rentals Hyderabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rentals-hyderabad",
+            "title": "Car Rentals Hyderabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rentals-hyderabad",
+            "title": "Car Rentals Hyderabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rentals-hyderabad",
+            "title": "Car Rentals Hyderabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rentals hyderabad",
+      "analyzed_at": "2026-07-19T20:40:35.757286",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rentals hyderabad cost in Hyderabad?",
+            "Where can I find bike rentals hyderabad near me?",
+            "What documents are needed for bike rentals hyderabad?",
+            "Is bike rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rentals hyderabad near me",
+          "cheap bike rentals hyderabad",
+          "best bike rentals hyderabad in hyderabad",
+          "bike rentals hyderabad monthly",
+          "bike rentals hyderabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rentals-hyderabad",
+            "title": "Bike Rentals Hyderabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rentals-hyderabad",
+            "title": "Bike Rentals Hyderabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rentals-hyderabad",
+            "title": "Bike Rentals Hyderabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rentals-hyderabad",
+            "title": "Bike Rentals Hyderabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rentals-hyderabad",
+            "title": "Bike Rentals Hyderabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "gorentals",
+      "analyzed_at": "2026-07-19T20:40:35.757365",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does gorentals cost in Hyderabad?",
+            "Where can I find gorentals near me?",
+            "What documents are needed for gorentals?",
+            "Is gorentals available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": true,
+          "entity_type": "LocalBusiness"
+        },
+        "image_pack": {
+          "present": false,
+          "image_count": 0,
+          "top_sources": []
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "gorentals near me",
+          "cheap gorentals",
+          "best gorentals in hyderabad",
+          "gorentals monthly",
+          "gorentals with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/gorentals",
+            "title": "Gorentals in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/gorentals",
+            "title": "Gorentals in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/gorentals",
+            "title": "Gorentals in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/gorentals",
+            "title": "Gorentals in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/gorentals",
+            "title": "Gorentals in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 45,
+      "opportunity_score": 5.5
+    },
+    {
+      "keyword": "go rentals hyderabad",
+      "analyzed_at": "2026-07-19T20:40:35.757407",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does go rentals hyderabad cost in Hyderabad?",
+            "Where can I find go rentals hyderabad near me?",
+            "What documents are needed for go rentals hyderabad?",
+            "Is go rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": false,
+          "image_count": 0,
+          "top_sources": []
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "go rentals hyderabad near me",
+          "cheap go rentals hyderabad",
+          "best go rentals hyderabad in hyderabad",
+          "go rentals hyderabad monthly",
+          "go rentals hyderabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/go-rentals-hyderabad",
+            "title": "Go Rentals Hyderabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/go-rentals-hyderabad",
+            "title": "Go Rentals Hyderabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/go-rentals-hyderabad",
+            "title": "Go Rentals Hyderabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/go-rentals-hyderabad",
+            "title": "Go Rentals Hyderabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/go-rentals-hyderabad",
+            "title": "Go Rentals Hyderabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental hyderabad",
+      "analyzed_at": "2026-07-19T20:40:35.757443",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental hyderabad cost in Hyderabad?",
+            "Where can I find bike rental hyderabad near me?",
+            "What documents are needed for bike rental hyderabad?",
+            "Is bike rental hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental hyderabad near me",
+          "cheap bike rental hyderabad",
+          "best bike rental hyderabad in hyderabad",
+          "bike rental hyderabad monthly",
+          "bike rental hyderabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-hyderabad",
+            "title": "Bike Rental Hyderabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-hyderabad",
+            "title": "Bike Rental Hyderabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-hyderabad",
+            "title": "Bike Rental Hyderabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-hyderabad",
+            "title": "Bike Rental Hyderabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-hyderabad",
+            "title": "Bike Rental Hyderabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "go rentals",
+      "analyzed_at": "2026-07-19T20:40:35.757480",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does go rentals cost in Hyderabad?",
+            "Where can I find go rentals near me?",
+            "What documents are needed for go rentals?",
+            "Is go rentals available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": false,
+          "image_count": 0,
+          "top_sources": []
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "go rentals near me",
+          "cheap go rentals",
+          "best go rentals in hyderabad",
+          "go rentals monthly",
+          "go rentals with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/go-rentals",
+            "title": "Go Rentals in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/go-rentals",
+            "title": "Go Rentals in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/go-rentals",
+            "title": "Go Rentals in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/go-rentals",
+            "title": "Go Rentals in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/go-rentals",
+            "title": "Go Rentals in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 45,
+      "opportunity_score": 6.0
+    },
+    {
+      "keyword": "self drive cars hyderabad",
+      "analyzed_at": "2026-07-19T20:40:35.757510",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive self drive cars hyderabad available in Hyderabad?",
+            "What is the mileage limit for self drive cars hyderabad?",
+            "Do I need license for self drive cars hyderabad?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "self drive cars hyderabad hyderabad",
+          "self drive self drive cars hyderabad",
+          "self drive cars hyderabad price hyderabad",
+          "luxury self drive cars hyderabad hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/self-drive-cars-hyderabad",
+            "title": "Self Drive Cars Hyderabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/self-drive-cars-hyderabad",
+            "title": "Self Drive Cars Hyderabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/self-drive-cars-hyderabad",
+            "title": "Self Drive Cars Hyderabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/self-drive-cars-hyderabad",
+            "title": "Self Drive Cars Hyderabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/self-drive-cars-hyderabad",
+            "title": "Self Drive Cars Hyderabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "bike rental gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.757551",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental gachibowli cost in Hyderabad?",
+            "Where can I find bike rental gachibowli near me?",
+            "What documents are needed for bike rental gachibowli?",
+            "Is bike rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental gachibowli near me",
+          "cheap bike rental gachibowli",
+          "best bike rental gachibowli in hyderabad",
+          "bike rental gachibowli monthly",
+          "bike rental gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-gachibowli",
+            "title": "Bike Rental Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-gachibowli",
+            "title": "Bike Rental Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-gachibowli",
+            "title": "Bike Rental Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-gachibowli",
+            "title": "Bike Rental Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-gachibowli",
+            "title": "Bike Rental Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "car rental gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.757590",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental gachibowli cost in Hyderabad?",
+            "Where can I find car rental gachibowli near me?",
+            "What documents are needed for car rental gachibowli?",
+            "Is car rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental gachibowli near me",
+          "cheap car rental gachibowli",
+          "best car rental gachibowli in hyderabad",
+          "car rental gachibowli monthly",
+          "car rental gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-gachibowli",
+            "title": "Car Rental Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-gachibowli",
+            "title": "Car Rental Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-gachibowli",
+            "title": "Car Rental Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-gachibowli",
+            "title": "Car Rental Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-gachibowli",
+            "title": "Car Rental Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.757622",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental gachibowli cost in Hyderabad?",
+            "Where can I find camera rental gachibowli near me?",
+            "What documents are needed for camera rental gachibowli?",
+            "Is camera rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental gachibowli near me",
+          "cheap camera rental gachibowli",
+          "best camera rental gachibowli in hyderabad",
+          "camera rental gachibowli monthly",
+          "camera rental gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-gachibowli",
+            "title": "Camera Rental Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-gachibowli",
+            "title": "Camera Rental Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-gachibowli",
+            "title": "Camera Rental Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-gachibowli",
+            "title": "Camera Rental Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-gachibowli",
+            "title": "Camera Rental Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "wedding car gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.757655",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car gachibowli available in Hyderabad?",
+            "What is the mileage limit for wedding car gachibowli?",
+            "Do I need license for wedding car gachibowli?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car gachibowli hyderabad",
+          "self drive wedding car gachibowli",
+          "wedding car gachibowli price hyderabad",
+          "luxury wedding car gachibowli hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-gachibowli",
+            "title": "Wedding Car Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-gachibowli",
+            "title": "Wedding Car Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-gachibowli",
+            "title": "Wedding Car Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-gachibowli",
+            "title": "Wedding Car Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-gachibowli",
+            "title": "Wedding Car Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.757688",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental madhapur cost in Hyderabad?",
+            "Where can I find bike rental madhapur near me?",
+            "What documents are needed for bike rental madhapur?",
+            "Is bike rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental madhapur near me",
+          "cheap bike rental madhapur",
+          "best bike rental madhapur in hyderabad",
+          "bike rental madhapur monthly",
+          "bike rental madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-madhapur",
+            "title": "Bike Rental Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-madhapur",
+            "title": "Bike Rental Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-madhapur",
+            "title": "Bike Rental Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-madhapur",
+            "title": "Bike Rental Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-madhapur",
+            "title": "Bike Rental Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "car rental madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.758080",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental madhapur cost in Hyderabad?",
+            "Where can I find car rental madhapur near me?",
+            "What documents are needed for car rental madhapur?",
+            "Is car rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental madhapur near me",
+          "cheap car rental madhapur",
+          "best car rental madhapur in hyderabad",
+          "car rental madhapur monthly",
+          "car rental madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-madhapur",
+            "title": "Car Rental Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-madhapur",
+            "title": "Car Rental Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-madhapur",
+            "title": "Car Rental Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-madhapur",
+            "title": "Car Rental Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-madhapur",
+            "title": "Car Rental Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.758156",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental madhapur cost in Hyderabad?",
+            "Where can I find camera rental madhapur near me?",
+            "What documents are needed for camera rental madhapur?",
+            "Is camera rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental madhapur near me",
+          "cheap camera rental madhapur",
+          "best camera rental madhapur in hyderabad",
+          "camera rental madhapur monthly",
+          "camera rental madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-madhapur",
+            "title": "Camera Rental Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-madhapur",
+            "title": "Camera Rental Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-madhapur",
+            "title": "Camera Rental Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-madhapur",
+            "title": "Camera Rental Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-madhapur",
+            "title": "Camera Rental Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "wedding car madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.758210",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car madhapur available in Hyderabad?",
+            "What is the mileage limit for wedding car madhapur?",
+            "Do I need license for wedding car madhapur?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car madhapur hyderabad",
+          "self drive wedding car madhapur",
+          "wedding car madhapur price hyderabad",
+          "luxury wedding car madhapur hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-madhapur",
+            "title": "Wedding Car Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-madhapur",
+            "title": "Wedding Car Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-madhapur",
+            "title": "Wedding Car Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-madhapur",
+            "title": "Wedding Car Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-madhapur",
+            "title": "Wedding Car Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.758264",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental kukatpally cost in Hyderabad?",
+            "Where can I find bike rental kukatpally near me?",
+            "What documents are needed for bike rental kukatpally?",
+            "Is bike rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental kukatpally near me",
+          "cheap bike rental kukatpally",
+          "best bike rental kukatpally in hyderabad",
+          "bike rental kukatpally monthly",
+          "bike rental kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-kukatpally",
+            "title": "Bike Rental Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-kukatpally",
+            "title": "Bike Rental Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-kukatpally",
+            "title": "Bike Rental Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-kukatpally",
+            "title": "Bike Rental Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-kukatpally",
+            "title": "Bike Rental Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "car rental kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.758310",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental kukatpally cost in Hyderabad?",
+            "Where can I find car rental kukatpally near me?",
+            "What documents are needed for car rental kukatpally?",
+            "Is car rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental kukatpally near me",
+          "cheap car rental kukatpally",
+          "best car rental kukatpally in hyderabad",
+          "car rental kukatpally monthly",
+          "car rental kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-kukatpally",
+            "title": "Car Rental Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-kukatpally",
+            "title": "Car Rental Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-kukatpally",
+            "title": "Car Rental Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-kukatpally",
+            "title": "Car Rental Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-kukatpally",
+            "title": "Car Rental Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.758365",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental kukatpally cost in Hyderabad?",
+            "Where can I find camera rental kukatpally near me?",
+            "What documents are needed for camera rental kukatpally?",
+            "Is camera rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental kukatpally near me",
+          "cheap camera rental kukatpally",
+          "best camera rental kukatpally in hyderabad",
+          "camera rental kukatpally monthly",
+          "camera rental kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-kukatpally",
+            "title": "Camera Rental Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-kukatpally",
+            "title": "Camera Rental Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-kukatpally",
+            "title": "Camera Rental Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-kukatpally",
+            "title": "Camera Rental Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-kukatpally",
+            "title": "Camera Rental Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "wedding car kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.758416",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car kukatpally available in Hyderabad?",
+            "What is the mileage limit for wedding car kukatpally?",
+            "Do I need license for wedding car kukatpally?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car kukatpally hyderabad",
+          "self drive wedding car kukatpally",
+          "wedding car kukatpally price hyderabad",
+          "luxury wedding car kukatpally hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-kukatpally",
+            "title": "Wedding Car Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-kukatpally",
+            "title": "Wedding Car Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-kukatpally",
+            "title": "Wedding Car Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-kukatpally",
+            "title": "Wedding Car Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-kukatpally",
+            "title": "Wedding Car Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.758463",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental kondapur cost in Hyderabad?",
+            "Where can I find bike rental kondapur near me?",
+            "What documents are needed for bike rental kondapur?",
+            "Is bike rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental kondapur near me",
+          "cheap bike rental kondapur",
+          "best bike rental kondapur in hyderabad",
+          "bike rental kondapur monthly",
+          "bike rental kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-kondapur",
+            "title": "Bike Rental Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-kondapur",
+            "title": "Bike Rental Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-kondapur",
+            "title": "Bike Rental Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-kondapur",
+            "title": "Bike Rental Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-kondapur",
+            "title": "Bike Rental Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "car rental kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.758509",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental kondapur cost in Hyderabad?",
+            "Where can I find car rental kondapur near me?",
+            "What documents are needed for car rental kondapur?",
+            "Is car rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental kondapur near me",
+          "cheap car rental kondapur",
+          "best car rental kondapur in hyderabad",
+          "car rental kondapur monthly",
+          "car rental kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-kondapur",
+            "title": "Car Rental Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-kondapur",
+            "title": "Car Rental Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-kondapur",
+            "title": "Car Rental Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-kondapur",
+            "title": "Car Rental Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-kondapur",
+            "title": "Car Rental Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.758557",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental kondapur cost in Hyderabad?",
+            "Where can I find camera rental kondapur near me?",
+            "What documents are needed for camera rental kondapur?",
+            "Is camera rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental kondapur near me",
+          "cheap camera rental kondapur",
+          "best camera rental kondapur in hyderabad",
+          "camera rental kondapur monthly",
+          "camera rental kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-kondapur",
+            "title": "Camera Rental Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-kondapur",
+            "title": "Camera Rental Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-kondapur",
+            "title": "Camera Rental Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-kondapur",
+            "title": "Camera Rental Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-kondapur",
+            "title": "Camera Rental Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental miyapur",
+      "analyzed_at": "2026-07-19T20:40:35.758612",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental miyapur cost in Hyderabad?",
+            "Where can I find bike rental miyapur near me?",
+            "What documents are needed for bike rental miyapur?",
+            "Is bike rental miyapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental miyapur near me",
+          "cheap bike rental miyapur",
+          "best bike rental miyapur in hyderabad",
+          "bike rental miyapur monthly",
+          "bike rental miyapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-miyapur",
+            "title": "Bike Rental Miyapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-miyapur",
+            "title": "Bike Rental Miyapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-miyapur",
+            "title": "Bike Rental Miyapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-miyapur",
+            "title": "Bike Rental Miyapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-miyapur",
+            "title": "Bike Rental Miyapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental miyapur",
+      "analyzed_at": "2026-07-19T20:40:35.758662",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental miyapur cost in Hyderabad?",
+            "Where can I find camera rental miyapur near me?",
+            "What documents are needed for camera rental miyapur?",
+            "Is camera rental miyapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental miyapur near me",
+          "cheap camera rental miyapur",
+          "best camera rental miyapur in hyderabad",
+          "camera rental miyapur monthly",
+          "camera rental miyapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-miyapur",
+            "title": "Camera Rental Miyapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-miyapur",
+            "title": "Camera Rental Miyapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-miyapur",
+            "title": "Camera Rental Miyapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-miyapur",
+            "title": "Camera Rental Miyapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-miyapur",
+            "title": "Camera Rental Miyapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental dilsukhnagar",
+      "analyzed_at": "2026-07-19T20:40:35.758716",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental dilsukhnagar cost in Hyderabad?",
+            "Where can I find bike rental dilsukhnagar near me?",
+            "What documents are needed for bike rental dilsukhnagar?",
+            "Is bike rental dilsukhnagar available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental dilsukhnagar near me",
+          "cheap bike rental dilsukhnagar",
+          "best bike rental dilsukhnagar in hyderabad",
+          "bike rental dilsukhnagar monthly",
+          "bike rental dilsukhnagar with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-dilsukhnagar",
+            "title": "Bike Rental Dilsukhnagar in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-dilsukhnagar",
+            "title": "Bike Rental Dilsukhnagar in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-dilsukhnagar",
+            "title": "Bike Rental Dilsukhnagar in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-dilsukhnagar",
+            "title": "Bike Rental Dilsukhnagar in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-dilsukhnagar",
+            "title": "Bike Rental Dilsukhnagar in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental dilsukhnagar",
+      "analyzed_at": "2026-07-19T20:40:35.758766",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental dilsukhnagar cost in Hyderabad?",
+            "Where can I find camera rental dilsukhnagar near me?",
+            "What documents are needed for camera rental dilsukhnagar?",
+            "Is camera rental dilsukhnagar available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental dilsukhnagar near me",
+          "cheap camera rental dilsukhnagar",
+          "best camera rental dilsukhnagar in hyderabad",
+          "camera rental dilsukhnagar monthly",
+          "camera rental dilsukhnagar with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-dilsukhnagar",
+            "title": "Camera Rental Dilsukhnagar in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-dilsukhnagar",
+            "title": "Camera Rental Dilsukhnagar in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-dilsukhnagar",
+            "title": "Camera Rental Dilsukhnagar in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-dilsukhnagar",
+            "title": "Camera Rental Dilsukhnagar in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-dilsukhnagar",
+            "title": "Camera Rental Dilsukhnagar in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental uppal",
+      "analyzed_at": "2026-07-19T20:40:35.758820",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental uppal cost in Hyderabad?",
+            "Where can I find bike rental uppal near me?",
+            "What documents are needed for bike rental uppal?",
+            "Is bike rental uppal available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental uppal near me",
+          "cheap bike rental uppal",
+          "best bike rental uppal in hyderabad",
+          "bike rental uppal monthly",
+          "bike rental uppal with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-uppal",
+            "title": "Bike Rental Uppal in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-uppal",
+            "title": "Bike Rental Uppal in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-uppal",
+            "title": "Bike Rental Uppal in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-uppal",
+            "title": "Bike Rental Uppal in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-uppal",
+            "title": "Bike Rental Uppal in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental uppal",
+      "analyzed_at": "2026-07-19T20:40:35.758870",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental uppal cost in Hyderabad?",
+            "Where can I find camera rental uppal near me?",
+            "What documents are needed for camera rental uppal?",
+            "Is camera rental uppal available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental uppal near me",
+          "cheap camera rental uppal",
+          "best camera rental uppal in hyderabad",
+          "camera rental uppal monthly",
+          "camera rental uppal with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-uppal",
+            "title": "Camera Rental Uppal in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-uppal",
+            "title": "Camera Rental Uppal in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-uppal",
+            "title": "Camera Rental Uppal in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-uppal",
+            "title": "Camera Rental Uppal in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-uppal",
+            "title": "Camera Rental Uppal in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental shamshabad",
+      "analyzed_at": "2026-07-19T20:40:35.758917",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental shamshabad cost in Hyderabad?",
+            "Where can I find bike rental shamshabad near me?",
+            "What documents are needed for bike rental shamshabad?",
+            "Is bike rental shamshabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental shamshabad near me",
+          "cheap bike rental shamshabad",
+          "best bike rental shamshabad in hyderabad",
+          "bike rental shamshabad monthly",
+          "bike rental shamshabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-shamshabad",
+            "title": "Bike Rental Shamshabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-shamshabad",
+            "title": "Bike Rental Shamshabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-shamshabad",
+            "title": "Bike Rental Shamshabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-shamshabad",
+            "title": "Bike Rental Shamshabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-shamshabad",
+            "title": "Bike Rental Shamshabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental shamshabad",
+      "analyzed_at": "2026-07-19T20:40:35.758983",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental shamshabad cost in Hyderabad?",
+            "Where can I find camera rental shamshabad near me?",
+            "What documents are needed for camera rental shamshabad?",
+            "Is camera rental shamshabad available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental shamshabad near me",
+          "cheap camera rental shamshabad",
+          "best camera rental shamshabad in hyderabad",
+          "camera rental shamshabad monthly",
+          "camera rental shamshabad with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-shamshabad",
+            "title": "Camera Rental Shamshabad in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-shamshabad",
+            "title": "Camera Rental Shamshabad in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-shamshabad",
+            "title": "Camera Rental Shamshabad in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-shamshabad",
+            "title": "Camera Rental Shamshabad in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-shamshabad",
+            "title": "Camera Rental Shamshabad in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "camera rental begumpet",
+      "analyzed_at": "2026-07-19T20:40:35.759027",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental begumpet cost in Hyderabad?",
+            "Where can I find camera rental begumpet near me?",
+            "What documents are needed for camera rental begumpet?",
+            "Is camera rental begumpet available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental begumpet near me",
+          "cheap camera rental begumpet",
+          "best camera rental begumpet in hyderabad",
+          "camera rental begumpet monthly",
+          "camera rental begumpet with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-begumpet",
+            "title": "Camera Rental Begumpet in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-begumpet",
+            "title": "Camera Rental Begumpet in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-begumpet",
+            "title": "Camera Rental Begumpet in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-begumpet",
+            "title": "Camera Rental Begumpet in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-begumpet",
+            "title": "Camera Rental Begumpet in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 35,
+      "opportunity_score": 19.5
+    },
+    {
+      "keyword": "bike rental near gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.759076",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near gachibowli cost in Hyderabad?",
+            "Where can I find bike rental near gachibowli near me?",
+            "What documents are needed for bike rental near gachibowli?",
+            "Is bike rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental near gachibowli near me",
+          "cheap bike rental near gachibowli",
+          "best bike rental near gachibowli in hyderabad",
+          "bike rental near gachibowli monthly",
+          "bike rental near gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-near-gachibowli",
+            "title": "Bike Rental Near Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-near-gachibowli",
+            "title": "Bike Rental Near Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-near-gachibowli",
+            "title": "Bike Rental Near Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-near-gachibowli",
+            "title": "Bike Rental Near Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-near-gachibowli",
+            "title": "Bike Rental Near Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "car rental near gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.759136",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental near gachibowli cost in Hyderabad?",
+            "Where can I find car rental near gachibowli near me?",
+            "What documents are needed for car rental near gachibowli?",
+            "Is car rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental near gachibowli near me",
+          "cheap car rental near gachibowli",
+          "best car rental near gachibowli in hyderabad",
+          "car rental near gachibowli monthly",
+          "car rental near gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-near-gachibowli",
+            "title": "Car Rental Near Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-near-gachibowli",
+            "title": "Car Rental Near Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-near-gachibowli",
+            "title": "Car Rental Near Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-near-gachibowli",
+            "title": "Car Rental Near Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-near-gachibowli",
+            "title": "Car Rental Near Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "camera rental near gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.759183",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near gachibowli cost in Hyderabad?",
+            "Where can I find camera rental near gachibowli near me?",
+            "What documents are needed for camera rental near gachibowli?",
+            "Is camera rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental near gachibowli near me",
+          "cheap camera rental near gachibowli",
+          "best camera rental near gachibowli in hyderabad",
+          "camera rental near gachibowli monthly",
+          "camera rental near gachibowli with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-near-gachibowli",
+            "title": "Camera Rental Near Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-near-gachibowli",
+            "title": "Camera Rental Near Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-near-gachibowli",
+            "title": "Camera Rental Near Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-near-gachibowli",
+            "title": "Camera Rental Near Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-near-gachibowli",
+            "title": "Camera Rental Near Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "wedding car near gachibowli",
+      "analyzed_at": "2026-07-19T20:40:35.759234",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near gachibowli available in Hyderabad?",
+            "What is the mileage limit for wedding car near gachibowli?",
+            "Do I need license for wedding car near gachibowli?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car near gachibowli hyderabad",
+          "self drive wedding car near gachibowli",
+          "wedding car near gachibowli price hyderabad",
+          "luxury wedding car near gachibowli hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-near-gachibowli",
+            "title": "Wedding Car Near Gachibowli in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-near-gachibowli",
+            "title": "Wedding Car Near Gachibowli in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-near-gachibowli",
+            "title": "Wedding Car Near Gachibowli in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-near-gachibowli",
+            "title": "Wedding Car Near Gachibowli in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-near-gachibowli",
+            "title": "Wedding Car Near Gachibowli in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "bike rental near madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.759293",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near madhapur cost in Hyderabad?",
+            "Where can I find bike rental near madhapur near me?",
+            "What documents are needed for bike rental near madhapur?",
+            "Is bike rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental near madhapur near me",
+          "cheap bike rental near madhapur",
+          "best bike rental near madhapur in hyderabad",
+          "bike rental near madhapur monthly",
+          "bike rental near madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-near-madhapur",
+            "title": "Bike Rental Near Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-near-madhapur",
+            "title": "Bike Rental Near Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-near-madhapur",
+            "title": "Bike Rental Near Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-near-madhapur",
+            "title": "Bike Rental Near Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-near-madhapur",
+            "title": "Bike Rental Near Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "car rental near madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.759374",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental near madhapur cost in Hyderabad?",
+            "Where can I find car rental near madhapur near me?",
+            "What documents are needed for car rental near madhapur?",
+            "Is car rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental near madhapur near me",
+          "cheap car rental near madhapur",
+          "best car rental near madhapur in hyderabad",
+          "car rental near madhapur monthly",
+          "car rental near madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-near-madhapur",
+            "title": "Car Rental Near Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-near-madhapur",
+            "title": "Car Rental Near Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-near-madhapur",
+            "title": "Car Rental Near Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-near-madhapur",
+            "title": "Car Rental Near Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-near-madhapur",
+            "title": "Car Rental Near Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "camera rental near madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.759426",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near madhapur cost in Hyderabad?",
+            "Where can I find camera rental near madhapur near me?",
+            "What documents are needed for camera rental near madhapur?",
+            "Is camera rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental near madhapur near me",
+          "cheap camera rental near madhapur",
+          "best camera rental near madhapur in hyderabad",
+          "camera rental near madhapur monthly",
+          "camera rental near madhapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-near-madhapur",
+            "title": "Camera Rental Near Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-near-madhapur",
+            "title": "Camera Rental Near Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-near-madhapur",
+            "title": "Camera Rental Near Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-near-madhapur",
+            "title": "Camera Rental Near Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-near-madhapur",
+            "title": "Camera Rental Near Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "wedding car near madhapur",
+      "analyzed_at": "2026-07-19T20:40:35.759481",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near madhapur available in Hyderabad?",
+            "What is the mileage limit for wedding car near madhapur?",
+            "Do I need license for wedding car near madhapur?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car near madhapur hyderabad",
+          "self drive wedding car near madhapur",
+          "wedding car near madhapur price hyderabad",
+          "luxury wedding car near madhapur hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-near-madhapur",
+            "title": "Wedding Car Near Madhapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-near-madhapur",
+            "title": "Wedding Car Near Madhapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-near-madhapur",
+            "title": "Wedding Car Near Madhapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-near-madhapur",
+            "title": "Wedding Car Near Madhapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-near-madhapur",
+            "title": "Wedding Car Near Madhapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "bike rental near kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.759540",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near kukatpally cost in Hyderabad?",
+            "Where can I find bike rental near kukatpally near me?",
+            "What documents are needed for bike rental near kukatpally?",
+            "Is bike rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental near kukatpally near me",
+          "cheap bike rental near kukatpally",
+          "best bike rental near kukatpally in hyderabad",
+          "bike rental near kukatpally monthly",
+          "bike rental near kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-near-kukatpally",
+            "title": "Bike Rental Near Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-near-kukatpally",
+            "title": "Bike Rental Near Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-near-kukatpally",
+            "title": "Bike Rental Near Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-near-kukatpally",
+            "title": "Bike Rental Near Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-near-kukatpally",
+            "title": "Bike Rental Near Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "car rental near kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.759595",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental near kukatpally cost in Hyderabad?",
+            "Where can I find car rental near kukatpally near me?",
+            "What documents are needed for car rental near kukatpally?",
+            "Is car rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental near kukatpally near me",
+          "cheap car rental near kukatpally",
+          "best car rental near kukatpally in hyderabad",
+          "car rental near kukatpally monthly",
+          "car rental near kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-near-kukatpally",
+            "title": "Car Rental Near Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-near-kukatpally",
+            "title": "Car Rental Near Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-near-kukatpally",
+            "title": "Car Rental Near Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-near-kukatpally",
+            "title": "Car Rental Near Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-near-kukatpally",
+            "title": "Car Rental Near Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "camera rental near kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.759649",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near kukatpally cost in Hyderabad?",
+            "Where can I find camera rental near kukatpally near me?",
+            "What documents are needed for camera rental near kukatpally?",
+            "Is camera rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental near kukatpally near me",
+          "cheap camera rental near kukatpally",
+          "best camera rental near kukatpally in hyderabad",
+          "camera rental near kukatpally monthly",
+          "camera rental near kukatpally with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-near-kukatpally",
+            "title": "Camera Rental Near Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-near-kukatpally",
+            "title": "Camera Rental Near Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-near-kukatpally",
+            "title": "Camera Rental Near Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-near-kukatpally",
+            "title": "Camera Rental Near Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-near-kukatpally",
+            "title": "Camera Rental Near Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "wedding car near kukatpally",
+      "analyzed_at": "2026-07-19T20:40:35.759696",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near kukatpally available in Hyderabad?",
+            "What is the mileage limit for wedding car near kukatpally?",
+            "Do I need license for wedding car near kukatpally?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car near kukatpally hyderabad",
+          "self drive wedding car near kukatpally",
+          "wedding car near kukatpally price hyderabad",
+          "luxury wedding car near kukatpally hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-near-kukatpally",
+            "title": "Wedding Car Near Kukatpally in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-near-kukatpally",
+            "title": "Wedding Car Near Kukatpally in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-near-kukatpally",
+            "title": "Wedding Car Near Kukatpally in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-near-kukatpally",
+            "title": "Wedding Car Near Kukatpally in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-near-kukatpally",
+            "title": "Wedding Car Near Kukatpally in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "bike rental near kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.759728",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near kondapur cost in Hyderabad?",
+            "Where can I find bike rental near kondapur near me?",
+            "What documents are needed for bike rental near kondapur?",
+            "Is bike rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental near kondapur near me",
+          "cheap bike rental near kondapur",
+          "best bike rental near kondapur in hyderabad",
+          "bike rental near kondapur monthly",
+          "bike rental near kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-near-kondapur",
+            "title": "Bike Rental Near Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-near-kondapur",
+            "title": "Bike Rental Near Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-near-kondapur",
+            "title": "Bike Rental Near Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-near-kondapur",
+            "title": "Bike Rental Near Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-near-kondapur",
+            "title": "Bike Rental Near Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "car rental near kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.759758",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental near kondapur cost in Hyderabad?",
+            "Where can I find car rental near kondapur near me?",
+            "What documents are needed for car rental near kondapur?",
+            "Is car rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental near kondapur near me",
+          "cheap car rental near kondapur",
+          "best car rental near kondapur in hyderabad",
+          "car rental near kondapur monthly",
+          "car rental near kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-near-kondapur",
+            "title": "Car Rental Near Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-near-kondapur",
+            "title": "Car Rental Near Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-near-kondapur",
+            "title": "Car Rental Near Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-near-kondapur",
+            "title": "Car Rental Near Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-near-kondapur",
+            "title": "Car Rental Near Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "camera rental near kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.759792",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near kondapur cost in Hyderabad?",
+            "Where can I find camera rental near kondapur near me?",
+            "What documents are needed for camera rental near kondapur?",
+            "Is camera rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental near kondapur near me",
+          "cheap camera rental near kondapur",
+          "best camera rental near kondapur in hyderabad",
+          "camera rental near kondapur monthly",
+          "camera rental near kondapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-near-kondapur",
+            "title": "Camera Rental Near Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-near-kondapur",
+            "title": "Camera Rental Near Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-near-kondapur",
+            "title": "Camera Rental Near Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-near-kondapur",
+            "title": "Camera Rental Near Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-near-kondapur",
+            "title": "Camera Rental Near Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "wedding car near kondapur",
+      "analyzed_at": "2026-07-19T20:40:35.759823",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near kondapur available in Hyderabad?",
+            "What is the mileage limit for wedding car near kondapur?",
+            "Do I need license for wedding car near kondapur?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": false,
+          "product_count": 0,
+          "top_merchants": []
+        },
+        "related_searches": [
+          "wedding car near kondapur hyderabad",
+          "self drive wedding car near kondapur",
+          "wedding car near kondapur price hyderabad",
+          "luxury wedding car near kondapur hyderabad"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/wedding-car-near-kondapur",
+            "title": "Wedding Car Near Kondapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/wedding-car-near-kondapur",
+            "title": "Wedding Car Near Kondapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/wedding-car-near-kondapur",
+            "title": "Wedding Car Near Kondapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/wedding-car-near-kondapur",
+            "title": "Wedding Car Near Kondapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/wedding-car-near-kondapur",
+            "title": "Wedding Car Near Kondapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "bike rental near miyapur",
+      "analyzed_at": "2026-07-19T20:40:35.759853",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near miyapur cost in Hyderabad?",
+            "Where can I find bike rental near miyapur near me?",
+            "What documents are needed for bike rental near miyapur?",
+            "Is bike rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "bike rental near miyapur near me",
+          "cheap bike rental near miyapur",
+          "best bike rental near miyapur in hyderabad",
+          "bike rental near miyapur monthly",
+          "bike rental near miyapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/bike-rental-near-miyapur",
+            "title": "Bike Rental Near Miyapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/bike-rental-near-miyapur",
+            "title": "Bike Rental Near Miyapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/bike-rental-near-miyapur",
+            "title": "Bike Rental Near Miyapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/bike-rental-near-miyapur",
+            "title": "Bike Rental Near Miyapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/bike-rental-near-miyapur",
+            "title": "Bike Rental Near Miyapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "car rental near miyapur",
+      "analyzed_at": "2026-07-19T20:40:35.759885",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does car rental near miyapur cost in Hyderabad?",
+            "Where can I find car rental near miyapur near me?",
+            "What documents are needed for car rental near miyapur?",
+            "Is car rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "car rental near miyapur near me",
+          "cheap car rental near miyapur",
+          "best car rental near miyapur in hyderabad",
+          "car rental near miyapur monthly",
+          "car rental near miyapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/car-rental-near-miyapur",
+            "title": "Car Rental Near Miyapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/car-rental-near-miyapur",
+            "title": "Car Rental Near Miyapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/car-rental-near-miyapur",
+            "title": "Car Rental Near Miyapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/car-rental-near-miyapur",
+            "title": "Car Rental Near Miyapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/car-rental-near-miyapur",
+            "title": "Car Rental Near Miyapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    },
+    {
+      "keyword": "camera rental near miyapur",
+      "analyzed_at": "2026-07-19T20:40:35.759919",
+      "serp_features": {
+        "featured_snippet": {
+          "present": false,
+          "type": null,
+          "source_url": null,
+          "content_preview": null
+        },
+        "people_also_ask": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near miyapur cost in Hyderabad?",
+            "Where can I find camera rental near miyapur near me?",
+            "What documents are needed for camera rental near miyapur?",
+            "Is camera rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        },
+        "local_pack": {
+          "present": false,
+          "listings_count": 0,
+          "top_listings": []
+        },
+        "knowledge_panel": {
+          "present": false,
+          "entity_type": null
+        },
+        "image_pack": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        },
+        "video_carousel": {
+          "present": false,
+          "video_count": 0,
+          "top_channels": []
+        },
+        "shopping_results": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        },
+        "related_searches": [
+          "camera rental near miyapur near me",
+          "cheap camera rental near miyapur",
+          "best camera rental near miyapur in hyderabad",
+          "camera rental near miyapur monthly",
+          "camera rental near miyapur with driver"
+        ],
+        "top_organic_results": [
+          {
+            "position": 1,
+            "domain": "gorentals.com",
+            "url": "https://gorentals.com/camera-rental-near-miyapur",
+            "title": "Camera Rental Near Miyapur in Hyderabad - Gorentals",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 2,
+            "domain": "rentomojo.com",
+            "url": "https://rentomojo.com/camera-rental-near-miyapur",
+            "title": "Camera Rental Near Miyapur in Hyderabad - Rentomojo",
+            "has_snippet": true,
+            "has_schema": true
+          },
+          {
+            "position": 3,
+            "domain": "furlenco.com",
+            "url": "https://furlenco.com/camera-rental-near-miyapur",
+            "title": "Camera Rental Near Miyapur in Hyderabad - Furlenco",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 4,
+            "domain": "grabonrent.com",
+            "url": "https://grabonrent.com/camera-rental-near-miyapur",
+            "title": "Camera Rental Near Miyapur in Hyderabad - Grabonrent",
+            "has_snippet": true,
+            "has_schema": false
+          },
+          {
+            "position": 5,
+            "domain": "localvendor.com",
+            "url": "https://localvendor.com/camera-rental-near-miyapur",
+            "title": "Camera Rental Near Miyapur in Hyderabad - Localvendor",
+            "has_snippet": true,
+            "has_schema": false
+          }
+        ]
+      },
+      "search_intent": "commercial",
+      "difficulty_score": 25,
+      "opportunity_score": 35.0
+    }
+  ]
+}

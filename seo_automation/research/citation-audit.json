@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-07-19T20:40:35.859895",
+  "citations_audited": 11,
+  "citations": [
+    {
+      "source": "Google Business Profile",
+      "url": "google.com/business",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "critical"
+    },
+    {
+      "source": "JustDial",
+      "url": "justdial.com",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "high"
+    },
+    {
+      "source": "Sulekha",
+      "url": "sulekha.com",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "high"
+    },
+    {
+      "source": "IndiaMART",
+      "url": "indiamart.com",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "high"
+    },
+    {
+      "source": "TradeIndia",
+      "url": "tradeindia.com",
+      "status": "unclaimed",
+      "nap_consistent": false,
+      "priority": "high"
+    },
+    {
+      "source": "Facebook Business",
+      "url": "facebook.com/business",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "high"
+    },
+    {
+      "source": "Bing Places",
+      "url": "bingplaces.com",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "medium"
+    },
+    {
+      "source": "Apple Maps",
+      "url": "maps.apple.com",
+      "status": "claimed",
+      "nap_consistent": true,
+      "priority": "medium"
+    },
+    {
+      "source": "Yelp",
+      "url": "yelp.com",
+      "status": "unclaimed",
+      "nap_consistent": false,
+      "priority": "medium"
+    },
+    {
+      "source": "Hyderabad Tourism",
+      "url": "hyderabadtourism.com",
+      "status": "unclaimed",
+      "nap_consistent": false,
+      "priority": "medium"
+    },
+    {
+      "source": "Local Hyderabadi Directories",
+      "url": "various",
+      "status": "partial",
+      "nap_consistent": false,
+      "priority": "medium"
+    }
+  ]
+}

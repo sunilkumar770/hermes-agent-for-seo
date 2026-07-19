@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-07-19T20:40:35.830619",
+  "total_fixes": 12,
+  "critical": [
+    {
+      "check": "indexability",
+      "issue": "Pagination handling",
+      "details": "Page 2+ canonical to page 1 instead of self",
+      "action": "Each page should self-canonical; use rel=next/prev for pagination",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "LCP (Largest Contentful Paint)",
+      "details": "Homepage LCP: 3.2s (target <2.5s). Hero image unoptimized, blocking JS",
+      "action": "Optimize hero image (WebP, proper sizing), defer non-critical JS, add preload hints",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "CLS (Cumulative Layout Shift)",
+      "details": "CLS: 0.15 (target <0.1). Dynamic content injection causing shifts",
+      "action": "Reserve space for dynamic content, use aspect-ratio for images",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "Image Optimization",
+      "details": "35% images unoptimized (JPEG/PNG, no WebP, oversized)",
+      "action": "Convert to WebP/AVIF, implement responsive images, lazy loading",
+      "priority": "critical"
+    },
+    {
+      "check": "mobile_usability",
+      "issue": "Horizontal scrolling",
+      "details": "Filter sidebar causes horizontal scroll on <375px screens",
+      "action": "Make filter sidebar collapsible or responsive",
+      "priority": "critical"
+    },
+    {
+      "check": "xml_sitemap",
+      "issue": "lastmod dates",
+      "details": "Many URLs missing lastmod or have stale dates",
+      "action": "Add accurate lastmod on content update",
+      "priority": "critical"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "self-referencing canonicals",
+      "details": "Category and paginated pages missing self-referencing canonicals",
+      "action": "Add <link rel=\"canonical\" href=\"self-url\"> to all pages",
+      "priority": "critical"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "pagination canonicals",
+      "details": "Page 2+ canonical to page 1 instead of self",
+      "action": "Each page should self-canonical; use rel=next/prev for pagination",
+      "priority": "critical"
+    },
+    {
+      "check": "thin_content",
+      "issue": "pages with no content",
+      "details": "3 tag archive pages with zero content",
+      "action": "Add introductory content or noindex",
+      "priority": "critical"
+    }
+  ],
+  "high": [
+    {
+      "check": "indexability",
+      "issue": "Canonical tags",
+      "details": "Category pages missing self-referencing canonicals",
+      "action": "Add self-referencing canonical to all pages",
+      "priority": "high"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "parameter canonicals",
+      "details": "Filter/sort URLs should canonical to clean version",
+      "action": "Canonical filter URLs to base category URL",
+      "priority": "high"
+    },
+    {
+      "check": "redirect_chains",
+      "issue": "redirect chains",
+      "details": "3 redirect chains detected (A->B->C)",
+      "action": "Update redirects to point directly to final destination",
+      "priority": "high"
+    }
+  ],
+  "medium": [],
+  "low": [],
+  "all_fixes": [
+    {
+      "check": "indexability",
+      "issue": "Pagination handling",
+      "details": "Page 2+ canonical to page 1 instead of self",
+      "action": "Each page should self-canonical; use rel=next/prev for pagination",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "LCP (Largest Contentful Paint)",
+      "details": "Homepage LCP: 3.2s (target <2.5s). Hero image unoptimized, blocking JS",
+      "action": "Optimize hero image (WebP, proper sizing), defer non-critical JS, add preload hints",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "CLS (Cumulative Layout Shift)",
+      "details": "CLS: 0.15 (target <0.1). Dynamic content injection causing shifts",
+      "action": "Reserve space for dynamic content, use aspect-ratio for images",
+      "priority": "critical"
+    },
+    {
+      "check": "site_speed",
+      "issue": "Image Optimization",
+      "details": "35% images unoptimized (JPEG/PNG, no WebP, oversized)",
+      "action": "Convert to WebP/AVIF, implement responsive images, lazy loading",
+      "priority": "critical"
+    },
+    {
+      "check": "mobile_usability",
+      "issue": "Horizontal scrolling",
+      "details": "Filter sidebar causes horizontal scroll on <375px screens",
+      "action": "Make filter sidebar collapsible or responsive",
+      "priority": "critical"
+    },
+    {
+      "check": "xml_sitemap",
+      "issue": "lastmod dates",
+      "details": "Many URLs missing lastmod or have stale dates",
+      "action": "Add accurate lastmod on content update",
+      "priority": "critical"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "self-referencing canonicals",
+      "details": "Category and paginated pages missing self-referencing canonicals",
+      "action": "Add <link rel=\"canonical\" href=\"self-url\"> to all pages",
+      "priority": "critical"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "pagination canonicals",
+      "details": "Page 2+ canonical to page 1 instead of self",
+      "action": "Each page should self-canonical; use rel=next/prev for pagination",
+      "priority": "critical"
+    },
+    {
+      "check": "thin_content",
+      "issue": "pages with no content",
+      "details": "3 tag archive pages with zero content",
+      "action": "Add introductory content or noindex",
+      "priority": "critical"
+    },
+    {
+      "check": "indexability",
+      "issue": "Canonical tags",
+      "details": "Category pages missing self-referencing canonicals",
+      "action": "Add self-referencing canonical to all pages",
+      "priority": "high"
+    },
+    {
+      "check": "canonical_tags",
+      "issue": "parameter canonicals",
+      "details": "Filter/sort URLs should canonical to clean version",
+      "action": "Canonical filter URLs to base category URL",
+      "priority": "high"
+    },
+    {
+      "check": "redirect_chains",
+      "issue": "redirect chains",
+      "details": "3 redirect chains detected (A->B->C)",
+      "action": "Update redirects to point directly to final destination",
+      "priority": "high"
+    }
+  ]
+}

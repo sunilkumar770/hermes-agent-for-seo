@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-07-19T20:40:35.865748",
+  "plan": {
+    "collection": {
+      "automated_email": "Send 24 hours post-return",
+      "sms_trigger": "Return confirmed + 2 hours",
+      "in_app_prompt": "On app open, 48 hours post-return",
+      "incentive": "₹100 credit per review (max 1/month)"
+    },
+    "response": {
+      "sla": "24 hours for all reviews",
+      "positive_template": "Thank you! We're glad you loved [item]. Visit again!",
+      "negative_template": "Sorry for the experience. Please contact us at support@gorentals.com so we can fix this.",
+      "escalation": "Negative reviews → Customer Success Manager within 2 hours"
+    },
+    "monitoring": {
+      "tools": [
+        "Google Alerts",
+        "GBP Notifications",
+        "ReviewTrackers"
+      ],
+      "frequency": "Daily check",
+      "reporting": "Weekly summary to team"
+    },
+    "showcase": {
+      "website_widget": "Google Reviews widget on homepage & landing pages",
+      "social_proof": "Top reviews in email campaigns",
+      "case_studies": "Monthly customer story blog post"
+    }
+  }
+}

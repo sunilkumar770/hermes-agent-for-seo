@@ -1,0 +1,550 @@
+{
+  "analyzed_at": "2026-07-19T20:40:35.841897",
+  "total_pages": 8,
+  "total_existing_links": 0,
+  "link_analysis": {
+    "total_pages": 8,
+    "total_links": 0,
+    "avg_inbound": 0.0,
+    "avg_outbound": 0.0,
+    "orphans": [
+      "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "/blog-posts\\cluster_car_rentals_general_category_page",
+      "/blog-posts\\cluster_car_rentals_general_guide",
+      "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "/metadata\\editorial-policy",
+      "/metadata\\internal-linking-report"
+    ],
+    "low_outbound": [
+      "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "/blog-posts\\cluster_car_rentals_general_category_page",
+      "/blog-posts\\cluster_car_rentals_general_guide",
+      "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "/metadata\\editorial-policy",
+      "/metadata\\internal-linking-report"
+    ],
+    "page_metrics": {
+      "/blog-posts\\cluster_car_rentals_general_blog_post": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/blog-posts\\cluster_car_rentals_general_category_page": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/blog-posts\\cluster_car_rentals_general_guide": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/blog-posts\\cluster_car_rentals_general_landing_page": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/blog-posts\\cluster_car_rentals_local_area_blog_post": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/blog-posts\\cluster_car_rentals_local_area_category_page": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/metadata\\editorial-policy": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      },
+      "/metadata\\internal-linking-report": {
+        "outbound_count": 0,
+        "inbound_count": 0,
+        "outbound_links": [],
+        "inbound_links": [],
+        "cluster": "general",
+        "type": "article"
+      }
+    }
+  },
+  "recommended_links": [
+    {
+      "target": "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/blog-posts\\cluster_car_rentals_general_category_page",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/blog-posts\\cluster_car_rentals_general_guide",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_guide"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_general_landing_page",
+        "/blog-posts\\cluster_car_rentals_general_guide"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page",
+        "/blog-posts\\cluster_car_rentals_general_guide"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/metadata\\editorial-policy",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\internal-linking-report",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page",
+        "/blog-posts\\cluster_car_rentals_general_guide"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "target": "/metadata\\internal-linking-report",
+      "type": "fix_orphan",
+      "priority": "critical",
+      "cluster": "general",
+      "suggested_sources": [
+        "/metadata\\editorial-policy",
+        "/blog-posts\\cluster_car_rentals_local_area_category_page",
+        "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+        "/blog-posts\\cluster_car_rentals_general_landing_page",
+        "/blog-posts\\cluster_car_rentals_general_guide"
+      ],
+      "action": "Add inbound links from 7 relevant pages",
+      "reason": "Page has zero inbound links (orphan)"
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_category_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_guide",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/metadata\\editorial-policy",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/metadata\\internal-linking-report",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "breadcrumb_navigation",
+      "priority": "high",
+      "action": "Implement breadcrumb navigation site-wide",
+      "benefit": "Improves crawlability, user navigation, and distributes link equity"
+    },
+    {
+      "type": "related_posts",
+      "priority": "medium",
+      "action": "Add \"Related Posts\" widget to all blog posts",
+      "benefit": "Increases dwell time, distributes link equity within clusters"
+    },
+    {
+      "type": "pagination",
+      "priority": "medium",
+      "action": "Add rel=next/prev and self-canonical to paginated category pages",
+      "benefit": "Improves crawlability of deep paginated content"
+    }
+  ],
+  "orphans": [
+    {
+      "url": "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "title": "Cluster_Car_Rentals_General_Blog_Post",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/blog-posts\\cluster_car_rentals_general_category_page",
+      "title": "Cluster_Car_Rentals_General_Category_Page",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/blog-posts\\cluster_car_rentals_general_guide",
+      "title": "Cluster_Car_Rentals_General_Guide",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "title": "Cluster_Car_Rentals_General_Landing_Page",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "title": "Cluster_Car_Rentals_Local_Area_Blog_Post",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "title": "Cluster_Car_Rentals_Local_Area_Category_Page",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/metadata\\editorial-policy",
+      "title": "Editorial Policy",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    },
+    {
+      "url": "/metadata\\internal-linking-report",
+      "title": "Internal Linking Report",
+      "cluster": "general",
+      "type": "article",
+      "priority": "high"
+    }
+  ],
+  "cluster_interlinking": [],
+  "breadcrumbs": [
+    {
+      "page": "/",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_general_category_page",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_general_guide",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/metadata\\editorial-policy",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    },
+    {
+      "page": "/metadata\\internal-linking-report",
+      "path": [
+        "Home"
+      ],
+      "structure": "Home"
+    }
+  ]
+}

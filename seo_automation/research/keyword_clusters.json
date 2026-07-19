@@ -1,0 +1,1066 @@
+{
+  "generated_at": "2026-07-19T20:40:35.724811",
+  "method": "semantic",
+  "clusters": [
+    {
+      "cluster_name": "car_informational",
+      "keyword_count": 575,
+      "avg_volume": 57,
+      "avg_difficulty": 17,
+      "top_keywords": [
+        {
+          "keyword": "luxury car rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury car rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury car rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury car rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget car rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget car rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget car rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget car rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online car rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online car rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "informational": 575
+      }
+    },
+    {
+      "cluster_name": "car_commercial",
+      "keyword_count": 253,
+      "avg_volume": 137,
+      "avg_difficulty": 19,
+      "top_keywords": [
+        {
+          "keyword": "car rentals hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 4400,
+          "difficulty": 45
+        },
+        {
+          "keyword": "self drive cars hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 1600,
+          "difficulty": 40
+        },
+        {
+          "keyword": "summer car rental hyderabad",
+          "months": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "volume": 400,
+          "difficulty": 35,
+          "type": "seasonal",
+          "intent": "commercial",
+          "is_current_season": false
+        },
+        {
+          "keyword": "car rental gachibowli",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "gachibowli"
+        },
+        {
+          "keyword": "wedding car gachibowli",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "gachibowli"
+        },
+        {
+          "keyword": "car rental madhapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "madhapur"
+        },
+        {
+          "keyword": "wedding car madhapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "madhapur"
+        },
+        {
+          "keyword": "car rental kukatpally",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kukatpally"
+        },
+        {
+          "keyword": "wedding car kukatpally",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kukatpally"
+        },
+        {
+          "keyword": "car rental kondapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kondapur"
+        }
+      ],
+      "intent_distribution": {
+        "commercial": 253
+      }
+    },
+    {
+      "cluster_name": "bike_informational",
+      "keyword_count": 220,
+      "avg_volume": 62,
+      "avg_difficulty": 19,
+      "top_keywords": [
+        {
+          "keyword": "luxury bike rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury bike rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury bike rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury bike rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget bike rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget bike rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget bike rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget bike rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online bike rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online bike rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "informational": 220
+      }
+    },
+    {
+      "cluster_name": "camera_informational",
+      "keyword_count": 220,
+      "avg_volume": 62,
+      "avg_difficulty": 19,
+      "top_keywords": [
+        {
+          "keyword": "luxury camera rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury camera rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury camera rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury camera rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget camera rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget camera rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget camera rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget camera rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online camera rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online camera rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "informational": 220
+      }
+    },
+    {
+      "cluster_name": "rental_informational",
+      "keyword_count": 151,
+      "avg_volume": 72,
+      "avg_difficulty": 21,
+      "top_keywords": [
+        {
+          "keyword": "rental marketplace",
+          "type": "category",
+          "intent": "informational",
+          "volume": 720,
+          "difficulty": 50
+        },
+        {
+          "keyword": "luxury equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury equipment rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury equipment rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget equipment rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget equipment rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "informational": 151
+      }
+    },
+    {
+      "cluster_name": "bike_commercial",
+      "keyword_count": 93,
+      "avg_volume": 193,
+      "avg_difficulty": 22,
+      "top_keywords": [
+        {
+          "keyword": "bike rentals hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 2900,
+          "difficulty": 35
+        },
+        {
+          "keyword": "bike rental hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 2400,
+          "difficulty": 35
+        },
+        {
+          "keyword": "bike rental gachibowli",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "gachibowli"
+        },
+        {
+          "keyword": "bike rental madhapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "madhapur"
+        },
+        {
+          "keyword": "bike rental kukatpally",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kukatpally"
+        },
+        {
+          "keyword": "bike rental kondapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kondapur"
+        },
+        {
+          "keyword": "bike rental miyapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "miyapur"
+        },
+        {
+          "keyword": "bike rental dilsukhnagar",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "dilsukhnagar"
+        },
+        {
+          "keyword": "bike rental uppal",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "uppal"
+        },
+        {
+          "keyword": "bike rental shamshabad",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "shamshabad"
+        }
+      ],
+      "intent_distribution": {
+        "commercial": 93
+      }
+    },
+    {
+      "cluster_name": "camera_commercial",
+      "keyword_count": 92,
+      "avg_volume": 142,
+      "avg_difficulty": 21,
+      "top_keywords": [
+        {
+          "keyword": "camera rentals hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 590,
+          "difficulty": 25
+        },
+        {
+          "keyword": "camera rental gachibowli",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "gachibowli"
+        },
+        {
+          "keyword": "camera rental madhapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "madhapur"
+        },
+        {
+          "keyword": "camera rental kukatpally",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kukatpally"
+        },
+        {
+          "keyword": "camera rental kondapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "kondapur"
+        },
+        {
+          "keyword": "camera rental miyapur",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "miyapur"
+        },
+        {
+          "keyword": "camera rental dilsukhnagar",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "dilsukhnagar"
+        },
+        {
+          "keyword": "camera rental uppal",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "uppal"
+        },
+        {
+          "keyword": "camera rental shamshabad",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "shamshabad"
+        },
+        {
+          "keyword": "camera rental begumpet",
+          "type": "local",
+          "intent": "commercial",
+          "volume": 300,
+          "difficulty": 20,
+          "area": "begumpet"
+        }
+      ],
+      "intent_distribution": {
+        "commercial": 92
+      }
+    },
+    {
+      "cluster_name": "party_informational",
+      "keyword_count": 80,
+      "avg_volume": 67,
+      "avg_difficulty": 20,
+      "top_keywords": [
+        {
+          "keyword": "luxury party rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury party rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury party rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "luxury party rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget party rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget party rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget party rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "budget party rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online party rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "online party rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "informational": 80
+      }
+    },
+    {
+      "cluster_name": "rental_commercial",
+      "keyword_count": 44,
+      "avg_volume": 100,
+      "avg_difficulty": 26,
+      "top_keywords": [
+        {
+          "keyword": "college fest rentals hyderabad",
+          "months": [
+            2,
+            3,
+            9,
+            10
+          ],
+          "volume": 300,
+          "difficulty": 25,
+          "type": "seasonal",
+          "intent": "commercial",
+          "is_current_season": false
+        },
+        {
+          "keyword": "corporate event rentals hyderabad",
+          "months": [
+            1,
+            2,
+            3,
+            9,
+            10,
+            11,
+            12
+          ],
+          "volume": 250,
+          "difficulty": 28,
+          "type": "seasonal",
+          "intent": "commercial",
+          "is_current_season": false
+        },
+        {
+          "keyword": "sankranti equipment rental hyderabad",
+          "months": [
+            1
+          ],
+          "volume": 150,
+          "difficulty": 20,
+          "type": "seasonal",
+          "intent": "commercial",
+          "is_current_season": false
+        },
+        {
+          "keyword": "rental platform hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 140,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best equipment rental gachibowli",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best equipment rental madhapur",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "commercial": 44
+      }
+    },
+    {
+      "cluster_name": "party_commercial",
+      "keyword_count": 22,
+      "avg_volume": 122,
+      "avg_difficulty": 27,
+      "top_keywords": [
+        {
+          "keyword": "new year party rentals hyderabad",
+          "months": [
+            12
+          ],
+          "volume": 500,
+          "difficulty": 28,
+          "type": "seasonal",
+          "intent": "commercial",
+          "is_current_season": false
+        },
+        {
+          "keyword": "party rentals hyderabad",
+          "type": "category",
+          "intent": "commercial",
+          "volume": 390,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best party rental hyderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best party rental secunderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best party rental gachibowli",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "best party rental madhapur",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable party rental hyderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable party rental secunderabad",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable party rental gachibowli",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        },
+        {
+          "keyword": "affordable party rental madhapur",
+          "type": "long_tail",
+          "intent": "commercial",
+          "volume": 100,
+          "difficulty": 30
+        }
+      ],
+      "intent_distribution": {
+        "commercial": 22
+      }
+    },
+    {
+      "cluster_name": "wedding_informational",
+      "keyword_count": 15,
+      "avg_volume": 50,
+      "avg_difficulty": 15,
+      "top_keywords": [
+        {
+          "keyword": "for wedding party rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding party rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding party rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding party rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding party rental hitech city",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding equipment rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding equipment rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "for wedding equipment rental hitech city",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        }
+      ],
+      "intent_distribution": {
+        "informational": 15
+      }
+    },
+    {
+      "cluster_name": "self drive_informational",
+      "keyword_count": 10,
+      "avg_volume": 50,
+      "avg_difficulty": 15,
+      "top_keywords": [
+        {
+          "keyword": "self drive equipment rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive equipment rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive equipment rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive equipment rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive equipment rental hitech city",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive laptop rental hyderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive laptop rental secunderabad",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive laptop rental gachibowli",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive laptop rental madhapur",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        },
+        {
+          "keyword": "self drive laptop rental hitech city",
+          "type": "long_tail",
+          "intent": "informational",
+          "volume": 50,
+          "difficulty": 15
+        }
+      ],
+      "intent_distribution": {
+        "informational": 10
+      }
+    },
+    {
+      "cluster_name": "rental_navigational",
+      "keyword_count": 3,
+      "avg_volume": 766,
+      "avg_difficulty": 15,
+      "top_keywords": [
+        {
+          "keyword": "gorentals",
+          "type": "brand",
+          "intent": "navigational",
+          "volume": 1000,
+          "difficulty": 15
+        },
+        {
+          "keyword": "go rentals",
+          "type": "brand",
+          "intent": "navigational",
+          "volume": 800,
+          "difficulty": 20
+        },
+        {
+          "keyword": "go rentals hyderabad",
+          "type": "brand_local",
+          "intent": "navigational",
+          "volume": 500,
+          "difficulty": 10
+        }
+      ],
+      "intent_distribution": {
+        "navigational": 3
+      }
+    }
+  ]
+}

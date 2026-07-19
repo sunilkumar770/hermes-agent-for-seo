@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-07-19T20:40:35.874777",
+  "templates": [
+    {
+      "type": "content_writer",
+      "fields": [
+        "full_name",
+        "title",
+        "photo_url",
+        "bio",
+        "expertise_areas",
+        "years_experience",
+        "education",
+        "certifications",
+        "linkedin_url",
+        "twitter_url",
+        "published_articles_count",
+        "specialization",
+        "location"
+      ],
+      "example": {
+        "full_name": "Priya Sharma",
+        "title": "Senior Content Writer - Rental Industry",
+        "photo_url": "https://gorentals.com/authors/priya-sharma.jpg",
+        "bio": "Priya has 5+ years writing about the sharing economy and rental marketplaces in India. She specializes in helping consumers make informed rental decisions.",
+        "expertise_areas": [
+          "Bike Rentals",
+          "Car Rentals",
+          "Equipment Rental",
+          "Peer-to-Peer Marketplaces"
+        ],
+        "years_experience": 5,
+        "education": "MA Journalism, Delhi University",
+        "certifications": [
+          "Google SEO Fundamentals",
+          "Content Marketing Certified"
+        ],
+        "linkedin_url": "https://linkedin.com/in/priya-sharma-rental",
+        "twitter_url": "https://twitter.com/priyasharma_rent",
+        "published_articles_count": 47,
+        "specialization": "Rental Market Analysis & Consumer Guides",
+        "location": "Hyderabad, Telangana"
+      }
+    },
+    {
+      "type": "subject_expert",
+      "fields": [
+        "full_name",
+        "title",
+        "photo_url",
+        "bio",
+        "expertise_areas",
+        "years_experience",
+        "education",
+        "certifications",
+        "linkedin_url",
+        "published_articles_count",
+        "specialization",
+        "company_role"
+      ],
+      "example": {
+        "full_name": "Rahul Reddy",
+        "title": "Head of Operations, GoRentals",
+        "photo_url": "https://gorentals.com/authors/rahul-reddy.jpg",
+        "bio": "Rahul leads operations at GoRentals with 8 years in rental logistics and marketplace operations. He has built scalable rental processes for 20+ categories.",
+        "expertise_areas": [
+          "Rental Operations",
+          "Fleet Management",
+          "Logistics",
+          "Marketplace Strategy"
+        ],
+        "years_experience": 8,
+        "education": "MBA Operations, IIM Bangalore",
+        "certifications": [
+          "Supply Chain Management",
+          "Lean Six Sigma Black Belt"
+        ],
+        "linkedin_url": "https://linkedin.com/in/rahul-reddy-gorentals",
+        "published_articles_count": 12,
+        "specialization": "Rental Operations & Logistics",
+        "company_role": "Head of Operations"
+      }
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-07-19T20:40:35.844578",
+  "total_recommendations": 32,
+  "priority_fixes": [
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "cluster_interlinking",
+      "cluster": "",
+      "priority": "high",
+      "current_density": 0,
+      "target_density": 0.5,
+      "action": "Add contextual links between 0 pages in cluster",
+      "pages": []
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_blog_post",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_category_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_guide",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_general_landing_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_local_area_blog_post",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/blog-posts\\cluster_car_rentals_local_area_category_page",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    },
+    {
+      "type": "add_outbound",
+      "source": "/metadata\\editorial-policy",
+      "priority": "high",
+      "current_outbound": 0,
+      "recommended": 5,
+      "action": "Add 2-3 contextual outbound links from high-authority page",
+      "cluster": "general"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "audited_at": "2026-07-19T20:40:35.871856",
+  "overall_score": 44,
+  "components": {
+    "author_bios": {
+      "status": "missing",
+      "details": "No author bios on blog posts or guides",
+      "required": "Every content piece needs author with credentials, photo, bio",
+      "action": "Create author profiles with expertise, experience, photo, LinkedIn"
+    },
+    "company_info": {
+      "status": "partial",
+      "details": "About page exists but lacks leadership, history, mission",
+      "required": "Full company page with founders, team, mission, milestones, values",
+      "action": "Build comprehensive About page with team photos, bios, company timeline"
+    },
+    "editorial_policy": {
+      "status": "missing",
+      "details": "No published editorial guidelines or fact-checking process",
+      "required": "Public editorial policy with fact-checking, corrections, transparency",
+      "action": "Create editorial-policy.md with process, standards, correction policy"
+    },
+    "contact_transparency": {
+      "status": "pass",
+      "details": "Contact page with form, phone, email, address present",
+      "required": "Multiple contact methods, physical address, response time commitment",
+      "action": "Add response time SLA, multiple contact channels, office hours"
+    },
+    "trust_signals": {
+      "status": "partial",
+      "details": "Some testimonials, no trust badges, no security certifications displayed",
+      "required": "SSL badge, payment security, Google reviews widget, certifications",
+      "action": "Add SSL badge, Razorpay/Stripe badges, Google reviews widget, ISO if applicable"
+    },
+    "credentials": {
+      "status": "missing",
+      "details": "No certifications, partnerships, awards displayed",
+      "required": "Industry certifications, partner logos, awards, media mentions",
+      "action": "Create credentials section with partner logos, certifications, press mentions"
+    },
+    "reviews_testimonials": {
+      "status": "partial",
+      "details": "Some Google reviews, no structured markup, no on-site testimonials",
+      "required": "Review/AggregateRating schema, testimonial carousel, video testimonials",
+      "action": "Implement Review/AggregateRating schema, add testimonial widget"
+    },
+    "security_badges": {
+      "status": "pass",
+      "details": "HTTPS enabled, valid SSL certificate, HSTS enabled",
+      "required": "SSL badge, payment security badges, privacy policy, terms of service",
+      "action": "Add SSL trust seal, payment gateway badges, link to privacy/terms"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-07-19T20:40:35.900233",
+  "total_actions": 6,
+  "plan": [
+    {
+      "priority": "critical",
+      "type": "ranking_drop_recovery",
+      "url": "/blog/bike-rental-guide-hyderabad",
+      "keyword": "bike rental hyderabad",
+      "drop": 3,
+      "actions": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions",
+        "Improve schema markup",
+        "Add internal links from authority pages"
+      ],
+      "effort": "high",
+      "expected_impact": "high"
+    },
+    {
+      "priority": "critical",
+      "type": "ranking_drop_recovery",
+      "url": "/blog/camera-rental-hyderabad",
+      "keyword": "camera rental hyderabad",
+      "drop": 4,
+      "actions": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions",
+        "Improve schema markup",
+        "Add internal links from authority pages"
+      ],
+      "effort": "high",
+      "expected_impact": "high"
+    },
+    {
+      "priority": "critical",
+      "type": "ranking_drop_recovery",
+      "url": "/blog/self-drive-car-hyderabad",
+      "keyword": "self drive car hyderabad",
+      "drop": 2,
+      "actions": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions",
+        "Improve schema markup",
+        "Add internal links from authority pages"
+      ],
+      "effort": "high",
+      "expected_impact": "high"
+    },
+    {
+      "priority": "high",
+      "type": "external",
+      "url": "/blog/bike-rental-guide-hyderabad",
+      "broken_link": "https://old-provider.com/rent",
+      "actions": [
+        "Fix or remove broken external link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "effort": "low",
+      "expected_impact": "medium"
+    },
+    {
+      "priority": "high",
+      "type": "internal",
+      "url": "/blog/camera-rental-hyderabad",
+      "broken_link": "/old-category/lenses",
+      "actions": [
+        "Fix or remove broken internal link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "effort": "low",
+      "expected_impact": "medium"
+    },
+    {
+      "priority": "high",
+      "type": "external",
+      "url": "/blog/wedding-car-guide",
+      "broken_link": "https://vendor-site.com/pricing",
+      "actions": [
+        "Fix or remove broken external link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "effort": "low",
+      "expected_impact": "medium"
+    }
+  ]
+}

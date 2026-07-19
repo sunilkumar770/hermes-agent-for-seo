@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-07-19T20:40:35.861955",
+  "nap_consistency": [
+    {
+      "platform": "Google Business Profile",
+      "name": "GoRentals - Rental Marketplace",
+      "address": "Hyderabad, Telangana",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "JustDial",
+      "name": "GoRentals",
+      "address": "Hyderabad, Telangana",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "Sulekha",
+      "name": "GoRentals",
+      "address": "Hyderabad",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "IndiaMART",
+      "name": "GoRentals",
+      "address": "Hyderabad, Telangana",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "Facebook",
+      "name": "GoRentals",
+      "address": "Hyderabad, Telangana",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "TradeIndia",
+      "name": "Go Rentals",
+      "address": "Hyderabad",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "inconsistent_name"
+    },
+    {
+      "platform": "Bing Places",
+      "name": "GoRentals",
+      "address": "Hyderabad",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    },
+    {
+      "platform": "Apple Maps",
+      "name": "GoRentals",
+      "address": "Hyderabad, Telangana",
+      "phone": "+91-XXXXXXXXXX",
+      "website": "gorentals.com",
+      "status": "consistent"
+    }
+  ]
+}

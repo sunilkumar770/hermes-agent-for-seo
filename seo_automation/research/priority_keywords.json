@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-07-19T20:40:35.727493",
+  "high_priority_count": 1,
+  "keywords": [
+    {
+      "keyword": "car rentals hyderabad",
+      "type": "category",
+      "intent": "commercial",
+      "volume": 4400,
+      "difficulty": 45,
+      "priority_score": 71,
+      "volume_score": 40,
+      "difficulty_score": 0,
+      "intent_score": 18,
+      "type_bonus": 8,
+      "cluster": "car_commercial"
+    }
+  ]
+}

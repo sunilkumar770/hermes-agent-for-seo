@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-07-19T20:40:35.697944",
+  "comparison": {
+    "organic_clicks": {
+      "current": 12500,
+      "previous": 11800,
+      "change": 700,
+      "pct": 5.9
+    },
+    "impressions": {
+      "current": 450000,
+      "previous": 435000,
+      "change": 15000,
+      "pct": 3.4
+    },
+    "ctr": {
+      "current": 2.78,
+      "previous": 2.71,
+      "change": 0.07,
+      "pct": 2.6
+    },
+    "average_position": {
+      "current": 12.3,
+      "previous": 12.8,
+      "change": -0.5,
+      "pct": -3.9
+    },
+    "indexed_pages": {
+      "current": 247,
+      "previous": 242,
+      "change": 5,
+      "pct": 2.1
+    },
+    "crawl_errors": {
+      "current": 3,
+      "previous": 5,
+      "change": -2,
+      "pct": -40.0
+    },
+    "backlinks": {
+      "current": 1240,
+      "previous": 1215,
+      "change": 25,
+      "pct": 2.1
+    },
+    "referring_domains": {
+      "current": 340,
+      "previous": 332,
+      "change": 8,
+      "pct": 2.4
+    },
+    "conversions": {
+      "current": 340,
+      "previous": 315,
+      "change": 25,
+      "pct": 7.9
+    },
+    "conversion_rate": {
+      "current": 2.72,
+      "previous": 2.67,
+      "change": 0.05,
+      "pct": 1.9
+    },
+    "organic_revenue": {
+      "current": 952000,
+      "previous": 890000,
+      "change": 62000,
+      "pct": 7.0
+    },
+    "lcp": {
+      "current": 2.1,
+      "previous": 2.4,
+      "change": -0.3,
+      "pct": -12.5
+    },
+    "cls": {
+      "current": 0.15,
+      "previous": 0.18,
+      "change": -0.03,
+      "pct": -16.7
+    },
+    "gbp_views": {
+      "current": 12500,
+      "previous": 11800,
+      "change": 700,
+      "pct": 5.9
+    },
+    "reviews": {
+      "current": 5200,
+      "previous": 5185,
+      "change": 15,
+      "pct": 0.3
+    }
+  }
+}

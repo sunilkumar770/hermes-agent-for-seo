@@ -1,0 +1,2011 @@
+{
+  "total_keywords": 50,
+  "total_features": 140,
+  "feature_counts": {
+    "people_also_ask": 50,
+    "local_pack": 22,
+    "image_pack": 47,
+    "knowledge_panel": 1,
+    "shopping_results": 20
+  },
+  "feature_coverage": {
+    "people_also_ask": "50/50 (100%)",
+    "local_pack": "22/50 (44%)",
+    "image_pack": "47/50 (94%)",
+    "knowledge_panel": "1/50 (2%)",
+    "shopping_results": "20/50 (40%)"
+  },
+  "feature_details": {
+    "people_also_ask": [
+      {
+        "keyword": "car rentals hyderabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rentals hyderabad cost in Hyderabad?",
+            "Where can I find car rentals hyderabad near me?",
+            "What documents are needed for car rentals hyderabad?",
+            "Is car rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rentals hyderabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rentals hyderabad cost in Hyderabad?",
+            "Where can I find bike rentals hyderabad near me?",
+            "What documents are needed for bike rentals hyderabad?",
+            "Is bike rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "gorentals",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does gorentals cost in Hyderabad?",
+            "Where can I find gorentals near me?",
+            "What documents are needed for gorentals?",
+            "Is gorentals available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "go rentals hyderabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does go rentals hyderabad cost in Hyderabad?",
+            "Where can I find go rentals hyderabad near me?",
+            "What documents are needed for go rentals hyderabad?",
+            "Is go rentals hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental hyderabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental hyderabad cost in Hyderabad?",
+            "Where can I find bike rental hyderabad near me?",
+            "What documents are needed for bike rental hyderabad?",
+            "Is bike rental hyderabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "go rentals",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does go rentals cost in Hyderabad?",
+            "Where can I find go rentals near me?",
+            "What documents are needed for go rentals?",
+            "Is go rentals available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "self drive cars hyderabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive self drive cars hyderabad available in Hyderabad?",
+            "What is the mileage limit for self drive cars hyderabad?",
+            "Do I need license for self drive cars hyderabad?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental gachibowli cost in Hyderabad?",
+            "Where can I find bike rental gachibowli near me?",
+            "What documents are needed for bike rental gachibowli?",
+            "Is bike rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental gachibowli cost in Hyderabad?",
+            "Where can I find car rental gachibowli near me?",
+            "What documents are needed for car rental gachibowli?",
+            "Is car rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental gachibowli cost in Hyderabad?",
+            "Where can I find camera rental gachibowli near me?",
+            "What documents are needed for camera rental gachibowli?",
+            "Is camera rental gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car gachibowli available in Hyderabad?",
+            "What is the mileage limit for wedding car gachibowli?",
+            "Do I need license for wedding car gachibowli?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental madhapur cost in Hyderabad?",
+            "Where can I find bike rental madhapur near me?",
+            "What documents are needed for bike rental madhapur?",
+            "Is bike rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental madhapur cost in Hyderabad?",
+            "Where can I find car rental madhapur near me?",
+            "What documents are needed for car rental madhapur?",
+            "Is car rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental madhapur cost in Hyderabad?",
+            "Where can I find camera rental madhapur near me?",
+            "What documents are needed for camera rental madhapur?",
+            "Is camera rental madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car madhapur available in Hyderabad?",
+            "What is the mileage limit for wedding car madhapur?",
+            "Do I need license for wedding car madhapur?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental kukatpally cost in Hyderabad?",
+            "Where can I find bike rental kukatpally near me?",
+            "What documents are needed for bike rental kukatpally?",
+            "Is bike rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental kukatpally cost in Hyderabad?",
+            "Where can I find car rental kukatpally near me?",
+            "What documents are needed for car rental kukatpally?",
+            "Is car rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental kukatpally cost in Hyderabad?",
+            "Where can I find camera rental kukatpally near me?",
+            "What documents are needed for camera rental kukatpally?",
+            "Is camera rental kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car kukatpally available in Hyderabad?",
+            "What is the mileage limit for wedding car kukatpally?",
+            "Do I need license for wedding car kukatpally?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental kondapur cost in Hyderabad?",
+            "Where can I find bike rental kondapur near me?",
+            "What documents are needed for bike rental kondapur?",
+            "Is bike rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental kondapur cost in Hyderabad?",
+            "Where can I find car rental kondapur near me?",
+            "What documents are needed for car rental kondapur?",
+            "Is car rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental kondapur cost in Hyderabad?",
+            "Where can I find camera rental kondapur near me?",
+            "What documents are needed for camera rental kondapur?",
+            "Is camera rental kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental miyapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental miyapur cost in Hyderabad?",
+            "Where can I find bike rental miyapur near me?",
+            "What documents are needed for bike rental miyapur?",
+            "Is bike rental miyapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental miyapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental miyapur cost in Hyderabad?",
+            "Where can I find camera rental miyapur near me?",
+            "What documents are needed for camera rental miyapur?",
+            "Is camera rental miyapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental dilsukhnagar cost in Hyderabad?",
+            "Where can I find bike rental dilsukhnagar near me?",
+            "What documents are needed for bike rental dilsukhnagar?",
+            "Is bike rental dilsukhnagar available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental dilsukhnagar cost in Hyderabad?",
+            "Where can I find camera rental dilsukhnagar near me?",
+            "What documents are needed for camera rental dilsukhnagar?",
+            "Is camera rental dilsukhnagar available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental uppal",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental uppal cost in Hyderabad?",
+            "Where can I find bike rental uppal near me?",
+            "What documents are needed for bike rental uppal?",
+            "Is bike rental uppal available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental uppal",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental uppal cost in Hyderabad?",
+            "Where can I find camera rental uppal near me?",
+            "What documents are needed for camera rental uppal?",
+            "Is camera rental uppal available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental shamshabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental shamshabad cost in Hyderabad?",
+            "Where can I find bike rental shamshabad near me?",
+            "What documents are needed for bike rental shamshabad?",
+            "Is bike rental shamshabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental shamshabad",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental shamshabad cost in Hyderabad?",
+            "Where can I find camera rental shamshabad near me?",
+            "What documents are needed for camera rental shamshabad?",
+            "Is camera rental shamshabad available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental begumpet",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental begumpet cost in Hyderabad?",
+            "Where can I find camera rental begumpet near me?",
+            "What documents are needed for camera rental begumpet?",
+            "Is camera rental begumpet available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental near gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near gachibowli cost in Hyderabad?",
+            "Where can I find bike rental near gachibowli near me?",
+            "What documents are needed for bike rental near gachibowli?",
+            "Is bike rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental near gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental near gachibowli cost in Hyderabad?",
+            "Where can I find car rental near gachibowli near me?",
+            "What documents are needed for car rental near gachibowli?",
+            "Is car rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental near gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near gachibowli cost in Hyderabad?",
+            "Where can I find camera rental near gachibowli near me?",
+            "What documents are needed for camera rental near gachibowli?",
+            "Is camera rental near gachibowli available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car near gachibowli",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near gachibowli available in Hyderabad?",
+            "What is the mileage limit for wedding car near gachibowli?",
+            "Do I need license for wedding car near gachibowli?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental near madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near madhapur cost in Hyderabad?",
+            "Where can I find bike rental near madhapur near me?",
+            "What documents are needed for bike rental near madhapur?",
+            "Is bike rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental near madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental near madhapur cost in Hyderabad?",
+            "Where can I find car rental near madhapur near me?",
+            "What documents are needed for car rental near madhapur?",
+            "Is car rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental near madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near madhapur cost in Hyderabad?",
+            "Where can I find camera rental near madhapur near me?",
+            "What documents are needed for camera rental near madhapur?",
+            "Is camera rental near madhapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car near madhapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near madhapur available in Hyderabad?",
+            "What is the mileage limit for wedding car near madhapur?",
+            "Do I need license for wedding car near madhapur?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental near kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near kukatpally cost in Hyderabad?",
+            "Where can I find bike rental near kukatpally near me?",
+            "What documents are needed for bike rental near kukatpally?",
+            "Is bike rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental near kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental near kukatpally cost in Hyderabad?",
+            "Where can I find car rental near kukatpally near me?",
+            "What documents are needed for car rental near kukatpally?",
+            "Is car rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental near kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near kukatpally cost in Hyderabad?",
+            "Where can I find camera rental near kukatpally near me?",
+            "What documents are needed for camera rental near kukatpally?",
+            "Is camera rental near kukatpally available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car near kukatpally",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near kukatpally available in Hyderabad?",
+            "What is the mileage limit for wedding car near kukatpally?",
+            "Do I need license for wedding car near kukatpally?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental near kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near kondapur cost in Hyderabad?",
+            "Where can I find bike rental near kondapur near me?",
+            "What documents are needed for bike rental near kondapur?",
+            "Is bike rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental near kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental near kondapur cost in Hyderabad?",
+            "Where can I find car rental near kondapur near me?",
+            "What documents are needed for car rental near kondapur?",
+            "Is car rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental near kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near kondapur cost in Hyderabad?",
+            "Where can I find camera rental near kondapur near me?",
+            "What documents are needed for camera rental near kondapur?",
+            "Is camera rental near kondapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "wedding car near kondapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "Is self drive wedding car near kondapur available in Hyderabad?",
+            "What is the mileage limit for wedding car near kondapur?",
+            "Do I need license for wedding car near kondapur?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "bike rental near miyapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does bike rental near miyapur cost in Hyderabad?",
+            "Where can I find bike rental near miyapur near me?",
+            "What documents are needed for bike rental near miyapur?",
+            "Is bike rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "car rental near miyapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does car rental near miyapur cost in Hyderabad?",
+            "Where can I find car rental near miyapur near me?",
+            "What documents are needed for car rental near miyapur?",
+            "Is car rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      },
+      {
+        "keyword": "camera rental near miyapur",
+        "details": {
+          "present": true,
+          "questions": [
+            "How much does camera rental near miyapur cost in Hyderabad?",
+            "Where can I find camera rental near miyapur near me?",
+            "What documents are needed for camera rental near miyapur?",
+            "Is camera rental near miyapur available for monthly rental?"
+          ],
+          "count": 4
+        }
+      }
+    ],
+    "local_pack": [
+      {
+        "keyword": "car rentals hyderabad",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rentals hyderabad",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "go rentals hyderabad",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental hyderabad",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near gachibowli",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near madhapur",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near kukatpally",
+        "details": {
+          "present": true,
+          "listings_count": 3,
+          "top_listings": [
+            {
+              "name": "GoRentals",
+              "rating": 4.8,
+              "reviews": 1200
+            },
+            {
+              "name": "Rentomojo",
+              "rating": 4.3,
+              "reviews": 890
+            },
+            {
+              "name": "Local Vendor",
+              "rating": 4.5,
+              "reviews": 340
+            }
+          ]
+        }
+      }
+    ],
+    "image_pack": [
+      {
+        "keyword": "car rentals hyderabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rentals hyderabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental hyderabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "self drive cars hyderabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental miyapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental miyapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental uppal",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental uppal",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental shamshabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental shamshabad",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental begumpet",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car near gachibowli",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car near madhapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car near kukatpally",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "wedding car near kondapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near miyapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near miyapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near miyapur",
+        "details": {
+          "present": true,
+          "image_count": 6,
+          "top_sources": [
+            "gorentals.com",
+            "rentomojo.com",
+            "localvendor.com"
+          ]
+        }
+      }
+    ],
+    "knowledge_panel": [
+      {
+        "keyword": "gorentals",
+        "details": {
+          "present": true,
+          "entity_type": "LocalBusiness"
+        }
+      }
+    ],
+    "shopping_results": [
+      {
+        "keyword": "gorentals",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "go rentals",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental miyapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental miyapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental dilsukhnagar",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental uppal",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental uppal",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental shamshabad",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental shamshabad",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental begumpet",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near kondapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "bike rental near miyapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "car rental near miyapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      },
+      {
+        "keyword": "camera rental near miyapur",
+        "details": {
+          "present": true,
+          "product_count": 10,
+          "top_merchants": [
+            "Amazon",
+            "Flipkart",
+            "GoRentals"
+          ]
+        }
+      }
+    ]
+  }
+}

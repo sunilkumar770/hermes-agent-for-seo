@@ -1,0 +1,315 @@
+# GoRentals SEO Automation Configuration
+project:
+  name: "GoRentals"
+  domain: "gorentals.com"
+  brand_name: "GoRentals"
+  tagline: "India's Largest Peer-to-Peer Rental Marketplace"
+  location: "Hyderabad, Telangana, India"
+  target_areas:
+    - "Hyderabad"
+    - "Secunderabad"
+    - "Gachibowli"
+    - "Madhapur"
+    - "Hitech City"
+    - "Kukatpally"
+    - "Banjara Hills"
+    - "Jubilee Hills"
+    - "Kondapur"
+    - "Miyapur"
+    - "LB Nagar"
+    - "Dilsukhnagar"
+    - "Uppal"
+    - "Shamshabad"
+    - "Warangal"
+    - "Nizamabad"
+    - "Karimnagar"
+    - "Khammam"
+    - "Siddipet"
+    - "Mahabubnagar"
+
+seo:
+  primary_keywords:
+    - "rental marketplace"
+    - "peer to peer rental"
+    - "rent anything"
+    - "equipment rental"
+    - "party rental"
+    - "camera rental"
+    - "bike rental"
+    - "car rental"
+    - "tools rental"
+    - "furniture rental"
+  secondary_keywords:
+    - "rent instead of buy"
+    - "rental app"
+    - "rental platform"
+    - "short term rental"
+    - "daily rental"
+    - "weekly rental"
+    - "monthly rental"
+  content_pillars:
+    - "How to rent guides"
+    - "Rental vs Buy comparisons"
+    - "Local area rental guides"
+    - "Seasonal rental trends"
+    - "Business rental solutions"
+    - "Event rental planning"
+  target_intents:
+    - "informational"
+    - "commercial"
+    - "transactional"
+    - "navigational"
+
+agents:
+  keyword_intelligence:
+    enabled: true
+    sources:
+      - "google_suggest"
+      - "related_searches"
+      - "people_also_ask"
+      - "competitor_gaps"
+      - "search_console"
+    clustering:
+      method: "semantic"
+      min_cluster_size: 3
+      similarity_threshold: 0.7
+    output: "research/keyword-research.md"
+
+  competitor_intelligence:
+    enabled: true
+    competitors:
+      - "rentomojo.com"
+      - "furlenco.com"
+      - "grabonrent.com"
+      - "rentickle.com"
+      - "cityfurnish.com"
+      - "olx.in"
+      - "quikr.com"
+    metrics:
+      - "organic_keywords"
+      - "traffic_estimate"
+      - "top_pages"
+      - "backlink_profile"
+      - "content_gaps"
+    output: "research/competitor-analysis.md"
+
+  serp_analysis:
+    enabled: true
+    features_to_track:
+      - "featured_snippet"
+      - "people_also_ask"
+      - "local_pack"
+      - "knowledge_panel"
+      - "image_pack"
+      - "video_carousel"
+      - "shopping_results"
+    output: "research/serp-analysis.md"
+
+  content_strategy:
+    enabled: true
+    topical_map_depth: 3
+    cluster_min_keywords: 5
+    content_types:
+      - "pillar_page"
+      - "cluster_article"
+      - "comparison_page"
+      - "guide"
+      - "faq_page"
+      - "landing_page"
+      - "category_page"
+    output: "research/content-calendar.md"
+
+  seo_writer:
+    enabled: true
+    tone: "helpful_expert"
+    word_count_ranges:
+      pillar_page: [2500, 4000]
+      cluster_article: [1500, 2500]
+      comparison: [2000, 3000]
+      guide: [3000, 5000]
+      faq_page: [800, 1500]
+      landing_page: [1000, 2000]
+    quality_checks:
+      - "readability"
+      - "keyword_density"
+      - "entity_coverage"
+      - "search_intent_match"
+      - "originality"
+    output_dir: "content/blog-posts/"
+
+  technical_seo:
+    enabled: true
+    checks:
+      - "crawlability"
+      - "indexability"
+      - "site_speed"
+      - "mobile_usability"
+      - "core_web_vitals"
+      - "structured_data"
+      - "xml_sitemap"
+      - "robots_txt"
+      - "canonical_tags"
+      - "hreflang"
+      - "redirect_chains"
+      - "broken_links"
+      - "duplicate_content"
+      - "thin_content"
+    output: "research/technical-audit.md"
+
+  internal_linking:
+    enabled: true
+    strategy: "topic_cluster"
+    max_links_per_page: 5
+    anchor_text_diversity: true
+    link_types:
+      - "contextual"
+      - "navigational"
+      - "breadcrumb"
+      - "related_posts"
+    output: "content/metadata/internal-links.json"
+
+  local_seo:
+    enabled: true
+    areas:
+      - "Hyderabad"
+      - "Secunderabad"
+      - "Gachibowli"
+      - "Madhapur"
+      - "Hitech City"
+      - "Kukatpally"
+      - "Banjara Hills"
+      - "Jubilee Hills"
+      - "Kondapur"
+      - "Miyapur"
+      - "LB Nagar"
+      - "Dilsukhnagar"
+      - "Uppal"
+      - "Shamshabad"
+      - "Warangal"
+      - "Nizamabad"
+      - "Karimnagar"
+      - "Khammam"
+      - "Siddipet"
+      - "Mahabubnagar"
+    gbp_optimization:
+      - "business_hours"
+      - "categories"
+      - "attributes"
+      - "photos"
+      - "posts"
+      - "reviews_response"
+      - "qa_section"
+    nap_consistency:
+      - "name"
+      - "address"
+      - "phone"
+      - "website"
+    schema_types:
+      - "LocalBusiness"
+      - "Service"
+      - "Product"
+      - "FAQPage"
+      - "Review"
+      - "AggregateRating"
+    output: "research/local-seo.md"
+
+  eeat_optimization:
+    enabled: true
+    components:
+      - "author_bios"
+      - "company_info"
+      - "editorial_policy"
+      - "contact_transparency"
+      - "trust_signals"
+      - "credentials"
+      - "reviews_testimonials"
+      - "security_badges"
+    output: "research/eeat-report.md"
+
+  content_refresh:
+    enabled: true
+    triggers:
+      - "stale_content_90_days"
+      - "ranking_drop"
+      - "new_competitor_content"
+      - "algorithm_update"
+      - "statistics_outdated"
+      - "broken_links"
+    improvement_actions:
+      - "update_statistics"
+      - "add_current_examples"
+      - "expand_faqs"
+      - "improve_schema"
+      - "add_internal_links"
+      - "optimize_metadata"
+      - "refresh_images"
+    output: "research/content-refresh-report.md"
+
+  github_deployment:
+    enabled: true
+    repo: "gorentals/seo-content"
+    branch: "seo-automation"
+    auto_push: true
+    validation:
+      - "markdown_lint"
+      - "metadata_validation"
+      - "schema_validation"
+      - "link_check"
+      - "image_optimization"
+    commit_types:
+      - "feat(seo)"
+      - "feat(blog)"
+      - "fix(metadata)"
+      - "fix(schema)"
+      - "docs(seo)"
+    output: "deployment-log.md"
+
+  performance_tracking:
+    enabled: true
+    metrics:
+      - "organic_clicks"
+      - "impressions"
+      - "ctr"
+      - "average_position"
+      - "indexed_pages"
+      - "crawl_errors"
+      - "core_web_vitals"
+      - "backlinks"
+      - "referring_domains"
+      - "lost_rankings"
+      - "conversions"
+    frequency: "daily"
+    output: "research/performance-report.md"
+
+scheduler:
+  enabled: true
+  daily_run_time: "02:00"
+  timezone: "Asia/Kolkata"
+  auto_run: true
+  modes:
+    monday: "full"
+    tuesday: "research"
+    wednesday: "content"
+    thursday: "technical"
+    friday: "local"
+    saturday: "research"
+    sunday: "full"
+
+continuous_improvement:
+  enabled: true
+  learning_window_days: 14
+  min_improvement_threshold: 2
+  auto_apply_learnings: true
+  track_experiments: true
+  experiment_min_days: 14
+  learning_categories:
+    - "title_tag_patterns"
+    - "content_length_optimal"
+    - "keyword_density_target"
+    - "schema_types_that_help"
+    - "city_pages_performance"
+    - "internal_linking_patterns"
+    - "local_seo_patterns"
+    - "ctr_optimization_patterns"
+  min_ctr_lift_for_success: 0.5
+  min_position_improvement_for_success: 2

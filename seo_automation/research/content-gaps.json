@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-19T20:40:35.743289",
+  "total_gaps": 8,
+  "gaps": [
+    {
+      "topic": "how to choose rental bike",
+      "intent": "informational",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "bike rental vs buying calculator",
+      "intent": "transactional",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "camera rental for beginners",
+      "intent": "commercial",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "wedding car decoration ideas",
+      "intent": "commercial",
+      "estimated_volume": 500,
+      "priority": "medium"
+    },
+    {
+      "topic": "corporate rental policies",
+      "intent": "commercial",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "rental insurance guide",
+      "intent": "informational",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "seasonal rental tips",
+      "intent": "commercial",
+      "estimated_volume": 500,
+      "priority": "high"
+    },
+    {
+      "topic": "student rental discounts",
+      "intent": "commercial",
+      "estimated_volume": 500,
+      "priority": "high"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "generated_at": "2026-07-19T16:50:03.281286",
+  "total_fixes": 25,
+  "critical": 6,
+  "high": 19,
+  "medium": 0,
+  "low": 0,
+  "fixes": [
+    {
+      "category": "site_speed",
+      "issue": "critical CSS",
+      "details": "Render-blocking CSS delaying FCP",
+      "action": "Inline critical CSS, defer non-critical",
+      "priority": "critical",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "category": "core_web_vitals",
+      "issue": "LCP (Largest Contentful Paint)",
+      "details": "3.2s",
+      "action": "Optimize hero images, implement lazy loading, reduce server response",
+      "priority": "critical",
+      "effort": "high",
+      "impact": "high"
+    },
+    {
+      "category": "xml_sitemap",
+      "issue": "lastmod dates",
+      "details": "Many URLs missing lastmod or have stale dates",
+      "action": "Add accurate lastmod on content update",
+      "priority": "critical",
+      "effort": "medium",
+      "impact": "low"
+    },
+    {
+      "category": "canonical_tags",
+      "issue": "self-referencing canonicals",
+      "details": "Category and paginated pages missing self-referencing canonicals",
+      "action": "Add <link rel=\"canonical\" href=\"self-url\"> to all pages",
+      "priority": "critical",
+      "effort": "medium",
+      "impact": "medium"
+    },
+    {
+      "category": "canonical_tags",
+      "issue": "pagination canonicals",
+      "details": "Page 2+ canonical to page 1 instead of self",
+      "action": "Each page should self-canonical; use rel=next/prev for pagination",
+      "priority": "critical",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "category": "thin_content",
+      "issue": "local area pages",
+      "details": "15 area pages have < 200 words, template content",
+      "action": "Add 800+ words unique local content per area",
+      "priority": "critical",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "category": "crawlability",
+      "issue": "important pages crawlable",
+      "details": "Verify /rentals/, /blog/, /cities/ not blocked",
+      "action": "Check robots.txt for accidental blocks",
+      "priority": "high",
+      "effort": "low",
+      "impact": "high"
+    },
+    {
+      "category": "crawlability",
+      "issue": "faceted navigation",
+      "details": "Category filters may create infinite URLs",
+      "action": "Implement rel=nofollow or block in robots.txt",
+      "priority": "high",
+      "effort": "high",
+      "impact": "high"
+    },
+    {
+      "category": "indexability",
+      "issue": "self-referencing canonicals",
+      "details": "Some category pages missing self-referencing canonicals",
+      "action": "Add self-referencing canonical to all pages",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "category": "indexability",
+      "issue": "pagination handling",
+      "details": "Category pagination may need rel=next/prev or canonical to page 1",
+      "action": "Implement proper pagination signals",
+      "priority": "high",
+      "effort": "high",
+      "impact": "high"
+    },
+    {
+      "category": "indexability",
+      "issue": "URL parameters",
+      "details": "Filter/sort parameters creating duplicate content",
+      "action": "Configure parameter handling in GSC or use canonicals",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "category": "site_speed",
+      "issue": "browser caching",
+      "details": "Static assets missing long-term cache headers",
+      "action": "Add Cache-Control: max-age=31536000 for static assets",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "medium"
+    },
+    {
+      "category": "site_speed",
+      "issue": "CDN usage",
+      "details": "Images not served via CDN",
+      "action": "Implement Cloudflare/CloudFront for image delivery",
+      "priority": "high",
+      "effort": "high",
+      "impact": "medium"
+    },
+    {
+      "category": "mobile_usability",
+      "issue": "touch target sizing",
+      "details": "Some buttons/links < 48x48px on mobile",
+      "action": "Ensure all interactive elements >= 48x48px",
+      "priority": "high",
+      "effort": "low",
+      "impact": "low"
+    },
+    {
+      "category": "core_web_vitals",
+      "issue": "CLS (Cumulative Layout Shift)",
+      "details": "0.15",
+      "action": "Set width/height on images, reserve space for ads/embeds",
+      "priority": "high",
+      "effort": "low",
+      "impact": "high"
+    },
+    {
+      "category": "structured_data",
+      "issue": "schema validation",
+      "details": "Some Product schemas missing required fields (offers, aggregateRating)",
+      "action": "Run through Google Rich Results Test for all page types",
+      "priority": "high",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "category": "xml_sitemap",
+      "issue": "sitemap coverage",
+      "details": "Missing new local area pages, blog posts from last 30 days",
+      "action": "Auto-generate sitemap on content publish",
+      "priority": "high",
+      "effort": "low",
+      "impact": "low"
+    },
+    {
+      "category": "canonical_tags",
+      "issue": "parameter canonicals",
+      "details": "Filter/sort URLs should canonical to clean version",
+      "action": "Canonical filter URLs to base category URL",
+      "priority": "high",
+      "effort": "low",
+      "impact": "medium"
+    },
+    {
+      "category": "redirect_chains",
+      "issue": "redirect chains",
+      "details": "3 redirect chains detected (A->B->C)",
+      "action": "Update redirects to point directly to final destination",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "medium"
+    },
+    {
+      "category": "broken_links",
+      "issue": "internal 404s",
+      "details": "12 internal links returning 404",
+      "action": "Fix or remove broken internal links",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "low"
+    },
+    {
+      "category": "broken_links",
+      "issue": "external 404s",
+      "details": "5 external links returning 404",
+      "action": "Update or remove broken external links",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "low"
+    },
+    {
+      "category": "duplicate_content",
+      "issue": "category page duplicates",
+      "details": "Similar content on /rentals/bike/ and /rentals/bike/hyderabad/",
+      "action": "Add unique local content to area pages",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "low"
+    },
+    {
+      "category": "duplicate_content",
+      "issue": "product variants",
+      "details": "Similar rental items with nearly identical descriptions",
+      "action": "Add unique specs, features, use cases per item",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "low"
+    },
+    {
+      "category": "thin_content",
+      "issue": "category pages",
+      "details": "5 category pages have < 300 words",
+      "action": "Add 500+ words of unique content per category",
+      "priority": "high",
+      "effort": "medium",
+      "impact": "high"
+    },
+    {
+      "category": "thin_content",
+      "issue": "product pages",
+      "details": "8 rental item pages have < 400 words",
+      "action": "Expand descriptions with specs, features, use cases",
+      "priority": "high",
+      "effort": "low",
+      "impact": "high"
+    }
+  ]
+}

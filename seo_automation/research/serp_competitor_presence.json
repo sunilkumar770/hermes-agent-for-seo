@@ -1,0 +1,45 @@
+{
+  "competitor_positions": {
+    "gorentals.com": {
+      "avg_position": 1.0,
+      "best_position": 1,
+      "top_3_count": 50,
+      "keywords": 50
+    },
+    "rentomojo.com": {
+      "avg_position": 2.0,
+      "best_position": 2,
+      "top_3_count": 50,
+      "keywords": 50
+    },
+    "furlenco.com": {
+      "avg_position": 3.0,
+      "best_position": 3,
+      "top_3_count": 50,
+      "keywords": 50
+    },
+    "grabonrent.com": {
+      "avg_position": 4.0,
+      "best_position": 4,
+      "top_3_count": 0,
+      "keywords": 50
+    },
+    "localvendor.com": {
+      "avg_position": 5.0,
+      "best_position": 5,
+      "top_3_count": 0,
+      "keywords": 50
+    }
+  },
+  "competitor_features": {
+    "gorentals.com": {
+      "image_pack": 47
+    },
+    "rentomojo.com": {
+      "image_pack": 47
+    },
+    "localvendor.com": {
+      "image_pack": 47
+    }
+  }
+}

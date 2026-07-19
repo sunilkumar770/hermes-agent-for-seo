@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-07-19T20:40:35.879296",
+  "signals": [
+    {
+      "signal": "SSL Certificate",
+      "implementation": "Add SSL trust seal to footer & checkout",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "signal": "Payment Security",
+      "implementation": "Display Razorpay/Stripe badges on payment pages",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "signal": "Google Reviews",
+      "implementation": "Embed Google Reviews widget on homepage & landing pages",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "signal": "Customer Count",
+      "implementation": "Display \"5,000+ Happy Customers\" with live counter",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "signal": "Verified Providers",
+      "implementation": "Show \"50+ Verified Providers\" badge on category pages",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "signal": "Rating Display",
+      "implementation": "Show 4.8★ from 5000+ reviews in header/schema",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "signal": "Media Mentions",
+      "implementation": "Press logo bar: YourStory, Inc42, Economic Times",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "signal": "Partner Logos",
+      "implementation": "Razorpay, Dunzo, AWS, Google Cloud logos in footer",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "signal": "Certifications",
+      "implementation": "ISO 27001 (In Progress), PCI DSS, Google Partner badges",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "signal": "Money-Back Guarantee",
+      "implementation": "Display \"Easy Cancellation & Refund\" policy prominently",
+      "status": "pending",
+      "priority": "high"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-07-19T20:40:35.863778",
+  "schemas": [
+    {
+      "type": "LocalBusiness",
+      "pages": "All city/area landing pages",
+      "required_fields": [
+        "name",
+        "description",
+        "address",
+        "geo",
+        "telephone",
+        "url",
+        "openingHours",
+        "priceRange",
+        "areaServed"
+      ],
+      "optional_fields": [
+        "aggregateRating",
+        "review",
+        "photo",
+        "paymentAccepted",
+        "currenciesAccepted"
+      ],
+      "status": "to_implement"
+    },
+    {
+      "type": "Service",
+      "pages": "Category pages (/rentals/bike/, /rentals/car/)",
+      "required_fields": [
+        "name",
+        "description",
+        "provider",
+        "areaServed",
+        "offers"
+      ],
+      "optional_fields": [
+        "serviceType",
+        "availableChannel",
+        "serviceOutput"
+      ],
+      "status": "to_implement"
+    },
+    {
+      "type": "Product",
+      "pages": "Individual rental item pages",
+      "required_fields": [
+        "name",
+        "description",
+        "image",
+        "offers",
+        "brand"
+      ],
+      "optional_fields": [
+        "aggregateRating",
+        "review",
+        "sku",
+        "category"
+      ],
+      "status": "to_implement"
+    },
+    {
+      "type": "FAQPage",
+      "pages": "All guide/FAQ pages, local pages",
+      "required_fields": [
+        "mainEntity (Question/Answer pairs)"
+      ],
+      "optional_fields": [],
+      "status": "partial"
+    },
+    {
+      "type": "Review",
+      "pages": "Review/testimonial pages",
+      "required_fields": [
+        "author",
+        "datePublished",
+        "reviewBody",
+        "reviewRating"
+      ],
+      "optional_fields": [
+        "publisher"
+      ],
+      "status": "to_implement"
+    },
+    {
+      "type": "AggregateRating",
+      "pages": "All pages with reviews",
+      "required_fields": [
+        "ratingValue",
+        "reviewCount",
+        "bestRating",
+        "worstRating"
+      ],
+      "optional_fields": [],
+      "status": "to_implement"
+    },
+    {
+      "type": "BreadcrumbList",
+      "pages": "All pages",
+      "required_fields": [
+        "itemListElement (ListItem with position, name, item)"
+      ],
+      "optional_fields": [],
+      "status": "partial"
+    },
+    {
+      "type": "ItemList",
+      "pages": "Category and list pages",
+      "required_fields": [
+        "itemListElement (ListItem with position, item)"
+      ],
+      "optional_fields": [
+        "numberOfItems"
+      ],
+      "status": "to_implement"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-07-19T20:40:35.857556",
+  "total_items": 28,
+  "checklist": [
+    {
+      "category": "Core Info",
+      "item": "Business Name: \"GoRentals - Rental Marketplace\"",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Core Info",
+      "item": "Categories: Equipment Rental Agency, Bicycle Rental Service, Car Rental Agency, Camera Store",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Core Info",
+      "item": "Address: Hyderabad, Telangana (Service Area Business)",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Core Info",
+      "item": "Phone: Verified local number with WhatsApp",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Core Info",
+      "item": "Website: https://gorentals.com",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Core Info",
+      "item": "Hours: Mon-Sun 8:00 AM - 10:00 PM",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Attributes",
+      "item": "Online Appointments: Enabled",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Attributes",
+      "item": "Wheelchair Accessible: Yes",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Attributes",
+      "item": "LGBTQ+ Friendly: Yes",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Attributes",
+      "item": "Free WiFi: Yes",
+      "status": "pending",
+      "priority": "low"
+    },
+    {
+      "category": "Photos",
+      "item": "Logo: High-res logo (250x250)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Photos",
+      "item": "Cover: Team/office photo",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Photos",
+      "item": "Products: 10+ rental item photos",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Photos",
+      "item": "Team: 5+ team member photos",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Photos",
+      "item": "Storefront/Office: 3+ angles",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Posts",
+      "item": "Weekly posts: Offers, updates, events",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Posts",
+      "item": "Offer posts: Seasonal discounts",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Posts",
+      "item": "Event posts: Wedding season, festivals",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Reviews",
+      "item": "Respond to ALL reviews within 24 hours",
+      "status": "pending",
+      "priority": "critical"
+    },
+    {
+      "category": "Reviews",
+      "item": "Request reviews post-rental (email/SMS)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Reviews",
+      "item": "Featured positive reviews on website",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "category": "Q&A",
+      "item": "Add 15+ FAQs (pricing, docs, delivery, cancellation)",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Q&A",
+      "item": "Monitor and answer new questions daily",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Service Area",
+      "item": "Configure 20 service areas",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Products",
+      "item": "Add all rental categories as products",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Products",
+      "item": "Add pricing, descriptions, photos per product",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Messaging",
+      "item": "Enable messaging with auto-reply",
+      "status": "pending",
+      "priority": "high"
+    },
+    {
+      "category": "Insights",
+      "item": "Monthly review of GBP insights",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}

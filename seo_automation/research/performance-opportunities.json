@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-07-19T20:40:35.701588",
+  "opportunities": [
+    {
+      "type": "page_2_keywords",
+      "count": 180,
+      "action": "Optimize 11-20 position keywords to reach page 1",
+      "potential_traffic": "High",
+      "effort": "Medium"
+    },
+    {
+      "type": "missing_schema",
+      "schemas_missing": [
+        "LocalBusiness",
+        "Product",
+        "FAQPage",
+        "Review"
+      ],
+      "action": "Implement missing schema types on relevant pages",
+      "potential_traffic": "Medium",
+      "effort": "Medium"
+    },
+    {
+      "type": "backlink_opportunities",
+      "unclaimed_citations": 3,
+      "competitor_gaps": 5,
+      "action": "Claim unclaimed citations, pursue competitor backlink gaps",
+      "potential_traffic": "Low",
+      "effort": "High"
+    },
+    {
+      "type": "content_gaps",
+      "estimated_gaps": 25,
+      "action": "Create content for competitor keywords we don't target",
+      "potential_traffic": "High",
+      "effort": "Medium"
+    },
+    {
+      "type": "cwv_optimization",
+      "metric": "CLS",
+      "current": 0.15,
+      "target": 0.1,
+      "action": "Set width/height on images, reserve space for ads/embeds",
+      "potential_traffic": "Low",
+      "effort": "Low"
+    }
+  ]
+}

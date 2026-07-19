@@ -1,0 +1,72 @@
+{
+  "executed_at": "2026-07-19T20:40:35.902324",
+  "refreshed_count": 6,
+  "refreshed": [
+    {
+      "url": "/blog/bike-rental-guide-hyderabad",
+      "type": "ranking_drop_recovery",
+      "actions_completed": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898722",
+      "status": "completed"
+    },
+    {
+      "url": "/blog/camera-rental-hyderabad",
+      "type": "ranking_drop_recovery",
+      "actions_completed": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898730",
+      "status": "completed"
+    },
+    {
+      "url": "/blog/self-drive-car-hyderabad",
+      "type": "ranking_drop_recovery",
+      "actions_completed": [
+        "Analyze competitor content for dropped keyword",
+        "Update content with fresh data, better structure",
+        "Add FAQ section targeting PAA questions"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898732",
+      "status": "completed"
+    },
+    {
+      "url": "/blog/bike-rental-guide-hyderabad",
+      "type": "external",
+      "actions_completed": [
+        "Fix or remove broken external link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898733",
+      "status": "completed"
+    },
+    {
+      "url": "/blog/camera-rental-hyderabad",
+      "type": "internal",
+      "actions_completed": [
+        "Fix or remove broken internal link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898734",
+      "status": "completed"
+    },
+    {
+      "url": "/blog/wedding-car-guide",
+      "type": "external",
+      "actions_completed": [
+        "Fix or remove broken external link",
+        "Replace with working alternative",
+        "Update link text if needed"
+      ],
+      "refreshed_at": "2026-07-19T20:40:35.898736",
+      "status": "completed"
+    }
+  ]
+}

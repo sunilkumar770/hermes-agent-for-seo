@@ -1,0 +1,23 @@
+{
+  "detected_at": "2026-07-19T20:40:35.699770",
+  "anomalies": [
+    {
+      "type": "significant_drop",
+      "metric": "crawl_errors",
+      "change": -40.0,
+      "severity": "high",
+      "description": "crawl_errors dropped 40.0% week-over-week"
+    },
+    {
+      "type": "cwv_issue",
+      "metric": "cls",
+      "value": 0.15,
+      "target": 0.1,
+      "pages_affected": [
+        "/rentals/category/",
+        "/blog/"
+      ],
+      "severity": "high"
+    }
+  ]
+}
