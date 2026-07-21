@@ -1,8 +1,8 @@
 # GoRentals SEO Automation Configuration
 project:
-  name: "GoRentals"
-  domain: "gorentals.com"
-  brand_name: "GoRentals"
+  name: "GoRentls"
+  domain: "gorentls.com"
+  brand_name: "GoRentls"
   tagline: "India's Largest Peer-to-Peer Rental Marketplace"
   location: "Hyderabad, Telangana, India"
   target_areas:
@@ -247,7 +247,7 @@ agents:
 
   github_deployment:
     enabled: true
-    repo: "gorentals/seo-content"
+    repo: "gorentls/seo-content"
     branch: "seo-automation"
     auto_push: true
     validation:
@@ -280,6 +280,62 @@ agents:
       - "conversions"
     frequency: "daily"
     output: "research/performance-report.md"
+
+  rank_checker:
+    enabled: true
+    sources:
+      - "serpbear"
+      - "serpapi"
+      - "gsc"
+      - "manual"
+    tracking_keywords_file: "research/tracking_keywords.json"
+    history_days: 90
+    alert_thresholds:
+      critical_drop: 10
+      warning_drop: 5
+      significant_gain: 3
+      new_ranking_top: 20
+    output: "research/rank-tracking-report.md"
+    output_json: "research/rank-history.json"
+
+  content_rating:
+    enabled: true
+    scoring_weights:
+      readability: 20
+      keyword_optimization: 20
+      search_intent_match: 15
+      content_depth: 15
+      eeat_signals: 10
+      structure_formatting: 10
+      internal_linking: 5
+      originality: 5
+    quality_thresholds:
+      excellent: 85
+      good: 70
+      needs_improvement: 50
+      poor: 30
+    checks:
+      - "readability_flesch_kincaid"
+      - "readability_grade_level"
+      - "keyword_density_primary"
+      - "keyword_density_secondary"
+      - "keyword_prominence"
+      - "search_intent_coverage"
+      - "topic_completeness"
+      - "content_length_vs_intent"
+      - "author_bio_presence"
+      - "company_info_presence"
+      - "external_citations"
+      - "heading_structure"
+      - "paragraph_length"
+      - "bullet_list_usage"
+      - "table_usage"
+      - "image_alt_text"
+      - "internal_link_count"
+      - "duplicate_content_check"
+      - "thin_content_check"
+    output: "research/content-quality-report.md"
+    output_json: "research/content-ratings.json"
 
 scheduler:
   enabled: true

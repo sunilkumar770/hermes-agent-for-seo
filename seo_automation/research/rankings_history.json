@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T12:28:24.253415",
+    "total_tracked": 3,
+    "total_ranked": 3,
+    "rankings": {
+      "car rentals hyderabad": {
+        "position": 95,
+        "source": "serpbear"
+      },
+      "bike rentals hyderabad": {
+        "position": 21,
+        "source": "serpbear"
+      },
+      "camera rentals hyderabad": {
+        "position": 3,
+        "source": "serpbear"
+      }
+    }
+  }
+]

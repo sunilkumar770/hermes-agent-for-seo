@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-07-21T12:28:24.269879",
+  "alerts": [
+    {
+      "type": "new_top_page",
+      "severity": "info",
+      "keyword": "camera rentals hyderabad",
+      "message": "NEW RANKING: 'camera rentals hyderabad' now ranking at position 3 (Page 1!)",
+      "data": {
+        "keyword": "camera rentals hyderabad",
+        "current_position": 3,
+        "source": "serpbear",
+        "priority": "high",
+        "top_page": true
+      },
+      "timestamp": "2026-07-21T12:28:24.260723"
+    }
+  ],
+  "summary": {
+    "critical": 0,
+    "warning": 0,
+    "info": 1
+  }
+}

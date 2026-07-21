@@ -1,5 +1,5 @@
 {
-  "executed_at": "2026-07-21T11:17:07.234709",
+  "executed_at": "2026-07-21T12:28:24.232341",
   "refreshed_count": 6,
   "refreshed": [
     {
@@ -10,7 +10,7 @@
         "Update content with fresh data, better structure",
         "Add FAQ section targeting PAA questions"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228804",
+      "refreshed_at": "2026-07-21T12:28:24.225062",
       "status": "completed"
     },
     {
@@ -21,7 +21,7 @@
         "Update content with fresh data, better structure",
         "Add FAQ section targeting PAA questions"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228814",
+      "refreshed_at": "2026-07-21T12:28:24.225073",
       "status": "completed"
     },
     {
@@ -32,7 +32,7 @@
         "Update content with fresh data, better structure",
         "Add FAQ section targeting PAA questions"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228817",
+      "refreshed_at": "2026-07-21T12:28:24.225075",
       "status": "completed"
     },
     {
@@ -43,7 +43,7 @@
         "Replace with working alternative",
         "Update link text if needed"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228819",
+      "refreshed_at": "2026-07-21T12:28:24.225077",
       "status": "completed"
     },
     {
@@ -54,7 +54,7 @@
         "Replace with working alternative",
         "Update link text if needed"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228821",
+      "refreshed_at": "2026-07-21T12:28:24.225079",
       "status": "completed"
     },
     {
@@ -65,7 +65,7 @@
         "Replace with working alternative",
         "Update link text if needed"
       ],
-      "refreshed_at": "2026-07-21T11:17:07.228822",
+      "refreshed_at": "2026-07-21T12:28:24.225081",
       "status": "completed"
     }
   ]

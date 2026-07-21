@@ -1,6 +1,6 @@
 """
-Master Orchestrator for GoRentals 12-Agent SEO Automation System
-Runs the complete SEO automation cycle with all 12 agents
+Master Orchestrator for GoRentals 14-Agent SEO Automation System
+Runs the complete SEO automation cycle with all 14 agents
 Supports daily scheduled runs, continuous mode, and auto GitHub deployment
 """
 import asyncio
@@ -36,7 +36,7 @@ from self_improving_engine import run_evolution_cycle, load_json, EXPERIMENTS_PA
 
 
 class MasterOrchestrator:
-    """Main orchestrator for the 12-agent SEO automation system"""
+    """Main orchestrator for the 14-agent SEO automation system"""
 
     def __init__(self, config_path: str = "config/settings.yaml"):
         self.config = load_config(config_path)
@@ -54,7 +54,7 @@ class MasterOrchestrator:
         self.github_config = self.config.get('agents', {}).get('github_deployment', {})
 
     def initialize_agents(self) -> Dict[str, BaseAgent]:
-        """Initialize all 12 agents - load from source files to bypass cache"""
+        """Initialize all 14 agents - load from source files to bypass cache"""
         import importlib.util
         import sys
 
@@ -78,7 +78,9 @@ class MasterOrchestrator:
             'eeat_optimization': self.auto_dir / 'agents' / 'eeat_optimization.py',
             'content_refresh': self.auto_dir / 'agents' / 'content_refresh.py',
             'github_deployment': self.auto_dir / 'agents' / 'github_deployment.py',
-            'performance_tracking': self.auto_dir / 'agents' / 'performance_tracking.py'
+            'performance_tracking': self.auto_dir / 'agents' / 'performance_tracking.py',
+            'rank_checker': self.auto_dir / 'agents' / 'rank_checker.py',
+            'content_rating': self.auto_dir / 'agents' / 'content_rating.py'
         }
 
         agents = {}
@@ -140,6 +142,14 @@ class MasterOrchestrator:
             'performance_tracking', agent_configs.get('performance_tracking', {}), self.auto_dir
         )
 
+        agent_instances['rank_checker'] = agents['rank_checker'].RankCheckerAgent(
+            'rank_checker', agent_configs.get('rank_checker', {}), self.auto_dir
+        )
+
+        agent_instances['content_rating'] = agents['content_rating'].ContentRatingAgent(
+            'content_rating', agent_configs.get('content_rating', {}), self.auto_dir
+        )
+
         return agent_instances
 
     def load_context(self) -> Dict[str, Any]:
@@ -154,7 +164,8 @@ class MasterOrchestrator:
             'serp_analysis': {},
             'changed_files': [],
             'performance_history': [],
-            'learnings': []
+            'learnings': [],
+            'prioritized_content': []
         }
 
         # Load keywords
@@ -266,9 +277,9 @@ class MasterOrchestrator:
             }
 
     def run_full_cycle(self) -> Dict[str, Any]:
-        """Run the complete 12-agent SEO automation cycle"""
+        """Run the complete 14-agent SEO automation cycle"""
         print(f"\n{'='*60}")
-        print(f"🚀 GoRentals 12-Agent SEO Automation - FULL MODE")
+        print(f"🚀 GoRentals 14-Agent SEO Automation - FULL MODE")
         print(f"{'='*60}")
 
         # Initialize agents
@@ -292,6 +303,8 @@ class MasterOrchestrator:
             'local_seo',
             'eeat_optimization',
             'content_refresh',
+            'rank_checker',
+            'content_rating',
             'github_deployment'
         ]
 
@@ -336,6 +349,7 @@ class MasterOrchestrator:
 
         print(f"\n✅ Successful: {successful}")
         print(f"❌ Failed: {failed}")
+
         print(f"\n📁 Total files generated: {total_files}")
 
         print(f"\n📋 Agent Results:")
@@ -375,7 +389,7 @@ class MasterOrchestrator:
 
 
 def main():
-    parser = argparse.ArgumentParser(description='GoRentals 12-Agent SEO Automation')
+    parser = argparse.ArgumentParser(description='GoRentals 14-Agent SEO Automation')
     parser.add_argument('--mode', choices=['full', 'continuous', 'schedule'], default='full',
                        help='Run mode: full (single cycle), continuous (loop), schedule (daily)')
     parser.add_argument('--config', default='config/settings.yaml', help='Config file path')
