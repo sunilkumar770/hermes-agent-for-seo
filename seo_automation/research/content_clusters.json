@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:40:35.801325",
+  "generated_at": "2026-07-21T11:14:51.473781",
   "total_clusters": 35,
   "clusters": [
     {
@@ -290,10 +290,10 @@
       "total_volume": 28750,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -571,10 +571,10 @@
       "total_volume": 15200,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 732.3,
@@ -717,10 +717,10 @@
       "total_volume": 13100,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -815,11 +815,11 @@
       "total_volume": 5200,
       "primary_intent": "commercial",
       "content_types": [
+        "blog_post",
+        "faq_page",
         "guide",
         "landing_page",
-        "blog_post",
-        "category_page",
-        "faq_page"
+        "category_page"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -894,10 +894,10 @@
       "total_volume": 3600,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "comparison_page",
-        "landing_page",
         "blog_post",
+        "guide",
+        "landing_page",
+        "comparison_page",
         "category_page"
       ],
       "priority": 732.3,
@@ -975,8 +975,8 @@
       "primary_intent": "informational",
       "content_types": [
         "guide",
-        "faq_page",
-        "blog_post"
+        "blog_post",
+        "faq_page"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -1126,10 +1126,10 @@
       "total_volume": 19600,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1242,10 +1242,10 @@
       "total_volume": 6100,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 329.0,
@@ -1291,11 +1291,11 @@
       "total_volume": 2300,
       "primary_intent": "commercial",
       "content_types": [
+        "blog_post",
+        "faq_page",
         "guide",
         "landing_page",
-        "blog_post",
-        "category_page",
-        "faq_page"
+        "category_page"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1328,12 +1328,12 @@
         "best bike rentals madhapur"
       ],
       "total_volume": 1400,
-      "primary_intent": "informational",
+      "primary_intent": "commercial",
       "content_types": [
-        "guide",
-        "comparison_page",
-        "landing_page",
         "blog_post",
+        "guide",
+        "landing_page",
+        "comparison_page",
         "category_page"
       ],
       "priority": 329.0,
@@ -1390,10 +1390,10 @@
       "total_volume": 900,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1414,8 +1414,8 @@
       "primary_intent": "informational",
       "content_types": [
         "guide",
-        "faq_page",
-        "blog_post"
+        "blog_post",
+        "faq_page"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1559,10 +1559,10 @@
       "total_volume": 14790,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1671,10 +1671,10 @@
       "total_volume": 5900,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 275.3,
@@ -1720,11 +1720,11 @@
       "total_volume": 2300,
       "primary_intent": "commercial",
       "content_types": [
+        "blog_post",
+        "faq_page",
         "guide",
         "landing_page",
-        "blog_post",
-        "category_page",
-        "faq_page"
+        "category_page"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1757,12 +1757,12 @@
         "best camera rentals madhapur"
       ],
       "total_volume": 1400,
-      "primary_intent": "informational",
+      "primary_intent": "commercial",
       "content_types": [
-        "guide",
-        "comparison_page",
-        "landing_page",
         "blog_post",
+        "guide",
+        "landing_page",
+        "comparison_page",
         "category_page"
       ],
       "priority": 275.3,
@@ -1840,8 +1840,8 @@
       "primary_intent": "informational",
       "content_types": [
         "guide",
-        "faq_page",
-        "blog_post"
+        "blog_post",
+        "faq_page"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1900,10 +1900,10 @@
       "total_volume": 3890,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 81.3,
       "status": "planned"
@@ -1955,10 +1955,10 @@
       "total_volume": 2250,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 81.3,
@@ -2009,12 +2009,12 @@
         "best party rental madhapur"
       ],
       "total_volume": 700,
-      "primary_intent": "informational",
+      "primary_intent": "commercial",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 81.3,
       "status": "planned"
@@ -2088,10 +2088,10 @@
       "total_volume": 2850,
       "primary_intent": "informational",
       "content_types": [
+        "blog_post",
         "guide",
         "category_page",
-        "landing_page",
-        "blog_post"
+        "landing_page"
       ],
       "priority": 65.0,
       "status": "planned"
@@ -2139,10 +2139,10 @@
       "total_volume": 2050,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 65.0,
@@ -2307,10 +2307,10 @@
       "total_volume": 5800,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "local_page",
-        "landing_page",
         "blog_post",
+        "local_page",
+        "guide",
+        "landing_page",
         "category_page"
       ],
       "priority": 63.1,
