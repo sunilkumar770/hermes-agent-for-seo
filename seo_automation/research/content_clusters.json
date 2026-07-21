@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:28:24.042695",
+  "generated_at": "2026-07-21T12:54:48.826582",
   "total_clusters": 35,
   "clusters": [
     {
@@ -290,8 +290,8 @@
       "total_volume": 28750,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -571,11 +571,11 @@
       "total_volume": 15200,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -717,8 +717,8 @@
       "total_volume": 13100,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -815,9 +815,9 @@
       "total_volume": 5200,
       "primary_intent": "commercial",
       "content_types": [
-        "faq_page",
-        "landing_page",
         "guide",
+        "landing_page",
+        "faq_page",
         "category_page",
         "blog_post"
       ],
@@ -894,10 +894,10 @@
       "total_volume": 3600,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "comparison_page",
+        "landing_page",
         "category_page",
+        "comparison_page",
         "blog_post"
       ],
       "priority": 732.3,
@@ -943,8 +943,8 @@
       "total_volume": 2400,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -975,8 +975,8 @@
       "primary_intent": "informational",
       "content_types": [
         "faq_page",
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 732.3,
       "status": "planned"
@@ -1126,8 +1126,8 @@
       "total_volume": 19600,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -1242,11 +1242,11 @@
       "total_volume": 6100,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1291,9 +1291,9 @@
       "total_volume": 2300,
       "primary_intent": "commercial",
       "content_types": [
-        "faq_page",
-        "landing_page",
         "guide",
+        "landing_page",
+        "faq_page",
         "category_page",
         "blog_post"
       ],
@@ -1330,10 +1330,10 @@
       "total_volume": 1400,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "comparison_page",
+        "landing_page",
         "category_page",
+        "comparison_page",
         "blog_post"
       ],
       "priority": 329.0,
@@ -1361,8 +1361,8 @@
       "total_volume": 1200,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1390,8 +1390,8 @@
       "total_volume": 900,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -1414,8 +1414,8 @@
       "primary_intent": "informational",
       "content_types": [
         "faq_page",
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 329.0,
       "status": "planned"
@@ -1559,8 +1559,8 @@
       "total_volume": 14790,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -1671,11 +1671,11 @@
       "total_volume": 5900,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1720,9 +1720,9 @@
       "total_volume": 2300,
       "primary_intent": "commercial",
       "content_types": [
-        "faq_page",
-        "landing_page",
         "guide",
+        "landing_page",
+        "faq_page",
         "category_page",
         "blog_post"
       ],
@@ -1759,10 +1759,10 @@
       "total_volume": 1400,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "comparison_page",
+        "landing_page",
         "category_page",
+        "comparison_page",
         "blog_post"
       ],
       "priority": 275.3,
@@ -1790,8 +1790,8 @@
       "total_volume": 1200,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1818,8 +1818,8 @@
       "total_volume": 600,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1840,8 +1840,8 @@
       "primary_intent": "informational",
       "content_types": [
         "faq_page",
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 275.3,
       "status": "planned"
@@ -1900,8 +1900,8 @@
       "total_volume": 3890,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -1955,11 +1955,11 @@
       "total_volume": 2250,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 81.3,
       "status": "planned"
@@ -2011,8 +2011,8 @@
       "total_volume": 700,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -2035,8 +2035,8 @@
       "total_volume": 600,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 81.3,
       "status": "planned"
@@ -2088,8 +2088,8 @@
       "total_volume": 2850,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "blog_post",
+        "landing_page",
         "category_page",
         "guide"
       ],
@@ -2139,11 +2139,11 @@
       "total_volume": 2050,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 65.0,
       "status": "planned"
@@ -2190,8 +2190,8 @@
       "total_volume": 600,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 65.0,
       "status": "planned"
@@ -2307,11 +2307,11 @@
       "total_volume": 5800,
       "primary_intent": "informational",
       "content_types": [
-        "landing_page",
         "guide",
-        "local_page",
+        "landing_page",
         "category_page",
-        "blog_post"
+        "blog_post",
+        "local_page"
       ],
       "priority": 63.1,
       "status": "planned"
@@ -2358,8 +2358,8 @@
       "total_volume": 300,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 6.4,
       "status": "planned"
@@ -2379,8 +2379,8 @@
       "total_volume": 250,
       "primary_intent": "informational",
       "content_types": [
-        "guide",
-        "blog_post"
+        "blog_post",
+        "guide"
       ],
       "priority": 6.4,
       "status": "planned"

@@ -1,6 +1,6 @@
 # GoRentals Keyword Research Report
 
-**Generated:** 2026-07-21 12:28
+**Generated:** 2026-07-21 12:54
 **Total Keywords Analyzed:** 1779
 **Semantic Clusters:** 13
 **High Priority Keywords (Score ≥ 70):** 1

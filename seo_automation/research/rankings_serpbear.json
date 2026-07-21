@@ -1,31 +1,22 @@
 {
   "source": "serpbear",
-  "checked_at": "2026-07-21T12:28:24.273831",
+  "checked_at": "2026-07-21T12:54:49.159349",
   "rankings": {
     "car rentals hyderabad": {
       "keyword": "car rentals hyderabad",
-      "position": 95,
+      "position": 10,
       "url": "https://gorentals.com/car-rentals-hyderabad",
       "source": "serpbear",
-      "checked_at": "2026-07-21T12:28:24.251753",
+      "checked_at": "2026-07-21T12:54:49.124791",
       "search_volume": 0,
       "difficulty": 0
     },
     "bike rentals hyderabad": {
       "keyword": "bike rentals hyderabad",
-      "position": 21,
+      "position": 5,
       "url": "https://gorentals.com/bike-rentals-hyderabad",
       "source": "serpbear",
-      "checked_at": "2026-07-21T12:28:24.251790",
-      "search_volume": 0,
-      "difficulty": 0
-    },
-    "camera rentals hyderabad": {
-      "keyword": "camera rentals hyderabad",
-      "position": 3,
-      "url": "https://gorentals.com/camera-rentals-hyderabad",
-      "source": "serpbear",
-      "checked_at": "2026-07-21T12:28:24.251810",
+      "checked_at": "2026-07-21T12:54:49.124846",
       "search_volume": 0,
       "difficulty": 0
     }
