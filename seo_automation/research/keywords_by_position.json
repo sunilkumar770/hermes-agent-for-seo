@@ -1,16 +1,24 @@
 {
-  "generated_at": "2026-07-21T12:54:49.187303",
+  "generated_at": "2026-07-21T12:54:56.796697",
   "by_position": {
-    "page1": [
+    "page3_5": [
       {
         "keyword": "car rentals hyderabad",
-        "position": 10,
+        "position": 23,
         "priority": "high",
         "source": "serpbear"
       },
       {
         "keyword": "bike rentals hyderabad",
-        "position": 5,
+        "position": 43,
+        "priority": "high",
+        "source": "serpbear"
+      }
+    ],
+    "page1": [
+      {
+        "keyword": "camera rentals hyderabad",
+        "position": 8,
         "priority": "high",
         "source": "serpbear"
       }

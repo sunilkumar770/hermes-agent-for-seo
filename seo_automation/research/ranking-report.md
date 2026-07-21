@@ -1,8 +1,8 @@
 # GoRentals Keyword Ranking Report
 
 **Generated:** 2026-07-21 12:54
-**Keywords Tracked:** 2
-**Keywords Ranking:** 2 (100.0%)
+**Keywords Tracked:** 3
+**Keywords Ranking:** 3 (100.0%)
 **Sources Checked:** serpbear, serpapi, gsc, manual
 
 ---
@@ -12,9 +12,9 @@
 | Position Range | Keywords | Percentage |
 |----------------|----------|------------|
 | 1-3 (Top 3) | 0 | 0.0% |
-| 4-10 (Page 1) | 2 | 100.0% |
+| 4-10 (Page 1) | 1 | 33.3% |
 | 11-20 (Page 2) | 0 | 0.0% |
-| 21-50 (Pages 3-5) | 0 | 0.0% |
+| 21-50 (Pages 3-5) | 2 | 66.7% |
 | 51-100 | 0 | 0.0% |
 | 100+ | 0 | 0.0% |
 | Not Ranking | 0 | 0.0% |
@@ -23,23 +23,22 @@
 
 ## Summary of Changes
 
-- **📈 Gains (>3 positions):** 2
-- **📉 Drops (>5 positions):** 0
-- **🆕 New Rankings:** 0
-- **💀 Lost Rankings:** 1
-- **🚨 Critical Alerts:** 0
+- **📈 Gains (>3 positions):** 0
+- **📉 Drops (>5 positions):** 2
+- **🆕 New Rankings:** 1
+- **💀 Lost Rankings:** 0
+- **🚨 Critical Alerts:** 2
 - **⚠️ Warnings:** 0
 
 ---
 
 ## Top Gains (Improvement >3 positions)
 
-- **car rentals hyderabad**: 95 → 10 (+85) [Priority: high]
-- **bike rentals hyderabad**: 21 → 5 (+16) [Priority: high]
 
 ## Critical Drops (Drop >10 positions)
 
-No critical drops detected.
+- **bike rentals hyderabad**: 5 → 43 (-38) [Priority: high]
+- **car rentals hyderabad**: 10 → 23 (-13) [Priority: high]
 
 ## Warning Drops (Drop 5-10 positions)
 
@@ -47,14 +46,15 @@ No warning drops detected.
 
 ## New Rankings (Page 1)
 
-No new page 1 rankings.
+- **camera rentals hyderabad**: Position 8 (Source: serpbear) [Priority: high]
 
 ## All New Rankings
 
+- **camera rentals hyderabad**: Position 8 (Page 1) [Priority: high]
 
 ## Lost Rankings
 
-- **camera rentals hyderabad**: Was position 3 (Source: serpbear) [Priority: medium]
+No lost rankings.
 
 
 ---

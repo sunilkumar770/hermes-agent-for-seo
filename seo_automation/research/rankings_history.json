@@ -34,5 +34,25 @@
         "source": "serpbear"
       }
     }
+  },
+  {
+    "date": "2026-07-21",
+    "timestamp": "2026-07-21T12:54:56.757738",
+    "total_tracked": 3,
+    "total_ranked": 3,
+    "rankings": {
+      "car rentals hyderabad": {
+        "position": 23,
+        "source": "serpbear"
+      },
+      "bike rentals hyderabad": {
+        "position": 43,
+        "source": "serpbear"
+      },
+      "camera rentals hyderabad": {
+        "position": 8,
+        "source": "serpbear"
+      }
+    }
   }
 ]

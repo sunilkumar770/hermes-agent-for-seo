@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:54:48.817298",
+  "generated_at": "2026-07-21T12:54:56.575500",
   "total_topics": 10,
   "topical_map": {
     "car_rentals": {
@@ -293,10 +293,10 @@
           "total_volume": 28750,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -570,11 +570,11 @@
           "total_volume": 15200,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -712,10 +712,10 @@
           "total_volume": 13100,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -806,9 +806,9 @@
           "total_volume": 5200,
           "primary_intent": "commercial",
           "content_types": [
+            "faq_page",
             "guide",
             "landing_page",
-            "faq_page",
             "category_page",
             "blog_post"
           ]
@@ -926,8 +926,8 @@
           "total_volume": 2400,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -953,20 +953,20 @@
           "total_volume": 750,
           "primary_intent": "informational",
           "content_types": [
+            "guide",
             "faq_page",
-            "blog_post",
-            "guide"
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
+        "local_page",
+        "faq_page",
         "guide",
         "landing_page",
-        "faq_page",
         "category_page",
         "comparison_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 732.3
     },
@@ -1118,10 +1118,10 @@
           "total_volume": 19600,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -1230,11 +1230,11 @@
           "total_volume": 6100,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -1275,9 +1275,9 @@
           "total_volume": 2300,
           "primary_intent": "commercial",
           "content_types": [
+            "faq_page",
             "guide",
             "landing_page",
-            "faq_page",
             "category_page",
             "blog_post"
           ]
@@ -1308,7 +1308,7 @@
           ],
           "count": 20,
           "total_volume": 1400,
-          "primary_intent": "informational",
+          "primary_intent": "commercial",
           "content_types": [
             "guide",
             "landing_page",
@@ -1337,8 +1337,8 @@
           "total_volume": 1200,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -1362,10 +1362,10 @@
           "total_volume": 900,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -1381,20 +1381,20 @@
           "total_volume": 250,
           "primary_intent": "informational",
           "content_types": [
+            "guide",
             "faq_page",
-            "blog_post",
-            "guide"
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
+        "local_page",
+        "faq_page",
         "guide",
         "landing_page",
-        "faq_page",
         "category_page",
         "comparison_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 329.0
     },
@@ -1540,10 +1540,10 @@
           "total_volume": 14790,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -1648,11 +1648,11 @@
           "total_volume": 5900,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -1693,9 +1693,9 @@
           "total_volume": 2300,
           "primary_intent": "commercial",
           "content_types": [
+            "faq_page",
             "guide",
             "landing_page",
-            "faq_page",
             "category_page",
             "blog_post"
           ]
@@ -1726,7 +1726,7 @@
           ],
           "count": 20,
           "total_volume": 1400,
-          "primary_intent": "informational",
+          "primary_intent": "commercial",
           "content_types": [
             "guide",
             "landing_page",
@@ -1755,8 +1755,8 @@
           "total_volume": 1200,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -1779,8 +1779,8 @@
           "total_volume": 600,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -1796,20 +1796,20 @@
           "total_volume": 250,
           "primary_intent": "informational",
           "content_types": [
+            "guide",
             "faq_page",
-            "blog_post",
-            "guide"
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
+        "local_page",
+        "faq_page",
         "guide",
         "landing_page",
-        "faq_page",
         "category_page",
         "comparison_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 275.3
     },
@@ -1870,10 +1870,10 @@
           "total_volume": 3890,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -1921,11 +1921,11 @@
           "total_volume": 2250,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -1967,12 +1967,12 @@
           ],
           "count": 10,
           "total_volume": 700,
-          "primary_intent": "informational",
+          "primary_intent": "commercial",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -1989,17 +1989,17 @@
           "total_volume": 600,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
+        "local_page",
         "guide",
         "landing_page",
         "category_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 81.3
     },
@@ -2053,10 +2053,10 @@
           "total_volume": 2850,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         },
         {
@@ -2100,11 +2100,11 @@
           "total_volume": 2050,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -2143,8 +2143,8 @@
           "total_volume": 600,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -2166,11 +2166,11 @@
         }
       ],
       "content_types_needed": [
+        "local_page",
         "guide",
         "landing_page",
         "category_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 65.0
     },
@@ -2267,11 +2267,11 @@
           "total_volume": 5800,
           "primary_intent": "informational",
           "content_types": [
+            "local_page",
             "guide",
             "landing_page",
             "category_page",
-            "blog_post",
-            "local_page"
+            "blog_post"
           ]
         },
         {
@@ -2298,11 +2298,11 @@
         }
       ],
       "content_types_needed": [
+        "local_page",
         "guide",
         "landing_page",
         "category_page",
-        "blog_post",
-        "local_page"
+        "blog_post"
       ],
       "priority": 63.1
     },
@@ -2332,18 +2332,18 @@
           "total_volume": 970,
           "primary_intent": "commercial",
           "content_types": [
-            "blog_post",
+            "guide",
             "landing_page",
             "category_page",
-            "guide"
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
-        "blog_post",
+        "guide",
         "landing_page",
         "category_page",
-        "guide"
+        "blog_post"
       ],
       "priority": 10.5
     },
@@ -2377,8 +2377,8 @@
           "total_volume": 300,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -2394,8 +2394,8 @@
           "total_volume": 250,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         },
         {
@@ -2410,14 +2410,14 @@
           "total_volume": 200,
           "primary_intent": "informational",
           "content_types": [
-            "blog_post",
-            "guide"
+            "guide",
+            "blog_post"
           ]
         }
       ],
       "content_types_needed": [
-        "blog_post",
-        "guide"
+        "guide",
+        "blog_post"
       ],
       "priority": 6.4
     }
