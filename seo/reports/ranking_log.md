@@ -379,3 +379,17 @@ This file logs daily rankings reconciled with Google Search Console data.
 | cameras | camera rental shop | 7.8* | — | 7.8 | 8 | 110 | 7.3% | Using GSC position (SerpBear scraper not configured) |
 | local | peer to peer rental platform | 4.2* | — | 4.2 | 30 | 400 | 7.5% | Using GSC position (SerpBear scraper not configured) |
 | local | rental store near me | 1.8* | — | 1.8 | 150 | 2000 | 7.5% | Using GSC position (SerpBear scraper not configured) |
+
+## Scan Date: 2026-07-21 10:23:12
+
+| Cluster | Keyword | GSC Avg Pos | Prev GSC Pos | Clicks | Impressions | CTR | Note |
+|---------|---------|-------------|--------------|--------|-------------|-----|------|
+| cars | local car rentals | 3.4 | — | 25 | 250 | 10.0% | Using GSC average position (SerpBear unavailable) |
+| cars | rent a car near me | 5.2 | — | 12 | 180 | 6.7% | Using GSC average position (SerpBear unavailable) |
+| cars | self drive car rental | 8.1 | — | 5 | 120 | 4.2% | Using GSC average position (SerpBear unavailable) |
+| bikes | local bike rentals | 2.1 | — | 40 | 300 | 13.3% | Using GSC average position (SerpBear unavailable) |
+| bikes | hire a bike near me | 4.5 | — | 18 | 220 | 8.2% | Using GSC average position (SerpBear unavailable) |
+| cameras | rent professional camera | 12.4 | — | 3 | 90 | 3.3% | Using GSC average position (SerpBear unavailable) |
+| cameras | camera rental shop | 7.8 | — | 8 | 110 | 7.3% | Using GSC average position (SerpBear unavailable) |
+| local | peer to peer rental platform | 4.2 | — | 30 | 400 | 7.5% | Using GSC average position (SerpBear unavailable) |
+| local | rental store near me | 1.8 | — | 150 | 2000 | 7.5% | Using GSC average position (SerpBear unavailable) |
