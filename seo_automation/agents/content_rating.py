@@ -456,7 +456,7 @@ class ContentRatingAgent(BaseAgent):
         
         # Heading structure
         headings = re.findall(r'^#{2,4}\s+(.+)$', content, re.MULTILINE)
-        h2_count = len([h for h in headings if content.split('\n')[content.split('\n').index(f'## {h}')].startswith('## ')] if f'## {h}' in content else False)
+        h2_count = len([h for h in headings if f'## {h}' in content])
         h3_count = len(re.findall(r'^###\s+', content, re.MULTILINE))
         
         structure_score = min(100, 40 + h2_count * 10 + h3_count * 5)

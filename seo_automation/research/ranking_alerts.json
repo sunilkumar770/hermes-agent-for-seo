@@ -1,56 +1,57 @@
 {
-  "generated_at": "2026-07-21T12:54:56.773216",
+  "generated_at": "2026-07-21T12:56:56.182871",
   "alerts": [
     {
       "type": "critical_drop",
       "severity": "critical",
-      "keyword": "bike rentals hyderabad",
-      "message": "CRITICAL: 'bike rentals hyderabad' dropped from position 5 to 43 (-38 positions)",
-      "data": {
-        "keyword": "bike rentals hyderabad",
-        "previous_position": 5,
-        "current_position": 43,
-        "change": -38,
-        "source": "serpbear",
-        "priority": "high",
-        "severity": "critical"
-      },
-      "timestamp": "2026-07-21T12:54:56.764899"
-    },
-    {
-      "type": "critical_drop",
-      "severity": "critical",
-      "keyword": "car rentals hyderabad",
-      "message": "CRITICAL: 'car rentals hyderabad' dropped from position 10 to 23 (-13 positions)",
-      "data": {
-        "keyword": "car rentals hyderabad",
-        "previous_position": 10,
-        "current_position": 23,
-        "change": -13,
-        "source": "serpbear",
-        "priority": "high",
-        "severity": "critical"
-      },
-      "timestamp": "2026-07-21T12:54:56.764927"
-    },
-    {
-      "type": "new_top_page",
-      "severity": "info",
       "keyword": "camera rentals hyderabad",
-      "message": "NEW RANKING: 'camera rentals hyderabad' now ranking at position 8 (Page 1!)",
+      "message": "CRITICAL: 'camera rentals hyderabad' dropped from position 8 to 83 (-75 positions)",
       "data": {
         "keyword": "camera rentals hyderabad",
-        "current_position": 8,
+        "previous_position": 8,
+        "current_position": 83,
+        "change": -75,
         "source": "serpbear",
         "priority": "high",
-        "top_page": true
+        "severity": "critical"
       },
-      "timestamp": "2026-07-21T12:54:56.764936"
+      "timestamp": "2026-07-21T12:56:56.171401"
+    },
+    {
+      "type": "warning_drop",
+      "severity": "warning",
+      "keyword": "car rentals hyderabad",
+      "message": "WARNING: 'car rentals hyderabad' dropped from position 23 to 30 (-7 positions)",
+      "data": {
+        "keyword": "car rentals hyderabad",
+        "previous_position": 23,
+        "current_position": 30,
+        "change": -7,
+        "source": "serpbear",
+        "priority": "high",
+        "severity": "warning"
+      },
+      "timestamp": "2026-07-21T12:56:56.171431"
+    },
+    {
+      "type": "significant_gain",
+      "severity": "info",
+      "keyword": "bike rentals hyderabad",
+      "message": "GAIN: 'bike rentals hyderabad' improved from position 43 to 27 (+16)",
+      "data": {
+        "keyword": "bike rentals hyderabad",
+        "previous_position": 43,
+        "current_position": 27,
+        "change": 16,
+        "source": "serpbear",
+        "priority": "high"
+      },
+      "timestamp": "2026-07-21T12:56:56.171443"
     }
   ],
   "summary": {
-    "critical": 2,
-    "warning": 0,
+    "critical": 1,
+    "warning": 1,
     "info": 1
   }
 }

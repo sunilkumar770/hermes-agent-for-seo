@@ -1,60 +1,15 @@
 # Deployment Report
 
 **Deployed:** 2026-07-21 12:54
-**Commit:** eb1f3585
-**Message:** eb1f3585
+**Commit:** ff666c10
+**Message:** ff666c10
 
 ---
 
-## Files Changed (47)
+## Files Changed (2)
 
-- content\landing-pages\local-pages-spec.json
-- content\metadata\author-templates.json
-- content\metadata\company-info.json
-- content\metadata\internal-links.json
-- content\metadata\priority-internal-links.json
-- content\metadata\trust-signals.json
-- content\schema\local-business-schemas.json
 - deployment-log.json
 - deployment-report.md
-- research\citation-audit.json
-- research\competitor-analysis.json
-- research\content-calendar.md
-- research\content-gaps.json
-- research\content_calendar.json
-- research\content_clusters.json
-- research\content_gaps.json
-- research\eeat-audit.json
-- research\executed-refreshes.json
-- research\gbp-optimization.json
-- research\keyword-gaps.json
-- research\keyword_clusters.json
-- research\keywords.json
-- research\keywords_by_position.json
-- research\nap-consistency.json
-- research\performance-anomalies.json
-- research\performance-comparison.json
-- research\performance-metrics.json
-- research\performance-opportunities.json
-- research\priority_keywords.json
-- research\production_priorities.json
-- research\ranking-report.md
-- research\ranking_alerts.json
-- research\ranking_changes.json
-- research\rankings_current.json
-- research\rankings_gsc.json
-- research\rankings_history.json
-- research\rankings_manual.json
-- research\rankings_previous.json
-- research\rankings_serpapi.json
-- research\rankings_serpbear.json
-- research\refresh-plan.json
-- research\review-management-plan.json
-- research\serp_analysis_data.json
-- research\stale-content.json
-- research\technical-audit.json
-- research\technical-fixes.json
-- research\topical_map.json
 
 ---
 
@@ -62,34 +17,32 @@
 
 - **Valid:** ✅
 - **Errors:** 0
-- **Warnings:** 9
-- **Files Checked:** 47
+- **Warnings:** 7
+- **Files Checked:** 2
 
 
 ### Warnings
 - C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Missing frontmatter
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Missing frontmatter
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 16 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 17 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 18 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 19 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 20 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 21 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\ranking-report.md: Missing frontmatter
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 72 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 73 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 74 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 75 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 76 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 77 exceeds 120 chars
 
 ---
 
 ## Git Operations
 
 - **Staged:** ✅
-- **Committed:** ✅ (eb1f3585)
+- **Committed:** ✅ (ff666c10)
 - **Pushed:** ⏭️ Skipped
 
 ---
 
 ## Pull Request
 
-- **Title:** chore(seo): update 47 files (fix(metadata), fix(schema), chore(seo))
+- **Title:** chore(seo): update 2 file (chore(seo))
 - **Branch:** seo-automation
 - **URL:** https://github.com/gorentals/seo-content/pull/new/seo-automation
 

@@ -1,36 +1,37 @@
 {
-  "generated_at": "2026-07-21T12:54:56.769658",
+  "generated_at": "2026-07-21T12:56:56.177173",
   "changes": {
-    "gains": [],
-    "drops": [
+    "gains": [
       {
         "keyword": "bike rentals hyderabad",
-        "previous_position": 5,
-        "current_position": 43,
-        "change": -38,
+        "previous_position": 43,
+        "current_position": 27,
+        "change": 16,
+        "source": "serpbear",
+        "priority": "high"
+      }
+    ],
+    "drops": [
+      {
+        "keyword": "camera rentals hyderabad",
+        "previous_position": 8,
+        "current_position": 83,
+        "change": -75,
         "source": "serpbear",
         "priority": "high",
         "severity": "critical"
       },
       {
         "keyword": "car rentals hyderabad",
-        "previous_position": 10,
-        "current_position": 23,
-        "change": -13,
+        "previous_position": 23,
+        "current_position": 30,
+        "change": -7,
         "source": "serpbear",
         "priority": "high",
-        "severity": "critical"
+        "severity": "warning"
       }
     ],
-    "new_rankings": [
-      {
-        "keyword": "camera rentals hyderabad",
-        "current_position": 8,
-        "source": "serpbear",
-        "priority": "high",
-        "top_page": true
-      }
-    ],
+    "new_rankings": [],
     "lost_rankings": [],
     "stable": []
   }
