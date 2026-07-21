@@ -1,5 +1,5 @@
 # Weekly SEO Optimizations & Playbook — GoRentls
-*Generated: 2026-07-20 21:47:34 | Orchestrated Multi-Agent SEO Pipeline*
+*Generated: 2026-07-21 10:34:19 | Orchestrated Multi-Agent SEO Pipeline*
 
 ---
 
@@ -14,7 +14,9 @@
 ## 📋 Technical Audit Issues
 | Page Path | Word Count | Schema Structured Data | Issues & Warnings |
 |-----------|------------|------------------------|-------------------|
-| None | — | — | ✅ **No critical technical audits flagged** |
+| `/` | 507 | ❌ No | Title length (66 chars) should be between 30 and 60 chars (Title: 'GoRentls India - Rent Cars, Bikes... |
+| `/rentals` | 75 | ❌ No | Description length (195 chars) should be between 70 and 160 chars, Low word count (75 words). Target... |
+| `/about` | 446 | ❌ No | No schema/JSON-LD structured data detected, Low internal link count (0 internal links found)... |
 
 
 ---
