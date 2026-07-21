@@ -1,15 +1,60 @@
 # Deployment Report
 
 **Deployed:** 2026-07-21 12:54
-**Commit:** 2d9737db
-**Message:** 2d9737db
+**Commit:** eb1f3585
+**Message:** eb1f3585
 
 ---
 
-## Files Changed (2)
+## Files Changed (47)
 
+- content\landing-pages\local-pages-spec.json
+- content\metadata\author-templates.json
+- content\metadata\company-info.json
+- content\metadata\internal-links.json
+- content\metadata\priority-internal-links.json
+- content\metadata\trust-signals.json
+- content\schema\local-business-schemas.json
 - deployment-log.json
 - deployment-report.md
+- research\citation-audit.json
+- research\competitor-analysis.json
+- research\content-calendar.md
+- research\content-gaps.json
+- research\content_calendar.json
+- research\content_clusters.json
+- research\content_gaps.json
+- research\eeat-audit.json
+- research\executed-refreshes.json
+- research\gbp-optimization.json
+- research\keyword-gaps.json
+- research\keyword_clusters.json
+- research\keywords.json
+- research\keywords_by_position.json
+- research\nap-consistency.json
+- research\performance-anomalies.json
+- research\performance-comparison.json
+- research\performance-metrics.json
+- research\performance-opportunities.json
+- research\priority_keywords.json
+- research\production_priorities.json
+- research\ranking-report.md
+- research\ranking_alerts.json
+- research\ranking_changes.json
+- research\rankings_current.json
+- research\rankings_gsc.json
+- research\rankings_history.json
+- research\rankings_manual.json
+- research\rankings_previous.json
+- research\rankings_serpapi.json
+- research\rankings_serpbear.json
+- research\refresh-plan.json
+- research\review-management-plan.json
+- research\serp_analysis_data.json
+- research\stale-content.json
+- research\technical-audit.json
+- research\technical-fixes.json
+- research\topical_map.json
 
 ---
 
@@ -17,56 +62,34 @@
 
 - **Valid:** ✅
 - **Errors:** 0
-- **Warnings:** 31
-- **Files Checked:** 2
+- **Warnings:** 9
+- **Files Checked:** 47
 
 
 ### Warnings
 - C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Missing frontmatter
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 79 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 80 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 82 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 84 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 85 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 86 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 87 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 88 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 89 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 90 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 91 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 92 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 93 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 94 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 97 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 98 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 99 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 100 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 101 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 102 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 103 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 104 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 105 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 106 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 107 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 108 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 109 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 111 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 115 exceeds 120 chars
-- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\deployment-report.md: Line 116 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Missing frontmatter
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 16 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 17 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 18 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 19 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 20 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\content-calendar.md: Line 21 exceeds 120 chars
+- C:\Users\sunil\OneDrive\Desktop\hermes agent for SEO\seo_automation\research\ranking-report.md: Missing frontmatter
 
 ---
 
 ## Git Operations
 
 - **Staged:** ✅
-- **Committed:** ✅ (2d9737db)
+- **Committed:** ✅ (eb1f3585)
 - **Pushed:** ⏭️ Skipped
 
 ---
 
 ## Pull Request
 
-- **Title:** chore(seo): update 2 file (chore(seo))
+- **Title:** chore(seo): update 47 files (fix(metadata), fix(schema), chore(seo))
 - **Branch:** seo-automation
 - **URL:** https://github.com/gorentals/seo-content/pull/new/seo-automation
 
