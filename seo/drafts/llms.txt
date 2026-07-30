@@ -22,4 +22,4 @@ GoRentls is a premium rental marketplace offering local self-drive car rentals, 
 - Developer & API details: https://gorentls.com/api/docs
 
 ---
-Generated: 2026-07-21T10:34:19.231567
+Generated: 2026-07-30T21:15:33.442896
