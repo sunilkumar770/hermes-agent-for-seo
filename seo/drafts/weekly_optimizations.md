@@ -1,5 +1,5 @@
 # Weekly SEO Optimizations & Playbook — GoRentls
-*Generated: 2026-08-22 09:12:47 | Orchestrated Multi-Agent SEO Pipeline*
+*Generated: 2026-08-23 11:12:20 | Orchestrated Multi-Agent SEO Pipeline*
 
 ---
 
@@ -14,7 +14,9 @@
 ## 📋 Technical Audit Issues
 | Page Path | Word Count | Schema Structured Data | Issues & Warnings |
 |-----------|------------|------------------------|-------------------|
-| None | — | — | ✅ **No critical technical audits flagged** |
+| `/` | 507 | ❌ No | No schema/JSON-LD structured data detected, Content exceeds 500 words but no FAQ block found, Low in... |
+| `/rentals` | 75 | ❌ No | Description length (195 chars) should be between 70 and 160 chars, Low word count (75 words). Target... |
+| `/about` | 447 | ❌ No | No schema/JSON-LD structured data detected, Low internal link count (0 internal links found)... |
 
 
 ---
