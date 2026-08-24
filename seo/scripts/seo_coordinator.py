@@ -259,6 +259,17 @@ def push_to_git():
 
 
 def main():
+    # Acquire run lock to prevent concurrent scheduled task executions from race conditions on Git
+    lock_file = SEO_DIR / ".coordinator.lock"
+    global lock_handle
+    try:
+        import msvcrt
+        lock_handle = open(lock_file, "w")
+        msvcrt.locking(lock_handle.fileno(), msvcrt.LK_NBLCK, 1)
+    except Exception:
+        sys.stderr.write("[Coordinator] Another instance of SEO Coordinator is already running. Exiting to prevent Git conflicts.\n")
+        sys.exit(0)
+
     parser = argparse.ArgumentParser(description="GoRentls SEO System Coordinator")
     parser.add_argument("--full", action="store_true", help="Run full scan, crawl, audit, pseo, and evolution cycle")
     parser.add_argument("--no-push", action="store_true", help="Do not commit or push to git after completion")
