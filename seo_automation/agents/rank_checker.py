@@ -561,7 +561,7 @@ class RankCheckerAgent(BaseAgent):
 
 **Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M')}
 **Keywords Tracked:** {total_tracked}
-**Keywords Ranking:** {total_ranked} ({total_ranked/total_tracked*100:.1f}%)
+**Keywords Ranking:** {total_ranked} ({total_ranked/max(1,total_tracked)*100:.1f}%)
 **Sources:** {', '.join(self.sources)}
 **Data Freshness:** Live
 

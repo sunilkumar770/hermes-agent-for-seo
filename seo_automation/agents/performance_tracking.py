@@ -2,6 +2,7 @@
 Performance Tracking Agent - Uses Free Live APIs
 Tracks SEO performance metrics from GSC, PageSpeed, SerpBear
 """
+import asyncio
 import json
 import os
 from datetime import datetime, timedelta
