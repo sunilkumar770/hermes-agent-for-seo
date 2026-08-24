@@ -1,23 +1,54 @@
 {
-  "detected_at": "2026-07-21T12:56:55.651416",
+  "detected_at": "2026-08-24T20:35:37.189823",
   "anomalies": [
     {
       "type": "significant_drop",
-      "metric": "crawl_errors",
-      "change": -40.0,
-      "severity": "high",
-      "description": "crawl_errors dropped 40.0% week-over-week"
+      "metric": "organic_clicks",
+      "change": -100.0,
+      "severity": "critical",
+      "description": "organic_clicks dropped 100.0% week-over-week"
     },
     {
-      "type": "cwv_issue",
-      "metric": "cls",
-      "value": 0.15,
-      "target": 0.1,
-      "pages_affected": [
-        "/rentals/category/",
-        "/blog/"
-      ],
-      "severity": "high"
+      "type": "significant_drop",
+      "metric": "impressions",
+      "change": -100.0,
+      "severity": "critical",
+      "description": "impressions dropped 100.0% week-over-week"
+    },
+    {
+      "type": "significant_drop",
+      "metric": "ctr",
+      "change": -100.0,
+      "severity": "critical",
+      "description": "ctr dropped 100.0% week-over-week"
+    },
+    {
+      "type": "significant_drop",
+      "metric": "average_position",
+      "change": -100.0,
+      "severity": "critical",
+      "description": "average_position dropped 100.0% week-over-week"
+    },
+    {
+      "type": "significant_drop",
+      "metric": "crawl_errors",
+      "change": -100.0,
+      "severity": "critical",
+      "description": "crawl_errors dropped 100.0% week-over-week"
+    },
+    {
+      "type": "ranking_concern",
+      "metric": "top_3_rankings",
+      "current": 0,
+      "threshold": 40,
+      "severity": "medium",
+      "description": "Only 0 keywords in top 3 positions"
+    },
+    {
+      "type": "data_source_warning",
+      "metric": "gsc",
+      "severity": "warning",
+      "description": "GSC API not configured - using fallback data"
     }
   ]
 }

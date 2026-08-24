@@ -416,14 +416,27 @@ class PerformanceTrackingAgent(BaseAgent):
                 pass
         
         # Helper to compare
-        def compare(curr_key, prev_key=None, pct_of_prev=True):
+        def compare(curr_key, prev_key=None):
             prev_key = prev_key or curr_key
             curr_val = current.get(curr_key, 0)
             prev_val = previous.get(prev_key, 0)
             
-            if isinstance(curr_val, dict) and isinstance(prev_val, dict):
-                # For nested dicts like CWV, compare specific fields
-                return {}
+            # Handle nested dicts (like CWV) - skip comparison for now
+            if isinstance(curr_val, dict) or isinstance(prev_val, dict):
+                return {
+                    'current': curr_val,
+                    'previous': prev_val,
+                    'change': 0,
+                    'pct': 0
+                }
+            
+            # Ensure both are numeric
+            try:
+                curr_val = float(curr_val) if curr_val else 0
+                prev_val = float(prev_val) if prev_val else 0
+            except (ValueError, TypeError):
+                curr_val = 0
+                prev_val = 0
             
             if prev_val == 0:
                 pct = 0
@@ -444,8 +457,8 @@ class PerformanceTrackingAgent(BaseAgent):
             'average_position': compare('average_position'),
             'indexed_pages': compare('indexed_pages'),
             'crawl_errors': compare('crawl_errors'),
-            'conversions': compare('conversions', 'conversions'),
-            'conversion_rate': compare('conversion_rate', 'conversions'),
+            'conversions': compare('conversions'),
+            'conversion_rate': compare('conversions'),  # same key, will use conversions total
         }
 
     def _detect_anomalies(self, metrics: Dict, comparison: Dict) -> List[Dict]:
