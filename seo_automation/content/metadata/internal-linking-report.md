@@ -1,6 +1,6 @@
 # Internal Linking Analysis Report
 
-**Generated:** 2026-07-21 12:56
+**Generated:** 2026-08-24 20:31
 **Pages Analyzed:** 8
 **Existing Links:** 0
 **Avg Inbound:** 0.0

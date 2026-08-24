@@ -1,8 +1,8 @@
 # GoRentals Content Quality Report
 
-**Generated:** 2026-07-21 12:56
+**Generated:** 2026-08-24 20:31
 **Total Content Rated:** 48
-**Overall Average Score:** 65.2/100
+**Overall Average Score:** 65.1/100
 
 ---
 
@@ -40,25 +40,25 @@
 | Car Rentals Hyderabad in Hyderabad: Everything You Need to K | 69.2 | needs_improvement |
 | Car Rentals Hyderabad in Hyderabad: Everything You Need to K | 69.2 | needs_improvement |
 | Car Rentals Hyderabad in Hyderabad: Everything You Need to K | 69.2 | needs_improvement |
-| Landing Page: car rentals hyderabad | 69.0 | needs_improvement |
+| Landing Page: car rentals hyderabad | 69.1 | needs_improvement |
 
 ## Bottom 5 Content (Needs Attention)
 
 | Content | Score | Rating | Priority |
 |---------|-------|--------|----------|
 | Rent Furniture in Hyderabad | GoRentls
-description: Looking  | 64.5 | needs_improvement | MEDIUM |
+description: Looking  | 64.4 | needs_improvement | MEDIUM |
 | Rent Projector in Hyderabad | GoRentls
-description: Looking  | 64.5 | needs_improvement | MEDIUM |
+description: Looking  | 64.4 | needs_improvement | MEDIUM |
 | Rent Laptop in Hyderabad | GoRentls
 description: Looking for | 64.2 | needs_improvement | MEDIUM |
 | Weekly SEO Optimizations & Playbook — GoRentls | 62.1 | needs_improvement | MEDIUM |
-| How to Choose the Best Car Rentals Hyderabad in Hyderabad -  | 61.4 | needs_improvement | MEDIUM |
+| How to Choose the Best Car Rentals Hyderabad in Hyderabad -  | 61.3 | needs_improvement | MEDIUM |
 
 ## By Source
 
-- **seo_writer**: 5 items, avg score 66.4
-- **drafts**: 6 items, avg score 67.7
+- **seo_writer**: 5 items, avg score 66.3
+- **drafts**: 6 items, avg score 67.6
 - **seo_drafts**: 37 items, avg score 64.6
 
 ---
@@ -154,7 +154,7 @@ description: Looking for | 64.2 | needs_improvement | MEDIUM |
   - Diversify anchor text for internal links
 
 ### Landing Page: car rentals hyderabad (cluster_car_rentals_general_landing_page)
-- **Score:** 69.0/100 (Needs Improvement)
+- **Score:** 69.1/100 (Needs Improvement)
 - **Target Keyword:** car rentals hyderabad
 - **Type:** landing_page
 - **Word Count:** 435
@@ -220,7 +220,7 @@ description: Looking for | 64.2 | needs_improvement | MEDIUM |
   - Diversify anchor text for internal links
 
 ### Blog Post: car rentals hyderabad (cluster_car_rentals_general_blog_post)
-- **Score:** 65.0/100 (Needs Improvement)
+- **Score:** 64.9/100 (Needs Improvement)
 - **Target Keyword:** car rentals hyderabad
 - **Type:** blog_post
 - **Word Count:** 207
@@ -242,7 +242,7 @@ description: Looking for | 64.2 | needs_improvement | MEDIUM |
   - Diversify anchor text for internal links
 
 ### Category Page: car rentals hyderabad (cluster_car_rentals_general_category_page)
-- **Score:** 65.0/100 (Needs Improvement)
+- **Score:** 64.9/100 (Needs Improvement)
 - **Target Keyword:** car rentals hyderabad
 - **Type:** category_page
 - **Word Count:** 207
@@ -264,7 +264,7 @@ description: Looking for | 64.2 | needs_improvement | MEDIUM |
   - Diversify anchor text for internal links
 
 ### Blog Post: car rentals hyderabad (cluster_car_rentals_local_area_blog_post)
-- **Score:** 65.0/100 (Needs Improvement)
+- **Score:** 64.9/100 (Needs Improvement)
 - **Target Keyword:** car rentals hyderabad
 - **Type:** blog_post
 - **Word Count:** 207
@@ -1131,7 +1131,7 @@ category: bike
 city: hyderabad
 schema: LocalBusiness
  (seo_rent-bike-in-hyderabad)
-- **Score:** 64.5/100 (Needs Improvement)
+- **Score:** 64.4/100 (Needs Improvement)
 - **Target Keyword:** rent
 - **Type:** seo_content
 - **Word Count:** 197
@@ -1159,7 +1159,7 @@ category: camera
 city: hyderabad
 schema: LocalBusiness
  (seo_rent-camera-in-hyderabad)
-- **Score:** 64.5/100 (Needs Improvement)
+- **Score:** 64.4/100 (Needs Improvement)
 - **Target Keyword:** rent
 - **Type:** seo_content
 - **Word Count:** 197
@@ -1187,7 +1187,7 @@ category: car
 city: hyderabad
 schema: LocalBusiness
  (seo_rent-car-in-hyderabad)
-- **Score:** 64.5/100 (Needs Improvement)
+- **Score:** 64.4/100 (Needs Improvement)
 - **Target Keyword:** rent
 - **Type:** seo_content
 - **Word Count:** 197
@@ -1215,7 +1215,7 @@ category: furniture
 city: hyderabad
 schema: LocalBusiness
  (seo_rent-furniture-in-hyderabad)
-- **Score:** 64.5/100 (Needs Improvement)
+- **Score:** 64.4/100 (Needs Improvement)
 - **Target Keyword:** rent
 - **Type:** seo_content
 - **Word Count:** 197
@@ -1243,7 +1243,7 @@ category: projector
 city: hyderabad
 schema: LocalBusiness
  (seo_rent-projector-in-hyderabad)
-- **Score:** 64.5/100 (Needs Improvement)
+- **Score:** 64.4/100 (Needs Improvement)
 - **Target Keyword:** rent
 - **Type:** seo_content
 - **Word Count:** 197
@@ -1297,7 +1297,7 @@ schema: LocalBusiness
 - **Score:** 62.1/100 (Needs Improvement)
 - **Target Keyword:** weekly
 - **Type:** seo_content
-- **Word Count:** 253
+- **Word Count:** 235
 - **Dimensions:**
   - Readability: 75/100
   - Keyword Optimization: 85/100
@@ -1317,7 +1317,7 @@ schema: LocalBusiness
   - Diversify anchor text for internal links
 
 ### How to Choose the Best Car Rentals Hyderabad in Hyderabad - Complete Guide (cluster_car_rentals_general_guide)
-- **Score:** 61.4/100 (Needs Improvement)
+- **Score:** 61.3/100 (Needs Improvement)
 - **Target Keyword:** choose
 - **Type:** blog_post
 - **Word Count:** 412

@@ -1,5 +1,5 @@
 {
-  "rated_at": "2026-07-21T12:56:56.409596",
+  "rated_at": "2026-08-24T20:31:19.567903",
   "total_rated": 48,
   "summary": {
     "total_rated": 48,
@@ -16,15 +16,15 @@
       "internal_linking": 8.0,
       "originality": 87.9
     },
-    "overall_average": 65.2,
+    "overall_average": 65.1,
     "by_source": {
       "seo_writer": {
         "count": 5,
-        "avg_score": 66.4
+        "avg_score": 66.3
       },
       "drafts": {
         "count": 6,
-        "avg_score": 67.7
+        "avg_score": 67.6
       },
       "seo_drafts": {
         "count": 37,
@@ -59,7 +59,7 @@
       {
         "id": "cluster_car_rentals_general_landing_page",
         "title": "Landing Page: car rentals hyderabad",
-        "score": 69.0,
+        "score": 69.1,
         "rating": "needs_improvement"
       }
     ],
@@ -67,13 +67,13 @@
       {
         "id": "seo_rent-furniture-in-hyderabad",
         "title": "Rent Furniture in Hyderabad | GoRentls\ndescription: Looking for furniture rentals in hyderabad? Rent top-quality furnitures from GoRentls at the lowest local rates. Fast verification, 24/7 support.\ncategory: furniture\ncity: hyderabad\nschema: LocalBusiness\n",
-        "score": 64.5,
+        "score": 64.4,
         "rating": "needs_improvement"
       },
       {
         "id": "seo_rent-projector-in-hyderabad",
         "title": "Rent Projector in Hyderabad | GoRentls\ndescription: Looking for projector rentals in hyderabad? Rent top-quality projectors from GoRentls at the lowest local rates. Fast verification, 24/7 support.\ncategory: projector\ncity: hyderabad\nschema: LocalBusiness\n",
-        "score": 64.5,
+        "score": 64.4,
         "rating": "needs_improvement"
       },
       {
@@ -91,7 +91,7 @@
       {
         "id": "cluster_car_rentals_general_guide",
         "title": "How to Choose the Best Car Rentals Hyderabad in Hyderabad - Complete Guide",
-        "score": 61.4,
+        "score": 61.3,
         "rating": "needs_improvement"
       }
     ]
@@ -104,8 +104,8 @@
       "target_keyword": "car rentals hyderabad",
       "content_type": "blog_post",
       "source": "seo_writer",
-      "rated_at": "2026-07-21T12:56:56.287751",
-      "overall_score": 65.0,
+      "rated_at": "2026-08-24T20:31:19.523386",
+      "overall_score": 64.9,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -242,8 +242,8 @@
       "target_keyword": "car rentals hyderabad",
       "content_type": "landing_page",
       "source": "seo_writer",
-      "rated_at": "2026-07-21T12:56:56.294743",
-      "overall_score": 69.0,
+      "rated_at": "2026-08-24T20:31:19.523386",
+      "overall_score": 69.1,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -380,8 +380,8 @@
       "target_keyword": "car rentals hyderabad",
       "content_type": "category_page",
       "source": "seo_writer",
-      "rated_at": "2026-07-21T12:56:56.299786",
-      "overall_score": 65.0,
+      "rated_at": "2026-08-24T20:31:19.523386",
+      "overall_score": 64.9,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -518,7 +518,7 @@
       "target_keyword": "car rentals hyderabad",
       "content_type": "guide",
       "source": "seo_writer",
-      "rated_at": "2026-07-21T12:56:56.305393",
+      "rated_at": "2026-08-24T20:31:19.527743",
       "overall_score": 67.8,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -656,8 +656,8 @@
       "target_keyword": "car rentals hyderabad",
       "content_type": "blog_post",
       "source": "seo_writer",
-      "rated_at": "2026-07-21T12:56:56.308485",
-      "overall_score": 65.0,
+      "rated_at": "2026-08-24T20:31:19.527743",
+      "overall_score": 64.9,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -794,7 +794,7 @@
       "target_keyword": "car",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.311040",
+      "rated_at": "2026-08-24T20:31:19.527743",
       "overall_score": 69.2,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -932,7 +932,7 @@
       "target_keyword": "car",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.313832",
+      "rated_at": "2026-08-24T20:31:19.527743",
       "overall_score": 69.2,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1070,8 +1070,8 @@
       "target_keyword": "choose",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.317365",
-      "overall_score": 61.4,
+      "rated_at": "2026-08-24T20:31:19.527743",
+      "overall_score": 61.3,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -1208,7 +1208,7 @@
       "target_keyword": "car",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.323700",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 67.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1346,7 +1346,7 @@
       "target_keyword": "car",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.325635",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 69.2,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1484,7 +1484,7 @@
       "target_keyword": "car",
       "content_type": "blog_post",
       "source": "drafts",
-      "rated_at": "2026-07-21T12:56:56.328172",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 69.2,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1622,7 +1622,7 @@
       "target_keyword": "weekly",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.332029",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 62.1,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1637,17 +1637,17 @@
       },
       "dimension_details": {
         "readability": {
-          "flesch_reading_ease": 57.1,
+          "flesch_reading_ease": 54.9,
           "avg_sentence_length": 18.1,
-          "avg_syllables_per_word": 1.55,
-          "sentence_count": 14,
-          "word_count": 253
+          "avg_syllables_per_word": 1.58,
+          "sentence_count": 13,
+          "word_count": 235
         },
         "keyword_optimization": {
           "in_title": true,
           "in_first_100_words": true,
           "keyword_count": 1,
-          "keyword_density": 0.4,
+          "keyword_density": 0.43,
           "density_score": 70,
           "in_headings": 0,
           "heading_score": 40,
@@ -1660,13 +1660,13 @@
             "informational": 0,
             "commercial": 3,
             "transactional": 2,
-            "navigational": 0
+            "navigational": 1
           },
           "matched_signals": 0,
-          "total_signals": 5
+          "total_signals": 6
         },
         "content_depth": {
-          "word_count": 253,
+          "word_count": 235,
           "wc_score": 30,
           "h2_count": 5,
           "h3_count": 1,
@@ -1736,14 +1736,14 @@
         },
         "originality": {
           "boilerplate_matches": 0,
-          "unique_trigrams": 219,
-          "total_trigrams": 251,
-          "uniqueness_ratio": 0.873,
+          "unique_trigrams": 193,
+          "total_trigrams": 233,
+          "uniqueness_ratio": 0.828,
           "boilerplate_penalty": 0,
           "uniqueness_bonus": 20
         }
       },
-      "word_count": 253,
+      "word_count": 235,
       "recommendations": [
         "Better match informational - add relevant content elements",
         "Expand content depth - target 1500+ words for comprehensive coverage",
@@ -1761,7 +1761,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.333657",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -1900,7 +1900,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.336190",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2039,7 +2039,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.337968",
+      "rated_at": "2026-08-24T20:31:19.534926",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2178,8 +2178,8 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.339772",
-      "overall_score": 64.5,
+      "rated_at": "2026-08-24T20:31:19.543131",
+      "overall_score": 64.4,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -2317,7 +2317,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.341454",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2456,7 +2456,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.343536",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2595,7 +2595,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.346226",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2734,7 +2734,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.348095",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -2873,7 +2873,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.349973",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3012,8 +3012,8 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.351718",
-      "overall_score": 64.5,
+      "rated_at": "2026-08-24T20:31:19.544303",
+      "overall_score": 64.4,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -3151,7 +3151,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.354367",
+      "rated_at": "2026-08-24T20:31:19.544303",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3290,7 +3290,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.356603",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3429,7 +3429,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.358509",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3568,7 +3568,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.360818",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3707,7 +3707,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.363622",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -3846,8 +3846,8 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.365317",
-      "overall_score": 64.5,
+      "rated_at": "2026-08-24T20:31:19.551498",
+      "overall_score": 64.4,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -3985,7 +3985,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.367114",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4124,7 +4124,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.370024",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4263,7 +4263,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.372085",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4402,7 +4402,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.373882",
+      "rated_at": "2026-08-24T20:31:19.551498",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4541,7 +4541,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.375638",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4680,8 +4680,8 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.377913",
-      "overall_score": 64.5,
+      "rated_at": "2026-08-24T20:31:19.559680",
+      "overall_score": 64.4,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -4819,7 +4819,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.380495",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -4958,7 +4958,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.382216",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5097,7 +5097,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.384011",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5236,7 +5236,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.387098",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5375,7 +5375,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.389032",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5514,7 +5514,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.390878",
+      "rated_at": "2026-08-24T20:31:19.559680",
       "overall_score": 64.2,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5653,7 +5653,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.392812",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5792,7 +5792,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.395304",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -5931,7 +5931,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.397431",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -6070,7 +6070,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.399202",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -6209,7 +6209,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.401277",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -6348,8 +6348,8 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.404567",
-      "overall_score": 64.5,
+      "rated_at": "2026-08-24T20:31:19.567903",
+      "overall_score": 64.4,
       "rating": "needs_improvement",
       "dimension_scores": {
         "readability": 60,
@@ -6487,7 +6487,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.407240",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
@@ -6626,7 +6626,7 @@
       "target_keyword": "rent",
       "content_type": "seo_content",
       "source": "seo_drafts",
-      "rated_at": "2026-07-21T12:56:56.409248",
+      "rated_at": "2026-08-24T20:31:19.567903",
       "overall_score": 64.7,
       "rating": "needs_improvement",
       "dimension_scores": {
