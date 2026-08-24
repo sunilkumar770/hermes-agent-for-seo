@@ -25,7 +25,7 @@ sys.path.append(str(SCRIPT_DIR))
 import obscura_extractor
 
 GORP_SITE_URL = CONFIG.get("GORP_SITE_URL", os.environ.get("GORP_SITE_URL", "https://gorentls.com"))
-AUDIT_PATHS = ["/", "/rentals", "/about"]
+AUDIT_PATHS = ["/", "/search", "/about"]
 
 
 def log_debug(msg: str):

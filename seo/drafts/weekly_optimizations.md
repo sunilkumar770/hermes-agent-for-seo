@@ -1,5 +1,5 @@
 # Weekly SEO Optimizations & Playbook — GoRentls
-*Generated: 2026-08-24 10:22:38 | Orchestrated Multi-Agent SEO Pipeline*
+*Generated: 2026-08-24 13:03:11 | Orchestrated Multi-Agent SEO Pipeline*
 
 ---
 
@@ -14,7 +14,9 @@
 ## 📋 Technical Audit Issues
 | Page Path | Word Count | Schema Structured Data | Issues & Warnings |
 |-----------|------------|------------------------|-------------------|
-| None | — | — | ✅ **No critical technical audits flagged** |
+| `/` | 449 | ❌ No | No schema/JSON-LD structured data detected... |
+| `/search` | 193 | ❌ No | Title length (68 chars) should be between 30 and 60 chars (Title: 'Find a Rental Store Near Me — Car... |
+| `/about` | 406 | ❌ No | No schema/JSON-LD structured data detected... |
 
 
 ---

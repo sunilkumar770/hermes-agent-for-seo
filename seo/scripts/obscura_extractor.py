@@ -34,6 +34,8 @@ def log_debug(msg: str):
 
 def is_obscura_available() -> bool:
     """Check if the Obscura binary exists or is on system PATH."""
+    if os.environ.get("FORCE_STATIC_SCRAPE", "true").lower() == "true":
+        return False
     if Path(OBSCURA_BIN).exists():
         return True
     if shutil.which(OBSCURA_BIN):
@@ -69,7 +71,7 @@ def _run_obscura_command(args: list, timeout: int = 30) -> tuple:
         return False, str(e)
 
 
-def fetch_markdown(url: str, timeout: int = 30, stealth: bool = None) -> str:
+def fetch_markdown(url: str, timeout: int = 15, stealth: bool = None) -> str:
     """
     Fetch a URL and return its content in Markdown format.
     Falls back to requests + BeautifulSoup (converting to simple markdown) on failure.
@@ -104,7 +106,7 @@ def fetch_markdown(url: str, timeout: int = 30, stealth: bool = None) -> str:
         return f"# Fetch Failed: {url}\n\nError: {e}"
 
 
-def fetch_meta(url: str, timeout: int = 30) -> dict:
+def fetch_meta(url: str, timeout: int = 15) -> dict:
     """
     Extract meta tags (<title>, <meta name="description">) using JS eval via Obscura.
     Falls back to static BeautifulSoup meta parsing.
@@ -150,7 +152,7 @@ def fetch_meta(url: str, timeout: int = 30) -> dict:
         return {"title": "", "description": ""}
 
 
-def fetch_links(url: str, timeout: int = 30) -> list:
+def fetch_links(url: str, timeout: int = 15) -> list:
     """Extract all internal and external links from a page."""
     links = []
     if is_obscura_available():
